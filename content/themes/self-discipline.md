@@ -4,8 +4,6 @@ date: 2025-12-06
 draft: false
 ---
 
-# Theme: Self-Discipline
-
 Monkey’s impulsiveness often clashes with Tripitaka’s restraint. These episodes highlight the importance of discipline in the face of chaos.
 
 ---

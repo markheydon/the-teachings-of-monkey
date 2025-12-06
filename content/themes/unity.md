@@ -4,8 +4,6 @@ date: 2025-12-06
 draft: false
 ---
 
-# Theme: Unity
-
 The pilgrims squabble constantly, but their survival depends on cooperation. These episodes highlight the power of unity.
 
 ---
