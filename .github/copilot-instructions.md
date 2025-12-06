@@ -10,6 +10,8 @@ Episode pages must follow a consistent structure and style.
 
 Whenever you add a new episode, update `/content/_index.md` to include a link to the new episode in the episode archive list, in correct order.
 
+**NOTE**: The episode details are to be taken from the original BBC dubbed version of Monkey from around the end of the 1970s and early part of the 1980s and **NOT** from any re-dubbed version that was done in 2004 for the DVD release.
+
 ### Episode Page Template
 
 Each episode file lives in `/content/episodes/` and is named `episode-XX.md`.
