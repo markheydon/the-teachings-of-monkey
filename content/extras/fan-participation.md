@@ -4,8 +4,6 @@ date: 2025-12-06
 draft: false
 ---
 
-# Fan Participation
-
 *The Teachings of Monkey* is an open source experiment — and it thrives on contributions.  
 Fans, scholars, and chaos‑enthusiasts are welcome to join in.
 

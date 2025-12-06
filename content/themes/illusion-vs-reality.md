@@ -4,8 +4,6 @@ date: 2025-12-06
 draft: false
 ---
 
-# Theme: Illusion vs Reality
-
 Demons thrive on trickery, disguises, and false promises. These episodes explore the tension between illusion and truth.
 
 ---

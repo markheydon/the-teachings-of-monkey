@@ -4,9 +4,8 @@ date: 2025-12-06
 draft: false
 ---
 
-# Extras
+Beyond the episode archive, *The Teachings of Monkey* celebrates the camp, chaos, and philosophy of the series.
 
-Beyond the episode archive, *The Teachings of Monkey* celebrates the camp, chaos, and philosophy of the series.  
 Here you’ll find playful features, fan contributions, and thematic explorations.
 
 ## Highlights

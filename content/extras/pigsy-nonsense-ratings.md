@@ -4,8 +4,6 @@ date: 2025-12-06
 draft: false
 ---
 
-# Pigsy Nonsense Ratings Master List
-
 Pigsy’s antics are the heartbeat of *Monkey’s* camp chaos.  
 Here’s the definitive Snort Score index — rating his nonsense across all 52 episodes.
 

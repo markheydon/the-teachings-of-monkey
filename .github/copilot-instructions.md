@@ -8,6 +8,8 @@ This project uses Hugo with Markdown content files.
 
 Episode pages must follow a consistent structure and style.
 
+Whenever you add a new episode, update `/content/_index.md` to include a link to the new episode in the episode archive list, in correct order.
+
 ### Episode Page Template
 
 Each episode file lives in `/content/episodes/` and is named `episode-XX.md`.

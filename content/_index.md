@@ -14,32 +14,35 @@ Each episode ends with a short narrated teaching: a pearl of wisdom distilled fr
 
 ## 📚 Episode Archive
 
-Explore the journey west, one absurd adventure at a time:
+Explore the journey west, one absurdly enlightening adventure at a time:
 
 - [Episode 1: Monkey Goes Wild About Heaven](/episodes/episode-01/)
 - [Episode 2: Monkey Turns Nursemaid](/episodes/episode-02/)
+- [Episode 3: The Great Journey Begins](/episodes/episode-03/)
+- [Episode 4: Monkey Swallows the Moon](/episodes/episode-04/)
+- [Episode 5: The Power of Youth](/episodes/episode-05/)
+- [Episode 6: The White Bone Demon](/episodes/episode-06/)
+- [Episode 7: The Curse of the Golden Headband](/episodes/episode-07/)
 - [Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)
 - [Episode 23: Two Little Blessings](/episodes/episode-23/)
 - … full list of 52 episodes coming soon
-
 ---
 
 ## ✨ Themes of Wisdom
 
 Recurring lessons echo across the series:
 
-- **Self‑discipline** — Monkey’s impulsiveness vs Tripitaka’s restraint  
-- **Compassion** — Seeing beyond appearances, even when demons deceive  
-- **Unity** — The pilgrims’ squabbles contrasted with cooperation  
-- **Illusion vs Reality** — Discernment in a world of trickery  
-- **Detachment** — Pigsy’s lust and gluttony as warnings  
+- [**Self‑discipline**](/themes/self-discipline/) — Monkey’s impulsiveness vs Tripitaka’s restraint.  
+- [**Compassion**](/themes/compassion/) — Seeing beyond appearances, even when demons deceive.  
+- [**Unity**](/themes/unity/) — The pilgrims’ squabbles contrasted with cooperation.  
+- [**Illusion vs Reality**](/themes/illusion-vs-reality/) — Discernment in a world of trickery.  
+- [**Detachment**](/themes/detachment/) — Pigsy’s lust and gluttony as warnings.  
 
 ---
 
 ## 🐷 Pigsy Nonsense Ratings
 
-Because no archive would be complete without measuring Pigsy’s contribution to camp chaos.  
-Each episode is rated on a scale of **1–5 Snorts**.
+Because no archive would be complete without measuring Pigsy’s contribution to camp chaos, each episode is rated on a scale of **1–5 Snorts**.
 
 ---
 
@@ -59,8 +62,10 @@ Beyond the episodes, dive into playful features:
 
 ## 🔮 About This Project
 
-This is an **AI‑generated, open source experiment**.  
-The goal: to reconstruct and catalogue the teachings of *Monkey* with minimal human effort.  
+This is an **AI‑generated, open source experiment**. The amount of human content creation is, at most, around 1%, the rest is all AI.
+
+The goal: to reconstruct and catalogue the teachings of *Monkey* with minimal human effort.
+
 Contributions are welcome — fork the repo, add commentary, or suggest new features.
 
 ---

@@ -29,7 +29,7 @@ Once deployed via GitHub Pages, visit:
 
 ## 🤝 Contributing
 Pull requests welcome! Add commentary, new features, or your own “Monkey‑style” teachings.  
-See [Fan Participation](/extras/fan-participation/) for ideas.
+See [Fan Participation](/extras/fan-participation.md/) for ideas.
 
 ---
 

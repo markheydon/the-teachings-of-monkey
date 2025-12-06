@@ -4,8 +4,6 @@ date: 2025-12-06
 draft: false
 ---
 
-# Pigsy’s Greatest Hits
-
 Pigsy, the gluttonous, lustful, endlessly chaotic pig‑demon, is the beating heart of *Monkey’s* camp nonsense. Here are his top five moments of pure Pigsy mayhem.
 
 ---

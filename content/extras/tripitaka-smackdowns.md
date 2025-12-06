@@ -4,8 +4,6 @@ date: 2025-12-06
 draft: false
 ---
 
-# Tripitaka’s Calmest Smackdowns
-
 Tripitaka, the serene monk, rarely raises his voice. But when he does, it’s devastating. Here are his most memorable moments of calm authority.
 
 ---

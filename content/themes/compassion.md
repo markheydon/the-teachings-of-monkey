@@ -4,8 +4,6 @@ date: 2025-12-06
 draft: false
 ---
 
-# Theme: Compassion
-
 Compassion is the antidote to illusion and deception. These episodes remind us to see beyond appearances.
 
 ---

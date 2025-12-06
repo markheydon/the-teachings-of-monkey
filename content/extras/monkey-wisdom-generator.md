@@ -4,8 +4,6 @@ date: 2025-12-06
 draft: false
 ---
 
-# Monkey’s Wisdom Generator
-
 The narrator’s teachings distilled chaos into moral lessons. Here, AI continues the tradition — generating new pearls of wisdom in the style of *Monkey*.
 
 ---

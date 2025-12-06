@@ -4,8 +4,6 @@ date: 2025-12-06
 draft: false
 ---
 
-# Demon of the Week Hall of Fame
-
 Every week, the pilgrims face a new demon — some terrifying, some ridiculous, all memorable. Here are the standouts who earned a place in the Hall of Fame.
 
 ---
