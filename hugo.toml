@@ -1,5 +1,6 @@
 # General settings
 baseURL = "https://markheydon.github.io/the-teachings-of-monkey/"
+canonifyURLs = true
 languageCode = "en-gb"
 theme = "PaperMod"
 title = "The Teachings of Monkey"
