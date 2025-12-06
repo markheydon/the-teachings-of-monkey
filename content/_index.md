@@ -1,0 +1,67 @@
+---
+title: "The Teachings of Monkey"
+date: 2025-12-06
+draft: false
+---
+
+# The Teachings of Monkey
+
+Welcome to **The Teachings of Monkey** — an open source archive of wisdom, nonsense, and camp from the cult TV series *Monkey* (*Saiyūki*).
+
+Each episode ends with a short narrated teaching: a pearl of wisdom distilled from chaos, demons, pilgrims, and Pigsy’s antics. This site collects those teachings, episode by episode, alongside commentary, fan reflections, and playful extras.
+
+---
+
+## 📚 Episode Archive
+
+Explore the journey west, one absurd adventure at a time:
+
+- [Episode 1: Monkey Goes Wild About Heaven](/episodes/episode-01/)
+- [Episode 2: Monkey Turns Nursemaid](/episodes/episode-02/)
+- [Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)
+- [Episode 23: Two Little Blessings](/episodes/episode-23/)
+- … full list of 52 episodes coming soon
+
+---
+
+## ✨ Themes of Wisdom
+
+Recurring lessons echo across the series:
+
+- **Self‑discipline** — Monkey’s impulsiveness vs Tripitaka’s restraint  
+- **Compassion** — Seeing beyond appearances, even when demons deceive  
+- **Unity** — The pilgrims’ squabbles contrasted with cooperation  
+- **Illusion vs Reality** — Discernment in a world of trickery  
+- **Detachment** — Pigsy’s lust and gluttony as warnings  
+
+---
+
+## 🐷 Pigsy Nonsense Ratings
+
+Because no archive would be complete without measuring Pigsy’s contribution to camp chaos.  
+Each episode is rated on a scale of **1–5 Snorts**.
+
+---
+
+## 🎭 Extras
+
+Beyond the episodes, dive into playful features:
+
+- [Pigsy’s Greatest Hits](/extras/pigsy-greatest-hits/)  
+- [Tripitaka’s Calmest Smackdowns](/extras/tripitaka-smackdowns/)  
+- [Demon of the Week Hall of Fame](/extras/demon-hall-of-fame/)  
+- [Monkey’s Wisdom Generator](/extras/monkey-wisdom-generator/)  
+- [Journey to the West Tracker](/extras/journey-tracker/)  
+- [Pigsy Nonsense Ratings Master List](/extras/pigsy-nonsense-ratings/)  
+- [Fan Participation](/extras/fan-participation/)  
+
+---
+
+## 🔮 About This Project
+
+This is an **AI‑generated, open source experiment**.  
+The goal: to reconstruct and catalogue the teachings of *Monkey* with minimal human effort.  
+Contributions are welcome — fork the repo, add commentary, or suggest new features.
+
+---
+

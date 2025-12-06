@@ -1,0 +1,33 @@
+# General settings
+baseURL = "https://markheydon.github.io/the-teachings-of-monkey/"
+languageCode = "en-gb"
+theme = "PaperMod"
+title = "The Teachings of Monkey"
+
+# Menu entries
+[menu]
+
+  [[menu.main]]
+    identifier = "episodes"
+    name = "Episodes"
+    url = "/episodes/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "themes"
+    name = "Themes"
+    url = "/themes/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "extras"
+    name = "Extras"
+    url = "/extras/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/"
+    weight = 4
+
