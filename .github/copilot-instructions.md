@@ -47,11 +47,12 @@ draft: false
 ```
 
 ### Style Guidelines
-- **Headings**: `##` for section titles.
-- **Teaching**: Italicised and quoted.
-- **Pigsy Rating**: Pig emoji 🐷 repeated 1–5 times.
-- **Dates**: Use original BBC air date if known.
-- **Tone**: Fun, nostalgic, and accessible.
+- **Headings**: Use `##` for section headings (Synopsis, Teaching, Pigsy Nonsense Rating, Commentary).
+- **Teaching**: Always italicised and quoted.
+- **Pigsy Rating**: Use pig emoji 🐷 repeated 1–5 times.
+- **Dates**: Use original BBC air date if known, format `YYYY-MM-DD`.
+- **Tone**: Playful, camp, concise, fun, nostalgic, and accessible.
+- **Front matter**: Always include `title`, `date`, `draft: false`.
 
 ### Pigsy Snort Scale
 - 🐷 — Mild meddling
@@ -60,9 +61,69 @@ draft: false
 - 🐷🐷🐷🐷 — Major disruption
 - 🐷🐷🐷🐷🐷 — Peak Pigsy, chaos incarnate
 
+#### Example Episode
+```markdown
+---
+title: "Episode 8: Pigsy Woos a Widow"
+date: 1979-01-21
+draft: false
 ---
 
-## Additional content for Extras or Themes
+## Synopsis
+Pigsy falls head‑over‑hooves for a grieving widow, only to be duped by demons exploiting his lust.
+
+## Teaching
+*"Lust blinds judgment. True vision comes from compassion, not desire."*
+
+## Pigsy Nonsense Rating
+🐷🐷🐷🐷🐷 — Peak Pigsy chaos, romance gone wrong.
+
+## Commentary
+Pigsy’s romantic disasters are legendary. This episode shows how his unchecked desire makes him the perfect target for deception — and the perfect source of comedy.
+```
+
+---
+
+## Additional Content for Extras or Themes
 - Place extras in `/content/extras/` and themes in `/content/themes/`.
 - Use `_index.md` files for section landing pages.
 - Keep tone playful, camp, and concise.
+
+---
+
+## Master Lists Consistency
+
+When generating new episodes, also update the following extras:
+
+- **Pigsy Nonsense Ratings** → `/content/extras/pigsy-nonsense-ratings.md`  
+  Format: `Episode XX — 🐷🐷🐷🐷 (short comment)`
+
+- **Monkey Wisdom Generator** → `/content/extras/monkey-wisdom-generator.md`
+  Format: `Episode XX — *"Teaching text here"*`
+
+- **Tripitaka Smackdowns** → `/content/extras/tripitaka-smackdowns.md`  
+  Format: `Episode XX — "Quoted rebuke"`
+
+- **Pigsy Greatest Hits** → `/content/extras/pigsy-greatest-hits.md`  
+  Format: `Episode XX — Short description of Pigsy’s highlight`
+
+- **Demon Hall of Fame** → `/content/extras/demon-hall-of-fame.md`  
+  Format: `Episode XX — Demon Name — Short description`
+
+- **Journey Tracker** → `/content/extras/journey-tracker.md`  
+  Format: `Episode XX — Milestone description`
+
+---
+
+## Copilot Prompting Tips
+
+When asking Copilot to generate a new batch of episodes:
+
+**Instruction**:
+*“Generate Hugo Markdown files for Episodes XX–YY of Monkey, following copilot-instructions.md style and update all master lists accordingly.”*
+
+**Context**:
+Provide episode titles and short synopses if known.
+
+**Output expectation**:
+Copilot should produce complete episode files and matching updates to the extras lists.
