@@ -10,10 +10,11 @@ Here’s the definitive Snort Score index — rating his nonsense across all 52 
 ---
 
 ## Episodes 1–10
-- **Episode 1: Monkey Goes Wild About Heaven** — 🐷🐷 (Pigsy not yet introduced, but nonsense potential foreshadowed)  
-- **Episode 2: Monkey Turns Nursemaid** — 🐷🐷🐷 (Pigsy meddles with domestic duties)  
-- **Episode 3: The Great Journey Begins** — 🐷🐷🐷🐷 (Pigsy joins, instantly chaotic)  
-- **Episode 8: Pigsy Woos a Widow** — 🐷🐷🐷🐷🐷 (Peak lust‑driven disaster)
+- [Episode 1: Monkey Goes Wild About Heaven](/episodes/episode-01/) — 🐷🐷 (Pigsy not yet introduced, but nonsense potential foreshadowed)  
+- [Episode 2: Monkey Turns Nursemaid](/episodes/episode-02/) — 🐷🐷🐷 (Pigsy meddles with domestic duties)  
+- [Episode 3: The Great Journey Begins](/episodes/episode-03/) — 🐷🐷🐷🐷 (Pigsy joins, instantly chaotic)  
+- [Episode 8: Pigsy Woos a Widow](/episodes/episode-08/) — 🐷🐷🐷🐷🐷 (Peak lust‑driven disaster)
+- [Episode 9: What Monkey Called the Dog](/episodes/episode-09/) — 🐷🐷🐷🐷 (Pigsy mistakes the demon for a snack and chaos ensues)
 
 ---
 

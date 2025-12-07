@@ -33,5 +33,10 @@ Turns gluttony into a weapon, luring Pigsy with promises of feasts. Proof that a
 
 ---
 
+## 6. The Dog Demon (Episode 9)
+The Dog Demon uses disguise and deception to snatch a village girl, but is ultimately undone by Monkey’s cunning and Pigsy’s appetite.
+
+---
+
 The Hall of Fame celebrates the creativity of *Monkey’s* villains — equal parts menace and camp comedy.
 

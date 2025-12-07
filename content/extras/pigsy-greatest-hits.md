@@ -38,5 +38,11 @@ Pigsy’s appetite collides with a demon’s culinary trap. The result: food fig
 
 ---
 
+## 6. Pigsy vs. the Dog Demon (Episode 9)
+**Snort Score:** 🐷🐷🐷🐷  
+Pigsy mistakes the dog demon for dinner, causing chaos and nearly getting the pilgrims eaten instead.
+
+---
+
 Pigsy’s antics remind us that chaos can be just as entertaining as wisdom — and sometimes, the nonsense *is* the lesson.
 

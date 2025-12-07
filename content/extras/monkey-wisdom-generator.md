@@ -8,7 +8,7 @@ The narrator’s teachings distilled chaos into moral lessons. Here, AI continue
 
 ---
 
-## Sample Teachings
+## AI Monkey Teachings
 
 - *"When the path is blocked, the fool charges; the wise one climbs."*  
 - *"Even demons may speak truth when it serves their hunger."*  
@@ -19,7 +19,7 @@ The narrator’s teachings distilled chaos into moral lessons. Here, AI continue
 ---
 
 ## How It Works
-This page refreshes with new AI‑generated teachings, blending camp humour with genuine philosophy. Contributions welcome — fork the repo and add your own “Monkey‑style” wisdom.
+This page will be refreshed with new AI‑generated teachings, blending camp humour with genuine philosophy. Contributions welcome — fork the repo and add your own “Monkey‑style” wisdom.
 
 ---
 

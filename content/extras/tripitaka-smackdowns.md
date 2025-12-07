@@ -33,5 +33,10 @@ Tripitaka’s calm leadership guides the pilgrims to their ultimate goal. His au
 
 ---
 
+## 6. The Dog Demon’s Deceit (Episode 9)
+[Episode 9: What Monkey Called the Dog](/episodes/episode-09/): Tripitaka gently but firmly reminds the villagers, “Do not judge by fur or fangs. Kindness and cruelty wear many faces.”
+
+---
+
 Tripitaka’s smackdowns prove that true strength lies not in force, but in unwavering calm.
 

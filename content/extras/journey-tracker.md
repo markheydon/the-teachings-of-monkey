@@ -29,6 +29,9 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 ---
 
 ## Stage 3: Illusions and Trickery
+- [Episode 9: What Monkey Called the Dog](/episodes/episode-09/)  
+  *Location:* Village Outskirts  
+  *Lesson:* True nature is revealed by actions, not appearances.  
 - **Episode 17: The Shape-Shifting Fox**  
   *Location:* Forest of Deception  
   *Lesson:* Illusion collapses under truth.  
