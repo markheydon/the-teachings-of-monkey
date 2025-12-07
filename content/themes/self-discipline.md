@@ -10,11 +10,11 @@ Monkey’s impulsiveness often clashes with Tripitaka’s restraint. These episo
 
 ## Key Episodes
 - **Episode 1: Monkey Goes Wild About Heaven**  
-  *Teaching:* Pride without discipline leads to downfall.  
+  *Teaching:* Pride without discipline leads to downfall. Even the strongest must bow to wisdom.  
 - **Episode 15: Pigsy’s Magic Tummy**  
   *Teaching:* Appetite must be tempered by wisdom.  
 - **Episode 23: Two Little Blessings**  
-  *Teaching:* Desire without foresight becomes burden.
+  *Teaching:* Even blessings can become burdens when sought without wisdom. Responsibility lies not in desire, but in foresight.
 
 ---
 
