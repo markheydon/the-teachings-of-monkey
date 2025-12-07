@@ -9,11 +9,11 @@ Thanks for your interest in contributing! This project is a playful, open archiv
 
 ## How to Contribute
 
-### 1. Add New Episodes
 - Place new episode files in `/content/episodes/`.
 - Use the template in `copilot-instructions.md` for consistency.
 - Include:
-  - Front matter (`title`, `date`, `draft: false`)
+  - Front matter (`title`, `date`, `draft: false`, `weight`)
+    - `weight` should be set to the episode number (e.g. `weight: 2` for episode 2) to ensure correct sorting on the Episodes section page.
   - Sections: Synopsis, Teaching, Pigsy Nonsense Rating, Commentary
 - **IMPORTANT:** After creating a new episode, update `/content/_index.md` (the home page) to add a link to the new episode in the episode archive list, in correct order. This keeps the main site up to date and makes new episodes easy to find.
 

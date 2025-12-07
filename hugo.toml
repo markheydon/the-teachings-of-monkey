@@ -25,10 +25,3 @@ title = "The Teachings of Monkey"
     name = "Extras"
     url = "extras/"
     weight = 3
-
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = ""
-    weight = 4
-

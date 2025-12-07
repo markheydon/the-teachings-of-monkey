@@ -2,6 +2,7 @@
 title: "Episode 3: The Great Journey Begins"
 date: 1979-11-24
 draft: false
+weight: 3
 ---
 
 ## Synopsis

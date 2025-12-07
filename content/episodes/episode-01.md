@@ -2,6 +2,7 @@
 title: "Episode 1: Monkey Goes Wild About Heaven"
 date: 1978-11-26
 draft: false
+weight: 1
 ---
 
 ## Synopsis

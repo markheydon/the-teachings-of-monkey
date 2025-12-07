@@ -2,6 +2,7 @@
 title: "Episode 2: Monkey Turns Nursemaid"
 date: 1978-12-03
 draft: false
+weight: 2
 ---
 
 ## Synopsis

@@ -24,13 +24,18 @@ And like the themes pages, any titles appearing on this page to episodes should 
 
 ### Episode Page Template
 
-Each episode file lives in `/content/episodes/` and is named `episode-XX.md`.
+Each episode file lives in `/content/episodes/` and is named `episode-XX.md`. Where XX is the two-digit episode number (e.g. `episode-01.md`, `episode-23.md`).
+
+In the template, the title should match the episode title exactly as per the original BBC dubbed version of Monkey from around the end of the 1970s and early part of the 1980s and **NOT** from any re-dubbed version that was done in 2004 for the DVD release.
+
+The episode number in the template, unlike the format in filename, should be in single digits for episodes 1–9 (e.g. `Episode 1: ...`, `Episode 2: ...`). Also, `weight` in the front matter should be the episode number as an integer (e.g. `weight: 1` for episode 1).
 
 ```markdown
 ---
 title: "Episode XX: [Episode Title]"
 date: YYYY-MM-DD
 draft: false
+weight: XX
 ---
 
 ## Synopsis
@@ -67,6 +72,7 @@ draft: false
 title: "Episode 8: Pigsy Woos a Widow"
 date: 1979-01-21
 draft: false
+weight: 8
 ---
 
 ## Synopsis

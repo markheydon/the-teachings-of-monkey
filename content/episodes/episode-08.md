@@ -2,6 +2,7 @@
 title: "Episode 8: Pigsy Woos a Widow"
 date: 1979-01-21
 draft: false
+weight: 8
 ---
 
 ## Synopsis
