@@ -24,6 +24,7 @@ Explore the journey west, one absurdly enlightening adventure at a time:
 - [Episode 6: The White Bone Demon](/episodes/episode-06/)
 - [Episode 7: The Curse of the Golden Headband](/episodes/episode-07/)
 - [Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)
+- [Episode 9: What Monkey Called the Dog](/episodes/episode-09/)
 - [Episode 23: Two Little Blessings](/episodes/episode-23/)
 - … full list of 52 episodes coming soon
 ---

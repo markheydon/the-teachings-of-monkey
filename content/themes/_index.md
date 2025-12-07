@@ -4,7 +4,7 @@ date: 2025-12-06
 draft: false
 ---
 
-The teachings of *Monkey* are more than episodic morals — they form recurring themes that echo across the journey.
+*The Teachings of Monkey* are more than episodic morals — they form recurring themes that echo across the journey.
 
 This section groups episodes by their deeper lessons.
 

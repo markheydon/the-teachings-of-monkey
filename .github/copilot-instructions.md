@@ -10,7 +10,7 @@ This project uses Hugo with Markdown content files.
 
 Episode pages must follow a consistent structure and style.
 
-Whenever you add a new episode, update `/content/_index.md` to include a link to the new episode in the episode archive list, in correct order.
+Whenever you add a new episode, update `/content/_index.md` (the home page) to include a link to the new episode in the episode archive list, in correct order. This ensures new episodes are discoverable from the main site landing page.
 
 ### Keeping Themes Updated
 

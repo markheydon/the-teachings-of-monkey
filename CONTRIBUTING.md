@@ -15,6 +15,7 @@ Thanks for your interest in contributing! This project is a playful, open archiv
 - Include:
   - Front matter (`title`, `date`, `draft: false`)
   - Sections: Synopsis, Teaching, Pigsy Nonsense Rating, Commentary
+- **IMPORTANT:** After creating a new episode, update `/content/_index.md` (the home page) to add a link to the new episode in the episode archive list, in correct order. This keeps the main site up to date and makes new episodes easy to find.
 
 ### 2. Keep Master Lists Consistent
 When adding or editing episodes, also update the extras:
