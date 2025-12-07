@@ -21,10 +21,19 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 
 ## Stage 2: Trials of Desire
 - **[Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)**  
-  *Location:* Widow’s Village  
+  *Location:* Widow's Village  
   *Lesson:* Lust blinds judgment.
-- **Episode 15: Pigsy’s Magic Tummy**  
-  *Location:* Demon’s Banquet Hall  
+- **[Episode 10: Pigsy's in the Well](/episodes/episode-10/)**  
+  *Location:* Village Well  
+  *Lesson:* Haste leads to disaster.
+- **[Episode 12: Pearls Before Swine](/episodes/episode-12/)**  
+  *Location:* Demon's Pearl Cavern  
+  *Lesson:* Treasure offered freely is rarely free.
+- **[Episode 13: The Minx and the Slug](/episodes/episode-13/)**  
+  *Location:* Village of Illusions  
+  *Lesson:* Seduction and repulsion are twin faces of desire.
+- **Episode 15: Pigsy's Magic Tummy**  
+  *Location:* Demon's Banquet Hall  
   *Lesson:* Appetite can be weaponised.
 
 ---
@@ -33,6 +42,15 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 - **[Episode 9: What Monkey Called the Dog](/episodes/episode-09/)**  
   *Location:* Village Outskirts  
   *Lesson:* True nature is revealed by actions, not appearances.
+- **[Episode 11: The Difference Between Night & Day](/episodes/episode-11/)**  
+  *Location:* Village of Eternal Darkness  
+  *Lesson:* Balance is found not in choosing one, but in understanding both.
+- **[Episode 14: Catfish, Saint and the Shape-Changer](/episodes/episode-14/)**  
+  *Location:* False Temple  
+  *Lesson:* Holiness can be mimicked, but true virtue reveals itself through action.
+- **[Episode 15: Monkey Meets the Demon Digger](/episodes/episode-15/)**  
+  *Location:* Underground Labyrinth  
+  *Lesson:* The way out is through cooperation, not force.
 - **Episode 17: The Shape-Shifting Fox**  
   *Location:* Forest of Deception  
   *Lesson:* Illusion collapses under truth.  
