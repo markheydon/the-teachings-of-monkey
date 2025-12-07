@@ -2,13 +2,14 @@
 title: "Pigsy’s Greatest Hits"
 date: 2025-12-06
 draft: false
+weight: 1
 ---
 
 Pigsy, the gluttonous, lustful, endlessly chaotic pig‑demon, is the beating heart of *Monkey’s* camp nonsense. Here are his top five moments of pure Pigsy mayhem.
 
 ---
 
-## 1. Pigsy Woos a Widow (Episode 8)
+## 1. **[Pigsy Woos a Widow (Episode 8)](/episodes/episode-08/))**
 **Snort Score:** 🐷🐷🐷🐷🐷  
 Pigsy falls head‑over‑hooves for a grieving widow, only to be duped by demons. Classic Pigsy: lust first, wisdom later.
 
@@ -38,7 +39,7 @@ Pigsy’s appetite collides with a demon’s culinary trap. The result: food fig
 
 ---
 
-## 6. Pigsy vs. the Dog Demon (Episode 9)
+## 6. **[Pigsy vs. the Dog Demon (Episode 9)](/episodes/episode-09/)**
 **Snort Score:** 🐷🐷🐷🐷  
 Pigsy mistakes the dog demon for dinner, causing chaos and nearly getting the pilgrims eaten instead.
 

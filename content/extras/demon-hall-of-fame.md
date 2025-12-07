@@ -2,6 +2,7 @@
 title: "Demon of the Week Hall of Fame"
 date: 2025-12-06
 draft: false
+weight: 3
 ---
 
 Every week, the pilgrims face a new demon — some terrifying, some ridiculous, all memorable. Here are the standouts who earned a place in the Hall of Fame.
@@ -33,7 +34,7 @@ Turns gluttony into a weapon, luring Pigsy with promises of feasts. Proof that a
 
 ---
 
-## 6. The Dog Demon (Episode 9)
+## 6. **[The Dog Demon (Episode 9)](/episodes/episode-09)**
 The Dog Demon uses disguise and deception to snatch a village girl, but is ultimately undone by Monkey’s cunning and Pigsy’s appetite.
 
 ---

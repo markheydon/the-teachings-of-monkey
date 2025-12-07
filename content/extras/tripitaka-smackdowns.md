@@ -2,6 +2,7 @@
 title: "Tripitaka’s Calmest Smackdowns"
 date: 2025-12-06
 draft: false
+weight: 2
 ---
 
 Tripitaka, the serene monk, rarely raises his voice. But when he does, it’s devastating. Here are his most memorable moments of calm authority.
@@ -33,8 +34,8 @@ Tripitaka’s calm leadership guides the pilgrims to their ultimate goal. His au
 
 ---
 
-## 6. The Dog Demon’s Deceit (Episode 9)
-[Episode 9: What Monkey Called the Dog](/episodes/episode-09/): Tripitaka gently but firmly reminds the villagers, “Do not judge by fur or fangs. Kindness and cruelty wear many faces.”
+## 6. **[What Monkey Calls the Dog-Woman (Episode 9)](/episodes/episode-09/)**
+Tripitaka gently but firmly reminds the villagers, “Do not judge by fur or fangs. Kindness and cruelty wear many faces.”
 
 ---
 

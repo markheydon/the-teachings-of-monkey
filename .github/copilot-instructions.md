@@ -59,6 +59,30 @@ weight: XX
 - **Tone**: Playful, camp, concise, fun, nostalgic, and accessible.
 - **Front matter**: Always include `title`, `date`, `draft: false`.
 
+## Linking Episodes
+
+Whenever an episode is mentioned outside of the `/content/episodes/` section (e.g. in extras, indexes, or commentary), it must be linked and bolded.
+
+#### Standard format
+```markdown
+**[Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)**
+```
+
+- Use the full episode title and number.
+- Always bold the link.
+- Always point to `/episodes/episode-XX/`.
+
+#### Alternative title-first format
+```markdown
+**[Two Little Blessings (Episode 23)](/episodes/episode-23/)**
+```
+
+- Use this format only in lists like Pigsy’s Greatest Hits.
+- Always bold the link.
+- Always point to `/episodes/episode-XX/`.
+
+**NOTE:** Do not mix formats within the same file.
+
 ### Pigsy Snort Scale
 - 🐷 — Mild meddling
 - 🐷🐷 — Background chaos
