@@ -73,3 +73,10 @@ This means:
 ## Code of Conduct
 
 Be respectful, playful, and collaborative. This project celebrates camp and nostalgia — keep contributions fun and welcoming.
+
+### Prompt Transparency
+
+Because this project is primarily AI‑generated, all Pull Requests must include the **prompt used** to create the new content.
+
+This ensures consistency, transparency, and helps others learn from the process.
+

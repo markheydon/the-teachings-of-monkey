@@ -28,8 +28,51 @@ Once deployed via GitHub Pages, visit:
 ---
 
 ## 🤝 Contributing
-Pull requests welcome! Add commentary, new features, or your own “Monkey‑style” teachings.  
-See [Fan Participation](/extras/fan-participation.md/) for ideas.
+Pull requests welcome! Add commentary, new features, or your own “Monkey‑style” teachings.
+
+See [Fan Participation](content/extras/fan-participation.md) for ideas.
+
+
+## AI‑Generated Content
+
+This archive is around 99% AI‑generated.
+
+To ensure transparency and reproducibility, we include the prompts used to generate and review content:
+
+- [Batch Episode Generation Prompt](#batch-episode-generation-prompt)  
+- [Content Review Prompt](#content-review-prompt)
+
+Contributors should include the **prompt they used** when submitting a Pull Request.
+
+This keeps the project aligned with its goal: an AI‑driven, playful archive of *Monkey (Saiyūki)*.
+
+### Batch Episode Generation Prompt
+
+```
+Generate Hugo Markdown files for Episodes XX–YY of *Monkey (Saiyūki)*.
+
+Follow the template and style rules in `.github/copilot-instructions.md`:
+- Include front matter with `title`, `date`, and `draft: false`.
+- Sections: Synopsis, Teaching (italicised and quoted), Pigsy Nonsense Rating (🐷 emojis), Commentary.  
+- Tone: playful, camp, concise.
+- Use original BBC air dates if known.
+- Save each file as `episode-XX.md` in `/content/episodes/`.
+- Update all master lists in `/content/extras/` (Pigsy Nonsense Ratings, Monkey Wisdom Generator, Tripitaka Smackdowns, Pigsy Greatest Hits, Demon Hall of Fame, Journey Tracker).
+```
+
+### Content Review Prompt
+```
+Review all Markdown files in `/content/episodes/` and `/content/extras/`.
+
+Check that each file complies with `.github/copilot-instructions.md` and `CONTRIBUTING.md`:
+- Correct front matter (`title`, `date`, `draft: false`).
+- Required sections (Synopsis, Teaching, Pigsy Nonsense Rating, Commentary).
+- Teaching italicised and quoted.
+- Pigsy rating uses 🐷 emojis consistently.
+- Master lists updated with matching entries.
+
+Suggest corrections or regenerate files where inconsistencies are found.
+```
 
 ---
 
