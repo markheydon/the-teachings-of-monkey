@@ -10,9 +10,9 @@ Compassion is the antidote to illusion and deception. These episodes remind us t
 
 ## Key Episodes
 - [Episode 2: Monkey Turns Nursemaid](/episodes/episode-02/)  
-  *Teaching:* "Compassion tempers chaos. Strength without care is no strength at all."  
+  *Teaching:* Compassion tempers chaos. Strength without care is no strength at all.  
 - [Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)  
-  *Teaching:* "Lust blinds judgment. True vision comes from compassion, not desire."  
+  *Teaching:* Lust blinds judgment. True vision comes from compassion, not desire.  
 - **Episode 19: The Demon Bride**  
   *Teaching:* True compassion resists false seduction.
 
