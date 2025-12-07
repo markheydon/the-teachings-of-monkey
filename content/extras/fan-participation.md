@@ -2,6 +2,7 @@
 title: "Fan Participation"
 date: 2025-12-06
 draft: false
+weight: 999
 ---
 
 *The Teachings of Monkey* is an open source experiment — and it thrives on contributions.  

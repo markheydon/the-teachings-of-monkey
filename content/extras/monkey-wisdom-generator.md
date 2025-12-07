@@ -2,6 +2,7 @@
 title: "Monkey’s Wisdom Generator"
 date: 2025-12-06
 draft: false
+weight: 4
 ---
 
 The narrator’s teachings distilled chaos into moral lessons. Here, AI continues the tradition — generating new pearls of wisdom in the style of *Monkey*.

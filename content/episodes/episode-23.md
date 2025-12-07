@@ -2,6 +2,7 @@
 title: "Episode 23: Two Little Blessings"
 date: 1979-05-20
 draft: false
+weight: 23
 ---
 
 ## Synopsis

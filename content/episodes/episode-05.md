@@ -2,6 +2,7 @@
 title: "Episode 5: The Power of Youth"
 date: 1979-12-08
 draft: false
+weight: 5
 ---
 
 ## Synopsis

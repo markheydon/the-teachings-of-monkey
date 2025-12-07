@@ -1,7 +1,8 @@
 ---
-title: "Episode 9: What Monkey Called the Dog"
+title: "Episode 9: What Monkey Calls The Dog-Woman"
 date: 1979-01-28
 draft: false
+weight: 9
 ---
 
 ## Synopsis

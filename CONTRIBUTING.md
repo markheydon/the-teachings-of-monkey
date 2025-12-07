@@ -1,6 +1,3 @@
-## 📄 `CONTRIBUTING.md`
-
-```markdown
 # Contributing to The Teachings of Monkey
 
 Thanks for your interest in contributing! This project is a playful, open archive of the teachings, chaos, and camp from the cult TV series *Monkey (Saiyūki)*.
@@ -9,11 +6,11 @@ Thanks for your interest in contributing! This project is a playful, open archiv
 
 ## How to Contribute
 
-### 1. Add New Episodes
 - Place new episode files in `/content/episodes/`.
 - Use the template in `copilot-instructions.md` for consistency.
 - Include:
-  - Front matter (`title`, `date`, `draft: false`)
+  - Front matter (`title`, `date`, `draft: false`, `weight`)
+    - `weight` should be set to the episode number (e.g. `weight: 2` for episode 2) to ensure correct sorting on the Episodes section page.
   - Sections: Synopsis, Teaching, Pigsy Nonsense Rating, Commentary
 - **IMPORTANT:** After creating a new episode, update `/content/_index.md` (the home page) to add a link to the new episode in the episode archive list, in correct order. This keeps the main site up to date and makes new episodes easy to find.
 
@@ -57,6 +54,20 @@ When adding or editing episodes, also update the extras:
 - **Pigsy Rating**: Pig emoji 🐷 repeated 1–5 times.  
 - **Dates**: Use original BBC air date if known.  
 - **Tone**: Fun, nostalgic, and accessible.
+
+### Episode Linking
+
+- All episode mentions outside `/content/episodes/` must be linked and bolded.
+- Use one of the two approved formats:
+
+  - Standard:  
+    **[Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)**
+
+  - Title‑first (for lists like Pigsy’s Greatest Hits):  
+    **[Two Little Blessings (Episode 23)](/episodes/episode-23/)**
+
+- Do not mix formats within the same file.
+- Always ensure the link path matches the episode filename (`episode-XX.md`).
 
 ---
 

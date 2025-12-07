@@ -2,6 +2,8 @@
 title: "Extras"
 date: 2025-12-06
 draft: false
+sort_by: "weight"
+sort_order: "asc"
 ---
 
 Beyond the episode archive, *The Teachings of Monkey* celebrates the camp, chaos, and philosophy of the series.
@@ -9,13 +11,12 @@ Beyond the episode archive, *The Teachings of Monkey* celebrates the camp, chaos
 Here you’ll find playful features, fan contributions, and thematic explorations.
 
 ## Highlights
-- Pigsy’s Greatest Hits  
-- Tripitaka’s Calmest Smackdowns  
-- Demon of the Week Hall of Fame  
-- Monkey’s Wisdom Generator  
-- Journey to the West Tracker  
-- Pigsy Nonsense Ratings Master List  
-- Fan Participation
+- **Pigsy’s Greatest Hits** — Pigsy’s most chaotic, hilarious, and unforgettable moments.
+- **Tripitaka’s Calmest Smackdowns** — The monk’s most serene, devastating rebukes.
+- **Demon of the Week Hall of Fame** — The wildest, weirdest, and most memorable monsters.
+- **Monkey’s Wisdom Generator** — Campy, AI-powered teachings in the spirit of the show.
+- **Journey to the West Tracker** — Follow the pilgrims’ progress, episode by episode.
+- **Pigsy Nonsense Ratings Master List** — The definitive Snort Scale for Pigsy’s antics.
+- **Fan Participation** — Where viewers join the fun and share their own Monkey magic.
 
 The extras are where nonsense meets wisdom — and where fans can join the fun.
-

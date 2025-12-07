@@ -2,6 +2,7 @@
 title: "Episode 6: The White Bone Demon"
 date: 1979-12-15
 draft: false
+weight: 6
 ---
 
 ## Synopsis

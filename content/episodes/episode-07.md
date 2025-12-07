@@ -2,6 +2,7 @@
 title: "Episode 7: The Curse of the Golden Headband"
 date: 1979-12-22
 draft: false
+weight: 7
 ---
 
 ## Synopsis
