@@ -44,27 +44,22 @@ Masters of illusion, weaving webs both literal and metaphorical. Their disguises
 
 ---
 
-## 8. The Fish Demon (Episode 12)
-Emerges from the river with a plan as slippery as his scales. His aquatic antics remind us that danger lurks beneath calm waters.
-
----
-
-## 9. The False Buddha (Episode 33)
+## 8. The False Buddha (Episode 33)
 A demon who impersonates enlightenment itself. His downfall is a lesson in discernment: not all wisdom is true wisdom.
 
 ---
 
-## 10. The Shape-Shifting Fox (Episode 17)
+## 9. The Shape-Shifting Fox (Episode 17)
 A trickster who cycles through disguises faster than Pigsy cycles through excuses. His schemes collapse under Monkey’s sharp eye.
 
 ---
 
-## 11. The Demon Chef (Episode 42)
+## 10. The Demon Chef (Episode 42)
 Turns gluttony into a weapon, luring Pigsy with promises of feasts. Proof that appetite can be a battlefield.
 
 ---
 
-## 12. **[The Dog Demon (Episode 9)](/episodes/episode-09)**
+## 11. **[The Dog Demon (Episode 9)](/episodes/episode-09)**
 The Dog Demon uses disguise and deception to snatch a village girl, but is ultimately undone by Monkey’s cunning and Pigsy’s appetite.
 
 ---

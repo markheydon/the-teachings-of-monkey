@@ -32,9 +32,6 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 - **[Episode 13: The Minx and the Slug](/episodes/episode-13/)**  
   *Location:* Village of Illusions  
   *Lesson:* Seduction and repulsion are twin faces of desire.
-- **Episode 15: Pigsy's Magic Tummy**  
-  *Location:* Demon's Banquet Hall  
-  *Lesson:* Appetite can be weaponised.
 
 ---
 

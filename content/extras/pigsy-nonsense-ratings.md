@@ -26,11 +26,9 @@ Here’s the definitive Snort Score index — rating his nonsense across all 52 
 
 ## Episodes 11–20
 - **[Episode 11: The Difference Between Night & Day](/episodes/episode-11/)** — 🐷🐷 (Pigsy complains about the dark but contributes little)
-- **Episode 12: The Fish Demon** — 🐷🐷🐷 (Pigsy nearly becomes bait)  
 - **[Episode 12: Pearls Before Swine](/episodes/episode-12/)** — 🐷🐷🐷🐷🐷 (Greed weaponised into pure disaster)
 - **[Episode 13: The Minx and the Slug](/episodes/episode-13/)** — 🐷🐷🐷🐷 (Pigsy's lust for the minx derails the rescue mission)
 - **[Episode 14: Catfish, Saint and the Shape-Changer](/episodes/episode-14/)** — 🐷🐷🐷 (Pigsy is duped by the disguises and blunders accordingly)
-- **Episode 15: Pigsy's Magic Tummy** — 🐷🐷🐷🐷 (Appetite weaponised)  
 - **[Episode 15: Monkey Meets the Demon Digger](/episodes/episode-15/)** — 🐷🐷🐷🐷 (Pigsy wanders off searching for food and nearly gets everyone lost)
 - **Episode 17: The Shape-Shifting Fox** — 🐷🐷🐷 (Pigsy duped by disguises)  
 - **Episode 19: The Demon Bride** — 🐷🐷🐷🐷 (Pigsy falls for false seduction)
