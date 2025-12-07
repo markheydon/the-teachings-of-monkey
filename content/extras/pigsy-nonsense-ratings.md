@@ -19,7 +19,7 @@ Here’s the definitive Snort Score index — rating his nonsense across all 52 
 - **[Episode 6: The White Bone Demon](/episodes/episode-06/)** — 🐷🐷🐷🐷 (Cowardice matched only by appetite)  
 - **[Episode 7: The Curse of the Golden Headband](/episodes/episode-07/)** — 🐷🐷🐷 (Dodging responsibility with hilarious results)  
 - **[Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)** — 🐷🐷🐷🐷🐷 (Peak lust‑driven disaster)
-- **[Episode 9: What Monkey Called the Dog](/episodes/episode-09/)** — 🐷🐷🐷🐷 (Pigsy mistakes the demon for a snack and chaos ensues)
+- **[Episode 9: What Monkey Calls The Dog-Woman](/episodes/episode-09/)** — 🐷🐷🐷🐷 (Pigsy mistakes the demon for a snack and chaos ensues)
 
 ---
 
