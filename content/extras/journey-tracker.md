@@ -9,17 +9,17 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 ---
 
 ## Stage 1: Heaven and Earth
-- **Episode 1: Monkey Goes Wild About Heaven**  
+- [Episode 1: Monkey Goes Wild About Heaven](/episodes/episode-01/)  
   *Location:* Celestial Court  
   *Lesson:* Pride leads to downfall.  
-- **Episode 2: Monkey Turns Nursemaid**  
+- [Episode 2: Monkey Turns Nursemaid](/episodes/episode-02/)  
   *Location:* Village of Mortals  
   *Lesson:* Compassion tempers chaos.
 
 ---
 
 ## Stage 2: Trials of Desire
-- **Episode 8: Pigsy Woos a Widow**  
+- [Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)  
   *Location:* Widow’s Village  
   *Lesson:* Lust blinds judgment.  
 - **Episode 15: Pigsy’s Magic Tummy**  

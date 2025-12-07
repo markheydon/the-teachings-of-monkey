@@ -9,12 +9,12 @@ Detachment is the art of letting go of cravings, pride, and the urge to meddle. 
 ---
 
 ## Key Episodes
-- **Episode 5: The Power of Youth**  
+- [Episode 5: The Power of Youth](/episodes/episode-05/)  
   *Teaching:* Wisdom is not measured by age, but by understanding.
-- **Episode 8: Pigsy Woos a Widow**  
+- [Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)  
   *Teaching:* Lust blinds judgment. True vision comes from compassion, not desire.
-- **Episode 23: Two Little Blessings**  
-  *Teaching:* Even blessings can become burdens when sought without wisdom.
+- [Episode 23: Two Little Blessings](/episodes/episode-23/)  
+  *Teaching:* Even blessings can become burdens when sought without wisdom. Responsibility lies not in desire, but in foresight.
 
 ---
 

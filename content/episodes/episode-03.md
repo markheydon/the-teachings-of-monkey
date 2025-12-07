@@ -1,5 +1,5 @@
 ---
-title: "Episode 03: The Great Journey Begins"
+title: "Episode 3: The Great Journey Begins"
 date: 1979-11-24
 draft: false
 ---
@@ -11,7 +11,7 @@ Monkey, Pigsy, Sandy, and Tripitaka finally set out on their epic journey to Ind
 *"A journey of a thousand miles begins with a single step."*
 
 ## Pigsy Nonsense Rating
-🐷🐷🐷
+🐷🐷🐷🐷 — Pigsy joins the crew, instantly chaotic.
 
 ## Commentary
 The gang’s chemistry starts to sparkle, with Pigsy’s appetite and antics providing comic relief. The adventure vibe is strong, and the show’s campy charm is in full swing.

@@ -1,5 +1,5 @@
 ---
-title: "Episode 07: The Curse of the Golden Headband"
+title: "Episode 7: The Curse of the Golden Headband"
 date: 1979-12-22
 draft: false
 ---
@@ -11,7 +11,7 @@ Tripitaka uses the magical headband to keep Monkey in line, but the power comes 
 *"Power without compassion leads to suffering."*
 
 ## Pigsy Nonsense Rating
-🐷🐷🐷
+🐷🐷🐷 — Dodging responsibility with hilarious results.
 
 ## Commentary
 Monkey’s rebellious streak is tested, and Pigsy’s attempts to dodge responsibility are as hilarious as ever. The episode mixes slapstick with a thoughtful lesson on leadership.

@@ -11,7 +11,7 @@ Monkey, born from a stone egg, gains supernatural powers and storms Heaven itsel
 *"Pride without discipline leads to downfall. Even the strongest must bow to wisdom."*
 
 ## Pigsy Nonsense Rating
-🐷 (Pigsy not yet introduced, but the seeds of nonsense are sown.)
+🐷🐷 — Pigsy not yet introduced, but nonsense potential foreshadowed.
 
 ## Commentary
 The opening episode sets the tone: camp spectacle, cosmic rebellion, and the moral that unchecked pride collapses under its own weight.

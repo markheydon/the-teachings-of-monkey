@@ -1,5 +1,5 @@
 ---
-title: "Episode 09: What Monkey Called the Dog"
+title: "Episode 9: What Monkey Called the Dog"
 date: 1979-01-28
 draft: false
 ---
