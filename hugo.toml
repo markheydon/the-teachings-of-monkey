@@ -9,19 +9,25 @@ title = "The Teachings of Monkey"
 [menu]
 
   [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "about/"
+    weight = 1
+
+  [[menu.main]]
     identifier = "episodes"
     name = "Episodes"
     url = "episodes/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     identifier = "themes"
     name = "Themes"
     url = "themes/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "extras"
     name = "Extras"
     url = "extras/"
-    weight = 3
+    weight = 4

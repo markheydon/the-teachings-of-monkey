@@ -20,8 +20,4 @@ Here you'll find playful features, fan contributions, and thematic explorations.
 - **Journey to the West Tracker** — Follow the pilgrims' progress, episode by episode.
 - **Pigsy Nonsense Ratings Master List** — The definitive Snort Scale for Pigsy's antics.
 
-## Other Content
-- **Official Episode List** — The canonical list of all 52 episodes, BBC-dubbed and subtitled.
-- **Fan Participation** — Where viewers join the fun and share their own Monkey magic.
-
 The extras are where nonsense meets wisdom — and where fans can join the fun.
