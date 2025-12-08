@@ -20,22 +20,22 @@ Thanks for your interest in contributing! This project is a playful, open archiv
 ### 2. Keep Master Lists Consistent
 When adding or editing episodes, also update the extras:
 
-- **Pigsy Nonsense Ratings** → `/content/extras/pigsy-nonsense-ratings.md`  
+- **Pigsy Nonsense Ratings** → `/content/extras/pigsy-nonsense-ratings.md`
   Format: `Episode XX — 🐷🐷🐷🐷 (short comment)`
 
-- **Monkey Wisdom Generator** → `/content/extras/monkey-wisdom-generator.md`  
+- **Monkey Teachings** → `/content/extras/monkey-teachings.md`
   Format: `Episode XX — *"Teaching text here"*`
 
-- **Tripitaka Smackdowns** → `/content/extras/tripitaka-smackdowns.md`  
+- **Tripitaka Smackdowns** → `/content/extras/tripitaka-smackdowns.md`
   Format: `Episode XX — "Quoted rebuke"`
 
-- **Pigsy Greatest Hits** → `/content/extras/pigsy-greatest-hits.md`  
+- **Pigsy Greatest Hits** → `/content/extras/pigsy-greatest-hits.md`
   Format: `Episode XX — Short description of Pigsy’s highlight`
 
-- **Demon Hall of Fame** → `/content/extras/demon-hall-of-fame.md`  
+- **Demon Hall of Fame** → `/content/extras/demon-hall-of-fame.md`
   Format: `Episode XX — Demon Name — Short description`
 
-- **Journey Tracker** → `/content/extras/journey-tracker.md`  
+- **Journey Tracker** → `/content/extras/journey-tracker.md`
   Format: `Episode XX — Milestone description`
 
 ### 3. Add Extras or Themes
@@ -47,6 +47,14 @@ When adding or editing episodes, also update the extras:
 - Fork the repo and create a branch for your changes.
 - Commit with clear messages (e.g. `Add Episode 12: Monkey Swallows the Universe`).
 - Open a Pull Request with a short description of your contribution.
+
+#### Monkey Teachings and Wisdom
+
+- All canonical teachings from episodes must be added to `/content/extras/monkey-teachings.md`.
+- Use the format:  
+  `**[Episode XX: Title](/episodes/episode-XX/)** — *"Teaching text here"*`
+- AI‑generated wisdom belongs in `/content/extras/monkey-wisdom-generator.md`.
+- Contributors must include the prompt used when adding AI‑generated wisdom.
 
 ---
 

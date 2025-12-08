@@ -134,8 +134,15 @@ When generating new episodes, also update the following extras:
 - **Pigsy Nonsense Ratings** → `/content/extras/pigsy-nonsense-ratings.md`  
   Format: `Episode XX — 🐷🐷🐷🐷 (short comment)`
 
-- **Monkey Wisdom Generator** → `/content/extras/monkey-wisdom-generator.md`
-  Format: `Episode XX — *"Teaching text here"*`
+- **Monkey Teachings** → `/content/extras/monkey-teachings.md`  
+  Each episode must be represented with its canonical teaching.  
+  Format: `**[Episode XX: Title](/episodes/episode-XX/)** — *"Teaching text here"*`  
+  Always link to the episode page in bold.  
+  Keep this list updated whenever new episodes are added.
+
+- **Monkey Wisdom Generator** → `/content/extras/monkey-wisdom-generator.md`  
+  Contains AI‑generated playful wisdom.  
+  Entries are free‑form but must be italicised and clearly distinct from canonical teachings.
 
 - **Tripitaka Smackdowns** → `/content/extras/tripitaka-smackdowns.md`  
   Format: `Episode XX — "Quoted rebuke"`
