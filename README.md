@@ -4,6 +4,22 @@ An open source archive of wisdom, nonsense, and camp from the cult TV series *Mo
 
 Each episode ends with a short narrated teaching — a pearl of wisdom distilled from chaos, demons, pilgrims, and Pigsy’s antics. This site collects those teachings, episode by episode, alongside commentary, fan reflections, and playful extras.
 
+## Introduction by an Actual Human
+
+Prompted by the recent addition of Monkey on Pluto TV (sometime around late 2025), I was reminded of just how utterly awesome I thought the show was as an 80s kid. Of course, the chances of me having much of a clue what was actually going on at that tender age of 8 or 9 were next to zero. But like most kids at the time, the colours, the fighting, the general madness and chaotic nature of the thing very much drew me in. And clearly as here I am some 40 odd years later still talking about it, in I stayed!
+
+It occurred to me that underneath all the camp, chaotic nonsense of the show, there’s actually some genuinely enlightened stuff in there too, and wouldn’t it be good to find out that somewhere out there in the real world there’s a whole bunch of people following the teachings of Monkey as they go about their daily lives — Monkey the show here I’m talking about, not Monkey himself, as obviously the various teachings the narrator imparts on the audience are from a much more officially spiritual source. That said though, Monkey himself does impart the odd bit of wisdom on occasion!
+
+Ok full disclosure what I actually thought was, wouldn’t it be cool to win the lottery, buy a retreat somewhere and dedicate the rest of my life to following and bringing the teachings of Monkey to the masses. Clearly there’s a conversation I need to be having with my therapist. However, as it’s unlikely that particular dream will come to fruition any time soon (in this lifetime at least), I thought the next best thing is a website dedicated to the teachings of Monkey in a concise, readable, and hopefully at least slightly enjoyable, read for anyone that’s interested.
+
+Thus, just like The Stone Monkey that was born from an egg on a mountain top, a weekend project was born, The Teachings of Monkey Website. And just like Monkey, the nature of it might just be irrepressible!
+
+On a more technical note, as I’m currently very much into using AI in my stuff these days, it was also a bit of an excuse to see how well AI (or more specifically GitHub Copilot) would perform on a content heavy project, and can’t deny it was also an excuse to have a mess around with GitHub Pages, something I’ve historically stayed away from for no particular reason. It seemed almost serendipitous that such an idea fell into my lap and so here we are.
+
+I hope anyone that happened to find this light-hearted, campy nonsense, that AI has put together for me, enjoys reading it as much as I enjoyed the journey of getting it made!
+
+_The above introduction was written by me not AI! However nearly everything else in the content of this thing **is** AI generated._
+
 ---
 
 ## 🚀 Live Site
