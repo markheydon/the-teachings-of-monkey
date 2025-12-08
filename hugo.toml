@@ -1,5 +1,5 @@
 # General settings
-baseURL = "https://markheydon.github.io/the-teachings-of-monkey/"
+baseURL = "https://monkeywisdom.online/"
 languageCode = "en-gb"
 theme = "PaperMod"
 title = "The Teachings of Monkey"

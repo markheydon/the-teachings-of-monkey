@@ -4,6 +4,11 @@ An open source archive of wisdom, nonsense, and camp from the cult TV series *Mo
 
 Each episode ends with a short narrated teaching — a pearl of wisdom distilled from chaos, demons, pilgrims, and Pigsy’s antics. This site collects those teachings, episode by episode, alongside commentary, fan reflections, and playful extras.
 
+## 🚀 Live Site
+Once deployed via GitHub Pages, visit:
+[https://markheydon.github.io/the-teachings-of-monkey/](https://markheydon.github.io/the-teachings-of-monkey/)
+[https://monkeywisdom.online/](https://monkeywisdom.online/)
+
 ## Introduction by an Actual Human
 
 Prompted by the recent addition of Monkey on Pluto TV (sometime around late 2025), I was reminded of just how utterly awesome I thought the show was as an 80s kid. Of course, the chances of me having much of a clue what was actually going on at that tender age of 8 or 9 were next to zero. But like most kids at the time, the colours, the fighting, the general madness and chaotic nature of the thing very much drew me in. And clearly as here I am some 40 odd years later still talking about it, in I stayed!
@@ -20,11 +25,6 @@ I hope anyone that happened to find this light-hearted, campy nonsense, that AI 
 
 _The above introduction was written by me not AI! However nearly everything else in the content of this thing **is** AI generated._
 
----
-
-## 🚀 Live Site
-Once deployed via GitHub Pages, visit:  
-[https://markheydon.github.io/the-teachings-of-monkey/](https://markheydon.github.io/the-teachings-of-monkey/)
 
 ---
 
