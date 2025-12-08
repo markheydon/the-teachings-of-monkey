@@ -2,6 +2,7 @@
 title: "The Teachings of Monkey"
 date: 2025-12-06
 draft: false
+hideRelated: true
 ---
 
 # The Teachings of Monkey
@@ -39,17 +40,15 @@ Because no archive would be complete without measuring Pigsy’s contribution to
 
 ## 🎭 Extras
 
-Beyond the episodes, dive into playful features:
+Camp, chaos, and philosophy beyond the episode archive:
 
-- [Pigsy’s Greatest Hits](/extras/pigsy-greatest-hits/)  
-- [Tripitaka’s Calmest Smackdowns](/extras/tripitaka-smackdowns/)  
-- [Demon of the Week Hall of Fame](/extras/demon-hall-of-fame/)  
-- [Monkey’s Wisdom Generator](/extras/monkey-wisdom-generator/)  
-- [Journey to the West Tracker](/extras/journey-tracker/)  
-- [Pigsy Nonsense Ratings Master List](/extras/pigsy-nonsense-ratings/)  
-- [Fan Participation](/extras/fan-participation/)  
-
----
+- [**Pigsy’s Greatest Hits**](/extras/pigsy-greatest-hits/) — Pigsy's most chaotic, hilarious, and unforgettable moments.
+- [**Tripitaka’s Calmest Smackdowns**](/extras/tripitaka-smackdowns/) — The monk's most serene, devastating rebukes.
+- [**Demon of the Week Hall of Fame**](/extras/demon-hall-of-fame/) — The wildest, weirdest, and most memorable monsters.
+- [**Monkey Teachings**](/extras/monkey-teachings/) — The canonical narrator's teachings from each episode.
+- [**Monkey’s Wisdom Generator**](/extras/monkey-wisdom-generator/) — Campy, AI-powered teachings in the spirit of the show.
+- [**Journey to the West Tracker**](/extras/journey-tracker/) — Follow the pilgrims' progress, episode by episode.
+- [**Pigsy Nonsense Ratings Master List**](/extras/pigsy-nonsense-ratings/) — The definitive Snort Scale for Pigsy's antics.
 
 ## 🔮 About This Project
 
@@ -57,7 +56,7 @@ This is an **AI‑generated, open source experiment**. The amount of human conte
 
 The goal: to reconstruct and catalogue the teachings of *Monkey* with minimal human effort.
 
-Contributions are welcome — fork the repo, add commentary, or suggest new features.
+Contributions are welcome — fork the repo, add commentary, or suggest new features. For further details, see the [**Fan Participation**](/extras/fan-participation/) page.
 
 ---
 
