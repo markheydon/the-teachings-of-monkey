@@ -42,15 +42,26 @@ Here’s the definitive Snort Score index — rating his nonsense across all 52 
 
 ## Episodes 21–30
 - **[Episode 23: Two Little Blessings](/episodes/episode-23/)** — 🐷🐷🐷🐷🐷 (Pregnant Pigsy chaos)  
-- **Episode 26: The Spider Demon Sisters** — 🐷🐷🐷🐷 (Pigsy tangled in webs)  
-- **Episode 28: Pigsy’s Wedding** — 🐷🐷🐷🐷🐷 (Romantic disaster, Pigsy at his finest)
+- **[Episode 24: The Fires of Jealousy](/episodes/episode-24/)** — 🐷🐷🐷 (Pigsy fans the flames with romantic fumbling)
+- **[Episode 25: The Country of Nightmares](/episodes/episode-25/)** — 🐷🐷🐷🐷 (Nightmares of food shortages and rejection)
+- **[Episode 26: The End of the Way](/episodes/episode-26/)** — 🐷🐷🐷🐷 (Nearly abandons quest for luxury)
+- **[Episode 27: Pigsy's Ten Thousand Ladies](/episodes/episode-27/)** — 🐷🐷🐷🐷🐷 (Peak delusion, romantic chaos at maximum)
+- **[Episode 28: The Dogs of Death](/episodes/episode-28/)** — 🐷🐷🐷🐷 (Terror and comic panic)
+- **[Episode 29: You Win Some, You Lose Some](/episodes/episode-29/)** — 🐷🐷🐷 (Disastrous gambling advice)
+- **[Episode 30: Pigsy Learns a Lesson](/episodes/episode-30/)** — 🐷🐷🐷🐷 (Hilarious and heartfelt attempts at scholarship)
 
 ---
 
 ## Episodes 31–40
-- **Episode 31: Pigsy the Matchmaker** — 🐷🐷🐷 (Misguided romance advice)  
-- **Episode 34: The Illusion of Gold** — 🐷🐷🐷🐷 (Pigsy blinded by greed)  
-- **Episode 37: Pigsy’s Paradise** — 🐷🐷🐷🐷🐷 (Pigsy tries to retire in luxury, fails spectacularly)
+- **[Episode 31: The Land with Two Suns](/episodes/episode-31/)** — 🐷🐷🐷 (Complains about heat, contributes little)
+- **[Episode 32: The House of the Evil Spirit](/episodes/episode-32/)** — 🐷🐷🐷🐷 (Genuine regrets about food and romance)
+- **[Episode 33: Am I Dreaming?](/episodes/episode-33/)** — 🐷🐷🐷 (Can't tell if awake or asleep)
+- **[Episode 34: The Tormented Emperor](/episodes/episode-34/)** — 🐷🐷 (Unusually subdued in royal presence)
+- **[Episode 35: Between Heaven and Hell](/episodes/episode-35/)** — 🐷🐷🐷🐷 (Comically long list of sins)
+- **[Episode 36: The Foolish Philosopher](/episodes/episode-36/)** — 🐷🐷🐷 (Folk wisdom trumps philosophy)
+- **[Episode 37: Who Am I?](/episodes/episode-37/)** — 🐷🐷🐷🐷 (Pigsy vs. Pigsy, double chaos)
+- **[Episode 38: What is Wisdom?](/episodes/episode-38/)** — 🐷🐷🐷 (Path of least effort, accidentally wise)
+- **[Episode 39: The Fountain of Youth](/episodes/episode-39/)** — 🐷🐷🐷🐷🐷 (Quest for eternal gluttony at peak absurdity)
 
 ---
 
