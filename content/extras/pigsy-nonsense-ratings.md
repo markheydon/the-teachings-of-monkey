@@ -2,7 +2,7 @@
 title: "Pigsy Nonsense Ratings Master List"
 date: 2025-12-06
 draft: false
-weight: 6
+weight: 7
 ---
 
 Pigsy’s antics are the heartbeat of *Monkey’s* camp chaos.  

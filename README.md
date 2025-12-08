@@ -69,7 +69,13 @@ Check that each file complies with `.github/copilot-instructions.md` and `CONTRI
 - Required sections (Synopsis, Teaching, Pigsy Nonsense Rating, Commentary).
 - Teaching italicised and quoted.
 - Pigsy rating uses 🐷 emojis consistently.
-- Master lists updated with matching entries.
+- Master lists updated with matching entries:
+  - Pigsy Nonsense Ratings
+  - Monkey Teachings
+  - Tripitaka Smackdowns
+  - Pigsy Greatest Hits
+  - Demon Hall of Fame
+  - Journey Tracker
 
 Suggest corrections or regenerate files where inconsistencies are found.
 ```
