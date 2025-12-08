@@ -1,5 +1,5 @@
 ---
-title: "Episode 21: Pigsy, King and God"
+title: "Episode 21: Pigsy's Wrongdoings"
 date: 1979-02-25
 draft: false
 weight: 21

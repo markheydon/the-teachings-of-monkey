@@ -8,7 +8,7 @@ This project uses Hugo with Markdown content files.
 
 **NOTE**: The episode details are to be taken from the original BBC dubbed version of Monkey from around the end of the 1970s and early part of the 1980s and **NOT** from any re-dubbed version that was done in 2004 for the DVD release.
 
-**Episode names should match the [Official Episode List](/content/extras/episode-list.md)**, which contains the canonical list of all 52 episodes used throughout this archive.
+**Episode names must match the [Official Episode List](/content/extras/episode-list.md)**, which contains the canonical list of all 52 episodes used throughout this archive.
 
 Episode pages must follow a consistent structure and style.
 

@@ -1,5 +1,5 @@
 ---
-title: "Episode 7: The Curse of the Golden Headband"
+title: "Episode 7: The Beginning of Wisdom"
 date: 1979-12-22
 draft: false
 weight: 7

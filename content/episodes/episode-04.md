@@ -1,5 +1,5 @@
 ---
-title: "Episode 4: Monkey Swallows the Moon"
+title: "Episode 4: Monkey Swallows the Universe"
 date: 1979-12-01
 draft: false
 weight: 4

@@ -29,23 +29,23 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 - **[Episode 12: Pearls Before Swine](/episodes/episode-12/)**  
   *Location:* Demon's Pearl Cavern  
   *Lesson:* Treasure offered freely is rarely free.
-- **[Episode 13: The Minx and the Slug](/episodes/episode-13/)**  
+- **[Episode 13: The Great Horse Hunt](/episodes/episode-13/)**  
   *Location:* Village of Illusions  
   *Lesson:* Seduction and repulsion are twin faces of desire.
 
 ---
 
 ## Stage 3: Illusions and Trickery
-- **[Episode 9: What Monkey Called the Dog](/episodes/episode-09/)**  
+- **[Episode 9: What Monkey Calls the Real World](/episodes/episode-09/)**  
   *Location:* Village Outskirts  
   *Lesson:* True nature is revealed by actions, not appearances.
-- **[Episode 11: The Difference Between Night & Day](/episodes/episode-11/)**  
+- **[Episode 11: The Difference Between Night and Day](/episodes/episode-11/)**  
   *Location:* Village of Eternal Darkness  
   *Lesson:* Balance is found not in choosing one, but in understanding both.
-- **[Episode 14: Catfish, Saint and the Shape-Changer](/episodes/episode-14/)**  
+- **[Episode 14: The Mighty Ape](/episodes/episode-14/)**  
   *Location:* False Temple  
   *Lesson:* Holiness can be mimicked, but true virtue reveals itself through action.
-- **[Episode 15: Monkey Meets the Demon Digger](/episodes/episode-15/)**  
+- **[Episode 15: Pigsy's Magic Trousers](/episodes/episode-15/)**  
   *Location:* Underground Labyrinth  
   *Lesson:* The way out is through cooperation, not force.
 - **[Episode 16: The Most Monstrous Monster](/episodes/episode-16/)**  
@@ -57,16 +57,16 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 - **[Episode 18: Land for the Locusts](/episodes/episode-18/)**  
   *Location:* Plague-Stricken Village  
   *Lesson:* Restraint is the only harvest that endures.
-- **[Episode 19: The Vampire Master](/episodes/episode-19/)**  
+- **[Episode 19: The Fake Pilgrim](/episodes/episode-19/)**  
   *Location:* Gothic Mansion  
   *Lesson:* Life flows to those who give, not those who take.
 - **[Episode 20: Outrageous Coincidences](/episodes/episode-20/)**  
   *Location:* Crossroads of Chance  
   *Lesson:* The wise see the hand that moves unseen.
-- **[Episode 21: Pigsy, King and God](/episodes/episode-21/)**  
+- **[Episode 21: Pigsy's Wrongdoings](/episodes/episode-21/)**  
   *Location:* Village Kingdom  
   *Lesson:* True leadership is earned through service.
-- **[Episode 22: Village of the Undead](/episodes/episode-22/)**  
+- **[Episode 22: The Foolish Sage](/episodes/episode-22/)**  
   *Location:* Haunted Village  
   *Lesson:* Face darkness with clarity, and its power dissolves.
 - **Episode 26: The Spider Demon Sisters**  

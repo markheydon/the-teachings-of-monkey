@@ -1,5 +1,5 @@
 ---
-title: "Episode 14: Catfish, Saint and the Shape-Changer"
+title: "Episode 14: The Mighty Ape"
 date: 1979-01-07
 draft: false
 weight: 14
