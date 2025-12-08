@@ -45,6 +45,14 @@ When adding or editing episodes, also update the extras:
 - Commit with clear messages (e.g. `Add Episode 12: Monkey Swallows the Universe`).
 - Open a Pull Request with a short description of your contribution.
 
+#### Monkey Teachings and Wisdom
+
+- All canonical teachings from episodes must be added to `/content/extras/monkey-teachings.md`.
+- Use the format:  
+  `**[Episode XX: Title](/episodes/episode-XX/)** — *"Teaching text here"*`
+- AI‑generated wisdom belongs in `/content/extras/monkey-wisdom-generator.md`.
+- Contributors must include the prompt used when adding AI‑generated wisdom.
+
 ---
 
 ## Style Guidelines
