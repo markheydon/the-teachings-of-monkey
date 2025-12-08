@@ -8,6 +8,8 @@ This project uses Hugo with Markdown content files.
 
 **NOTE**: The episode details are to be taken from the original BBC dubbed version of Monkey from around the end of the 1970s and early part of the 1980s and **NOT** from any re-dubbed version that was done in 2004 for the DVD release.
 
+**Episode names should match the [Official Episode List](/content/extras/official-episode-list.md)**, which contains the canonical list of all 52 episodes used throughout this archive.
+
 Episode pages must follow a consistent structure and style.
 
 Whenever you add a new episode, update `/content/_index.md` (the home page) to include a link to the new episode in the episode archive list, in correct order. This ensures new episodes are discoverable from the main site landing page.
@@ -26,7 +28,7 @@ And like the themes pages, any titles appearing on this page to episodes should 
 
 Each episode file lives in `/content/episodes/` and is named `episode-XX.md`. Where XX is the two-digit episode number (e.g. `episode-01.md`, `episode-23.md`).
 
-In the template, the title should match the episode title exactly as per the original BBC dubbed version of Monkey from around the end of the 1970s and early part of the 1980s and **NOT** from any re-dubbed version that was done in 2004 for the DVD release.
+In the template, the title should match the episode title exactly as per the [Official Episode List](/content/extras/official-episode-list.md).
 
 The episode number in the template, unlike the format in filename, should be in single digits for episodes 1–9 (e.g. `Episode 1: ...`, `Episode 2: ...`). Also, `weight` in the front matter should be the episode number as an integer (e.g. `weight: 1` for episode 1).
 

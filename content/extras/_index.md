@@ -11,6 +11,7 @@ Beyond the episode archive, *The Teachings of Monkey* celebrates the camp, chaos
 Here you’ll find playful features, fan contributions, and thematic explorations.
 
 ## Highlights
+- **Official Episode List** — The canonical list of all 52 episodes, BBC-dubbed and subtitled.
 - **Pigsy’s Greatest Hits** — Pigsy’s most chaotic, hilarious, and unforgettable moments.
 - **Tripitaka’s Calmest Smackdowns** — The monk’s most serene, devastating rebukes.
 - **Demon of the Week Hall of Fame** — The wildest, weirdest, and most memorable monsters.
