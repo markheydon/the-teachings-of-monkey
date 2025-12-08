@@ -1,10 +1,8 @@
 ---
-title: "Official Episode List"
+title: "Episode List"
 weight: 99
 draft: false
 ---
-
-# Episode List
 
 This page contains the canonical list of *Monkey (Saiyūki)* episodes used throughout the archive.
 - Episodes 1–39: BBC English‑dubbed titles, as broadcast in the UK (1979–1981).

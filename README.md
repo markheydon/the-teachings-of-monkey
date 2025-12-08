@@ -37,6 +37,8 @@ See [Fan Participation](content/extras/fan-participation.md) for ideas.
 This archive uses the following sources for canonical episode titles:
 
 - Episodes 1–39: BBC English‑dubbed titles, as broadcast in the UK (1979–1981).
+- Episodes 40–52: Subtitled titles, as documented on [Monkey Heaven](https://www.monkeyheaven.com/fullepisodemapping.html) and [Wikipedia](https://en.wikipedia.org/wiki/Monkey_(TV_series)).
+- IMDb is referenced for cross‑checking, but is **not** the canonical source, as it lists alternate translations that differ from the BBC broadcast titles.
 
 All episode references in this site must match the titles in `/content/extras/episode-list.md`.
 

@@ -14,32 +14,9 @@ Each episode ends with a short narrated teaching: a pearl of wisdom distilled fr
 
 ## 📚 Episode Archive
 
-Explore the journey west, one absurdly enlightening adventure at a time:
+Explore the journey west, one absurdly enlightening adventure at a time! Browse every episode’s teaching, commentary, and chaos in the full archive:
 
-- [Episode 1: Monkey Goes Wild About Heaven](/episodes/episode-01/)
-- [Episode 2: Monkey Turns Nursemaid](/episodes/episode-02/)
-- [Episode 3: The Great Journey Begins](/episodes/episode-03/)
-- [Episode 4: Monkey Swallows the Moon](/episodes/episode-04/)
-- [Episode 5: The Power of Youth](/episodes/episode-05/)
-- [Episode 6: The White Bone Demon](/episodes/episode-06/)
-- [Episode 7: The Curse of the Golden Headband](/episodes/episode-07/)
-- [Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)
-- [Episode 9: What Monkey Called the Dog](/episodes/episode-09/)
-- [Episode 10: Pigsy's in the Well](/episodes/episode-10/)
-- [Episode 11: The Difference Between Night & Day](/episodes/episode-11/)
-- [Episode 12: Pearls Before Swine](/episodes/episode-12/)
-- [Episode 13: The Minx and the Slug](/episodes/episode-13/)
-- [Episode 14: Catfish, Saint and the Shape-Changer](/episodes/episode-14/)
-- [Episode 15: Monkey Meets the Demon Digger](/episodes/episode-15/)
-- [Episode 16: The Most Monstrous Monster](/episodes/episode-16/)
-- [Episode 17: Truth and the Grey Gloves Devil](/episodes/episode-17/)
-- [Episode 18: Land for the Locusts](/episodes/episode-18/)
-- [Episode 19: The Vampire Master](/episodes/episode-19/)
-- [Episode 20: Outrageous Coincidences](/episodes/episode-20/)
-- [Episode 21: Pigsy, King and God](/episodes/episode-21/)
-- [Episode 22: Village of the Undead](/episodes/episode-22/)
-- [Episode 23: Two Little Blessings](/episodes/episode-23/)
-- … full list of 52 episodes coming soon
+- [**See the complete episode list**](/extras/episode-list/)
 ---
 
 ## ✨ Themes of Wisdom
