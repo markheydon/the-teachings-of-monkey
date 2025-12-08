@@ -49,7 +49,7 @@ After Pigsy's greed nearly dooms them, Tripitaka quietly observes, "A hand that 
 
 ---
 
-## 9. **[The Vampire's Victim (Episode 19)](/episodes/episode-19/)**
+## 9. **[The Vampire Master (Episode 19)](/episodes/episode-19/)**
 When the Vampire Master threatens the pilgrims, Tripitaka's serene refusal to show fear weakens the demon's power, proving that calm resolve can defeat even the undead.
 
 ---
