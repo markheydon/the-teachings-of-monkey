@@ -25,6 +25,12 @@ Explore the journey west, one absurdly enlightening adventure at a time:
 - [Episode 7: The Curse of the Golden Headband](/episodes/episode-07/)
 - [Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)
 - [Episode 9: What Monkey Called the Dog](/episodes/episode-09/)
+- [Episode 10: Pigsy's in the Well](/episodes/episode-10/)
+- [Episode 11: The Difference Between Night & Day](/episodes/episode-11/)
+- [Episode 12: Pearls Before Swine](/episodes/episode-12/)
+- [Episode 13: The Minx and the Slug](/episodes/episode-13/)
+- [Episode 14: Catfish, Saint and the Shape-Changer](/episodes/episode-14/)
+- [Episode 15: Monkey Meets the Demon Digger](/episodes/episode-15/)
 - [Episode 23: Two Little Blessings](/episodes/episode-23/)
 - … full list of 52 episodes coming soon
 ---

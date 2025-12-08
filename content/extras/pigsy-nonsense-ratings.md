@@ -20,12 +20,16 @@ Here’s the definitive Snort Score index — rating his nonsense across all 52 
 - **[Episode 7: The Curse of the Golden Headband](/episodes/episode-07/)** — 🐷🐷🐷 (Dodging responsibility with hilarious results)  
 - **[Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)** — 🐷🐷🐷🐷🐷 (Peak lust‑driven disaster)
 - **[Episode 9: What Monkey Calls The Dog-Woman](/episodes/episode-09/)** — 🐷🐷🐷🐷 (Pigsy mistakes the demon for a snack and chaos ensues)
+- **[Episode 10: Pigsy's in the Well](/episodes/episode-10/)** — 🐷🐷🐷🐷 (Pigsy's bumbling nearly drowns the quest)
 
 ---
 
 ## Episodes 11–20
-- **Episode 12: The Fish Demon** — 🐷🐷🐷 (Pigsy nearly becomes bait)  
-- **Episode 15: Pigsy’s Magic Tummy** — 🐷🐷🐷🐷 (Appetite weaponised)  
+- **[Episode 11: The Difference Between Night & Day](/episodes/episode-11/)** — 🐷🐷 (Pigsy complains about the dark but contributes little)
+- **[Episode 12: Pearls Before Swine](/episodes/episode-12/)** — 🐷🐷🐷🐷🐷 (Greed weaponised into pure disaster)
+- **[Episode 13: The Minx and the Slug](/episodes/episode-13/)** — 🐷🐷🐷🐷 (Pigsy's lust for the minx derails the rescue mission)
+- **[Episode 14: Catfish, Saint and the Shape-Changer](/episodes/episode-14/)** — 🐷🐷🐷 (Pigsy is duped by the disguises and blunders accordingly)
+- **[Episode 15: Monkey Meets the Demon Digger](/episodes/episode-15/)** — 🐷🐷🐷🐷 (Pigsy wanders off searching for food and nearly gets everyone lost)
 - **Episode 17: The Shape-Shifting Fox** — 🐷🐷🐷 (Pigsy duped by disguises)  
 - **Episode 19: The Demon Bride** — 🐷🐷🐷🐷 (Pigsy falls for false seduction)
 

@@ -39,5 +39,16 @@ Tripitaka gently but firmly reminds the villagers, “Do not judge by fur or fan
 
 ---
 
+## 7. **[Balance and Patience (Episode 11)](/episodes/episode-11/)**
+When Monkey impatiently charges at the Day-Night Demon, Tripitaka calmly advises, "Haste in darkness only deepens confusion. Wait for the light of understanding."
+
+---
+
+## 8. **[The Pearl Lesson (Episode 12)](/episodes/episode-12/)**
+After Pigsy's greed nearly dooms them, Tripitaka quietly observes, "A hand that grasps too tightly holds only air."
+
+---
+
+
 Tripitaka’s smackdowns prove that true strength lies not in force, but in unwavering calm.
 
