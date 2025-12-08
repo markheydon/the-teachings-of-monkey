@@ -31,16 +31,16 @@ Whether you’re here for enlightenment, nostalgia, or just Pigsy’s magic trou
 As you wander through this archive, take these words with you — part wisdom, part nonsense, all Monkey.
 
 “Control yourself, Monkey! Wisdom is not found in chaos, but in discipline.”  
-*(Tripitaka, 1979)*
+*(Tripitaka, 1979-1980)*
 
 “The journey is long, but every cloud you ride brings you closer to truth.”  
-*(Monkey, 1979)*
+*(Monkey, 1979-1980)*
 
 “All this wisdom is fine, but when’s dinner?”  
-*(Pigsy, 1979)*
+*(Pigsy, 1979-1980)*
 
 “Even the deepest river can be crossed if you keep walking.”  
-*(Sandy, 1979)*
+*(Sandy, 1979-1980)*
 
 ---
 
