@@ -59,6 +59,31 @@ After Pigsy's brief delusion of royalty, Tripitaka gently reminds him, "A crown 
 
 ---
 
+## 11. **[The False Buddha Exposed (Episode 26)](/episodes/episode-26/)**
+When offered false enlightenment, Tripitaka calmly observes, "The journey to wisdom has no end, only those who pretend it does."
+
+---
+
+## 12. **[Ten Thousand Rejections (Episode 27)](/episodes/episode-27/)**
+After Pigsy's romantic delusions spiral out of control, Tripitaka gently reminds him, "A thousand ladies cannot love what does not love itself first."
+
+---
+
+## 13. **[Facing the Dogs (Episode 28)](/episodes/episode-28/)**
+When Pigsy panics before the demon dogs, Tripitaka calmly states, "Fear is louder than any growl. Be still, and silence will protect you."
+
+---
+
+## 14. **[The Emperor's Burden (Episode 34)](/episodes/episode-34/)**
+To the tormented emperor, Tripitaka quietly counsels, "A crown does not excuse cruelty. Even kings must kneel before their conscience."
+
+---
+
+## 15. **[The Identity Crisis (Episode 37)](/episodes/episode-37/)**
+When confronted by perfect duplicates, Tripitaka serenely declares, "I am not what you see, but what I choose to do. My deeds are my only mirror."
+
+---
+
 
 Tripitaka’s smackdowns prove that true strength lies not in force, but in unwavering calm.
 
