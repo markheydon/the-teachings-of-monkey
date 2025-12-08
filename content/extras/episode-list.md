@@ -4,12 +4,12 @@ weight: 99
 draft: false
 ---
 
-# Official Episode List
+# Episode List
 
-This page contains the canonical list of *Monkey (Saiyūki)* episodes used throughout the archive.  
-- Episodes 1–39: BBC‑dubbed titles.  
-- Episodes 40–52: Subtitled titles (never dubbed).  
-- The 2004 remake is **outside the scope** of this archive.
+This page contains the canonical list of *Monkey (Saiyūki)* episodes used throughout the archive.
+- Episodes 1–39: BBC English‑dubbed titles, as broadcast in the UK (1979–1981).
+- Episodes 40–52: Subtitled titles, as documented on [Monkey Heaven](https://www.monkeyheaven.com/fullepisodemapping.html) and [Wikipedia](https://en.wikipedia.org/wiki/Monkey_(TV_series)).
+- IMDb is referenced for cross‑checking, but is **not** the canonical source, as it lists alternate translations that differ from the BBC broadcast titles.
 
 ---
 

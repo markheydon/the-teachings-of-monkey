@@ -32,6 +32,13 @@ Pull requests welcome! Add commentary, new features, or your own “Monkey‑sty
 
 See [Fan Participation](content/extras/fan-participation.md) for ideas.
 
+## Source of Episode Titles
+
+This archive uses the following sources for canonical episode titles:
+
+- Episodes 1–39: BBC English‑dubbed titles, as broadcast in the UK (1979–1981).
+
+All episode references in this site must match the titles in `/content/extras/episode-list.md`.
 
 ## AI‑Generated Content
 
