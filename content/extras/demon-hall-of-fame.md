@@ -84,5 +84,51 @@ The Dog Demon uses disguise and deception to snatch a village girl, but is ultim
 
 ---
 
+
+## 16. **[The Jealousy Demon (Episode 24)](/episodes/episode-24/)**
+A demon disguised as a beautiful woman who stokes jealousy and discord. Turns communities against themselves with whispered suspicions.
+
+---
+
+## 17. **[The Nightmare Demon (Episode 25)](/episodes/episode-25/)**
+Feeds on fear by trapping victims in nightmares that blur with reality. A genuinely eerie villain who weaponises anxiety.
+
+---
+
+## 18. **[The False Buddha (Episode 26)](/episodes/episode-26/)**
+Impersonates enlightenment itself, offering false shortcuts to wisdom. Tests whether the pilgrims truly understand their quest.
+
+---
+
+## 19. **[The Dogs of Death (Episode 28)](/episodes/episode-28/)**
+A pack of demonic hounds that hunt those who show fear. They prove that terror can be conquered only through courage.
+
+---
+
+## 20. **[The Gambler Demon (Episode 29)](/episodes/episode-29/)**
+Challenges victims to life-or-death games where pride becomes the real enemy. Monkey's arrogance nearly costs them everything.
+
+---
+
+## 21. **[The Vengeful Spirit (Episode 32)](/episodes/episode-32/)**
+A ghost who feeds on guilt and regret, forcing each pilgrim to confront their past. Gothic horror meets emotional depth.
+
+---
+
+## 22. **[The Dream Demon (Episode 33)](/episodes/episode-33/)**
+Creates nested layers of illusion where reality becomes impossible to discern. A mind-bending challenge to consciousness itself.
+
+---
+
+## 23. **[The Torment Demon (Episode 34)](/episodes/episode-34/)**
+Curses an emperor with visions of his own cruelty. Proves that power without compassion creates its own punishment.
+
+---
+
+## 24. **[The Identity Thief (Episode 37)](/episodes/episode-37/)**
+Steals the pilgrims' identities, creating perfect duplicates that force existential questions. Who are you when faced with yourself?
+
+---
+
 The Hall of Fame celebrates the creativity of *Monkey’s* villains — equal parts menace and camp comedy.
 
