@@ -33,31 +33,43 @@ Pigsy falls head‑over‑hooves for a grieving widow, only to be duped by demon
 
 ---
 
-## 5. Two Little Blessings (Episode 23)
+## 5. **[Two Little Blessings (Episode 23)](/episodes/episode-23/)**
 **Snort Score:** 🐷🐷🐷🐷🐷  
 Pigsy and Sandy drink from a fertility well and end up pregnant. Peak absurdity, waddling around with mock labour pains.
 
 ---
 
-## 6. **[Monkey Meets the Demon Digger (Episode 15)](/episodes/episode-15/)**
+## 6. **[Pigsy, King and God (Episode 21)](/episodes/episode-21/)**
+**Snort Score:** 🐷🐷🐷🐷🐷  
+Pigsy is mistaken for royalty and fully embraces the delusion. His brief reign of pompous incompetence is peak Pigsy.
+
+---
+
+## 7. **[Land for the Locusts (Episode 18)](/episodes/episode-18/)**
+**Snort Score:** 🐷🐷🐷🐷  
+Pigsy's gluttony mirrors the demonic locust swarm, creating both metaphor and mayhem. His appetite becomes the enemy.
+
+---
+
+## 8. **[Monkey Meets the Demon Digger (Episode 15)](/episodes/episode-15/)**
 **Snort Score:** 🐷🐷🐷🐷  
 Pigsy eats a demon's enchanted food and becomes the unwitting weapon of chaos. His stomach is both his downfall and his superpower.
 
 ---
 
-## 7. Pigsy the Matchmaker (Episode 31)
+## 9. Pigsy the Matchmaker (Episode 31)
 **Snort Score:** 🐷🐷🐷  
 Pigsy tries to play Cupid, but his advice is so misguided it nearly derails the pilgrims' mission. Romance Pigsy‑style is always doomed.
 
 ---
 
-## 8. Pigsy vs. the Demon Chef (Episode 42)
+## 10. Pigsy vs. the Demon Chef (Episode 42)
 **Snort Score:** 🐷🐷🐷🐷🐷  
 Pigsy's appetite collides with a demon's culinary trap. The result: food fight, farce, and a moral about gluttony.
 
 ---
 
-## 9. **[Pigsy vs. the Dog Demon (Episode 9)](/episodes/episode-09/)**
+## 11. **[Pigsy vs. the Dog Demon (Episode 9)](/episodes/episode-09/)**
 **Snort Score:** 🐷🐷🐷🐷  
 Pigsy mistakes the dog demon for dinner, causing chaos and nearly getting the pilgrims eaten instead.
 

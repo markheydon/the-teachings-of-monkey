@@ -30,8 +30,13 @@ Here’s the definitive Snort Score index — rating his nonsense across all 52 
 - **[Episode 13: The Minx and the Slug](/episodes/episode-13/)** — 🐷🐷🐷🐷 (Pigsy's lust for the minx derails the rescue mission)
 - **[Episode 14: Catfish, Saint and the Shape-Changer](/episodes/episode-14/)** — 🐷🐷🐷 (Pigsy is duped by the disguises and blunders accordingly)
 - **[Episode 15: Monkey Meets the Demon Digger](/episodes/episode-15/)** — 🐷🐷🐷🐷 (Pigsy wanders off searching for food and nearly gets everyone lost)
-- **Episode 17: The Shape-Shifting Fox** — 🐷🐷🐷 (Pigsy duped by disguises)  
-- **Episode 19: The Demon Bride** — 🐷🐷🐷🐷 (Pigsy falls for false seduction)
+- **[Episode 16: The Most Monstrous Monster](/episodes/episode-16/)** — 🐷🐷🐷 (Pigsy's fear leads to comic overreaction)
+- **[Episode 17: Truth and the Grey Gloves Devil](/episodes/episode-17/)** — 🐷🐷🐷 (Pigsy falls for the demon's deceptions)
+- **[Episode 18: Land for the Locusts](/episodes/episode-18/)** — 🐷🐷🐷🐷 (Pigsy's gluttony mirrors the locusts' consumption)
+- **[Episode 19: The Vampire Master](/episodes/episode-19/)** — 🐷🐷🐷🐷 (Pigsy's terror of vampires leads to chaotic self-preservation)
+- **[Episode 20: Outrageous Coincidences](/episodes/episode-20/)** — 🐷🐷🐷 (Pigsy stumbles through coincidences, helping and hindering equally)
+- **[Episode 21: Pigsy, King and God](/episodes/episode-21/)** — 🐷🐷🐷🐷🐷 (Peak Pigsy delusion, he believes his own royal fantasy)
+- **[Episode 22: Village of the Undead](/episodes/episode-22/)** — 🐷🐷🐷🐷 (Pigsy's superstitious terror empowers the undead)
 
 ---
 
