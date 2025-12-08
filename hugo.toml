@@ -4,6 +4,7 @@ canonifyURLs = true
 languageCode = "en-gb"
 theme = "PaperMod"
 title = "The Teachings of Monkey"
+copyright = "Irrepressible since 2025 · [Mark Heydon](https://github.com/markheydon)"
 
 # Menu entries
 [menu]
@@ -31,3 +32,6 @@ title = "The Teachings of Monkey"
     name = "Extras"
     url = "extras/"
     weight = 4
+
+[params.footer]
+  text = "[Repo](https://github.com/markheydon/the-teachings-of-monkey/)"
