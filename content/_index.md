@@ -16,7 +16,7 @@ Each episode ends with a short narrated teaching: a pearl of wisdom distilled fr
 
 Explore the journey west, one absurdly enlightening adventure at a time! Browse every episode’s teaching, commentary, and chaos in the full archive:
 
-- [**See the complete episode list**](/extras/episode-list.md)
+- [**See the complete episode list**](/extras/episode-list/)
 ---
 
 ## ✨ Themes of Wisdom
