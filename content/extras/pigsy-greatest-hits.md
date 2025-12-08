@@ -39,7 +39,7 @@ Pigsy and Sandy drink from a fertility well and end up pregnant. Peak absurdity,
 
 ---
 
-## 6. Pigsy's Magic Tummy (Episode 15)
+## 6. **[Monkey Meets the Demon Digger (Episode 15)](/episodes/episode-15/)**
 **Snort Score:** 🐷🐷🐷🐷  
 Pigsy eats a demon's enchanted food and becomes the unwitting weapon of chaos. His stomach is both his downfall and his superpower.
 
