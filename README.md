@@ -72,7 +72,6 @@ Check that each file complies with `.github/copilot-instructions.md` and `CONTRI
 - Master lists updated with matching entries:
   - Pigsy Nonsense Ratings
   - Monkey Teachings
-  - Monkey Wisdom Generator (AI‑generated)
   - Tripitaka Smackdowns
   - Pigsy Greatest Hits
   - Demon Hall of Fame
