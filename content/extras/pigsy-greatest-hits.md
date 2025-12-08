@@ -75,5 +75,30 @@ Pigsy mistakes the dog demon for dinner, causing chaos and nearly getting the pi
 
 ---
 
+
+## 12. **[Ten Thousand Ladies (Episode 27)](/episodes/episode-27/)**
+**Snort Score:** 🐷🐷🐷🐷🐷  
+Pigsy believes he's destined to marry ten thousand maidens. His vanity reaches legendary proportions, creating peak romantic chaos.
+
+---
+
+## 13. **[The Dogs of Death (Episode 28)](/episodes/episode-28/)**
+**Snort Score:** 🐷🐷🐷🐷  
+Pigsy's terror of demon dogs leads to panicked flight and comic cowardice. Fear has never been funnier.
+
+---
+
+## 14. **[Between Heaven and Hell (Episode 35)](/episodes/episode-35/)**
+**Snort Score:** 🐷🐷🐷🐷  
+Pigsy's list of sins is comically long, but his honest confession saves him. Sincerity mixed with gluttony and lust.
+
+---
+
+## 15. **[The Fountain of Youth (Episode 39)](/episodes/episode-39/)**
+**Snort Score:** 🐷🐷🐷🐷🐷  
+Pigsy's quest for eternal life and endless feasting reaches peak absurdity. He nearly traps everyone in eternal stagnation for the sake of infinite meals.
+
+---
+
 Pigsy's antics remind us that chaos can be just as entertaining as wisdom — and sometimes, the nonsense *is* the lesson.
 

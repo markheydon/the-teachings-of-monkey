@@ -10,6 +10,10 @@ The pilgrims squabble constantly, but their survival depends on cooperation. The
 ---
 
 ## Key Episodes
+- **[Episode 31: The Land with Two Suns](/episodes/episode-31/)**
+  *Teaching:* Balance is the foundation of life. Too much of even a good thing brings ruin.
+- **[Episode 35: Between Heaven and Hell](/episodes/episode-35/)**
+  *Teaching:* Judgment is not imposed from above, but earned through action. We are the sum of our choices.
 - **Episode 42: Pigsy vs. the Demon Chef**  
   *Teaching:* Gluttony devours itself, but unity defeats deception.  
 - **Episode 52: The Final Journey**  

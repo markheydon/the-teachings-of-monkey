@@ -14,6 +14,10 @@ Compassion is the antidote to illusion and deception. These episodes remind us t
   *Teaching:* Compassion tempers chaos. Strength without care is no strength at all.
 - **[Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)**
   *Teaching:* Lust blinds judgment. True vision comes from compassion, not desire.
+- **[Episode 32: The House of the Evil Spirit](/episodes/episode-32/)**
+  *Teaching:* The past is a prison we build ourselves. Forgiveness is the key that sets us free.
+- **[Episode 34: The Tormented Emperor](/episodes/episode-34/)**
+  *Teaching:* Power without compassion creates its own prison. Even emperors must answer for their deeds.
 - **Episode 19: The Demon Bride**
   *Teaching:* True compassion resists false seduction.
 

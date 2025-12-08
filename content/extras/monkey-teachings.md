@@ -57,6 +57,39 @@ The narrator's voice closes each episode with a pearl of wisdom — distilled fr
 
 **[Episode 23: Two Little Blessings](/episodes/episode-23/)** — *"Even blessings can become burdens when sought without wisdom. Responsibility lies not in desire, but in foresight."*
 
+
+**[Episode 24: The Fires of Jealousy](/episodes/episode-24/)** — *"Jealousy is a fire that consumes the heart. Trust extinguishes what suspicion ignites."*
+
+**[Episode 25: The Country of Nightmares](/episodes/episode-25/)** — *"Fear is a dream we mistake for reality. Courage wakes us to truth."*
+
+**[Episode 26: The End of the Way](/episodes/episode-26/)** — *"The true path has no shortcuts. The journey itself is the destination."*
+
+**[Episode 27: Pigsy's Ten Thousand Ladies](/episodes/episode-27/)** — *"Flattery is the demon's bait. Humility sees through the trap."*
+
+**[Episode 28: The Dogs of Death](/episodes/episode-28/)** — *"Fear gives the beast its fangs. Face it without trembling, and it becomes harmless."*
+
+**[Episode 29: You Win Some, You Lose Some](/episodes/episode-29/)** — *"Victory without wisdom is hollow. True success lies in knowing when to yield."*
+
+**[Episode 30: Pigsy Learns a Lesson](/episodes/episode-30/)** — *"Learning begins with humility. The fool who seeks wisdom is wiser than the sage who believes he knows all."*
+
+**[Episode 31: The Land with Two Suns](/episodes/episode-31/)** — *"Balance is the foundation of life. Too much of even a good thing brings ruin."*
+
+**[Episode 32: The House of the Evil Spirit](/episodes/episode-32/)** — *"The past is a prison we build ourselves. Forgiveness is the key that sets us free."*
+
+**[Episode 33: Am I Dreaming?](/episodes/episode-33/)** — *"Reality is not what appears, but what remains when illusion dissolves. The mind awake sees truth."*
+
+**[Episode 34: The Tormented Emperor](/episodes/episode-34/)** — *"Power without compassion creates its own prison. Even emperors must answer for their deeds."*
+
+**[Episode 35: Between Heaven and Hell](/episodes/episode-35/)** — *"Judgment is not imposed from above, but earned through action. We are the sum of our choices."*
+
+**[Episode 36: The Foolish Philosopher](/episodes/episode-36/)** — *"Knowledge without action is empty noise. True wisdom is lived, not spoken."*
+
+**[Episode 37: Who Am I?](/episodes/episode-37/)** — *"Identity is not what others see, but what we choose to become. We are defined by our actions, not our reflections."*
+
+**[Episode 38: What is Wisdom?](/episodes/episode-38/)** — *"Wisdom is not a destination, but a journey. It wears many faces, and all are true."*
+
+**[Episode 39: The Fountain of Youth](/episodes/episode-39/)** — *"Youth is wasted on the young, and immortality on the foolish. Life's meaning lies in its fleeting nature."*
+
 ---
 
 These teachings capture the spirit of *Monkey*: playful, profound, and always a little absurd.

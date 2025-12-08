@@ -16,6 +16,10 @@ Monkey’s impulsiveness often clashes with Tripitaka’s restraint. These episo
   *Teaching:* Appetite must be tempered by wisdom.
 - **[Episode 23: Two Little Blessings](/episodes/episode-23/)**
   *Teaching:* Even blessings can become burdens when sought without wisdom. Responsibility lies not in desire, but in foresight.
+- **[Episode 29: You Win Some, You Lose Some](/episodes/episode-29/)**
+  *Teaching:* Victory without wisdom is hollow. True success lies in knowing when to yield.
+- **[Episode 30: Pigsy Learns a Lesson](/episodes/episode-30/)**
+  *Teaching:* Learning begins with humility. The fool who seeks wisdom is wiser than the sage who believes he knows all.
 
 ---
 

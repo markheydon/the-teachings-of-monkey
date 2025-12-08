@@ -69,18 +69,59 @@ Masters of illusion, weaving webs both literal and metaphorical. Their disguises
 
 ---
 
-## 13. The False Buddha (Episode 33)
-A demon who impersonates enlightenment itself. His downfall is a lesson in discernment: not all wisdom is true wisdom.
-
----
-
-## 14. The Demon Chef (Episode 42)
+## 13. The Demon Chef (Episode 42)
 Turns gluttony into a weapon, luring Pigsy with promises of feasts. Proof that appetite can be a battlefield.
 
 ---
 
-## 15. **[The Dog Demon (Episode 9)](/episodes/episode-09)**
+## 14. **[The Dog Demon (Episode 9)](/episodes/episode-09)**
 The Dog Demon uses disguise and deception to snatch a village girl, but is ultimately undone by Monkey’s cunning and Pigsy’s appetite.
+
+---
+
+
+## 15. **[The Jealousy Demon (Episode 24)](/episodes/episode-24/)**
+A demon disguised as a beautiful woman who stokes jealousy and discord. Turns communities against themselves with whispered suspicions.
+
+---
+
+## 16. **[The Nightmare Demon (Episode 25)](/episodes/episode-25/)**
+Feeds on fear by trapping victims in nightmares that blur with reality. A genuinely eerie villain who weaponises anxiety.
+
+---
+
+## 17. **[The False Buddha (Episode 26)](/episodes/episode-26/)**
+Impersonates enlightenment itself, offering false shortcuts to wisdom. Tests whether the pilgrims truly understand their quest.
+
+---
+
+## 18. **[The Dogs of Death (Episode 28)](/episodes/episode-28/)**
+A pack of demonic hounds that hunt those who show fear. They prove that terror can be conquered only through courage.
+
+---
+
+## 19. **[The Gambler Demon (Episode 29)](/episodes/episode-29/)**
+Challenges victims to life-or-death games where pride becomes the real enemy. Monkey's arrogance nearly costs them everything.
+
+---
+
+## 20. **[The Vengeful Spirit (Episode 32)](/episodes/episode-32/)**
+A ghost who feeds on guilt and regret, forcing each pilgrim to confront their past. Gothic horror meets emotional depth.
+
+---
+
+## 21. **[The Dream Demon (Episode 33)](/episodes/episode-33/)**
+Creates nested layers of illusion where reality becomes impossible to discern. A mind-bending challenge to consciousness itself.
+
+---
+
+## 22. **[The Torment Demon (Episode 34)](/episodes/episode-34/)**
+Curses an emperor with visions of his own cruelty. Proves that power without compassion creates its own punishment.
+
+---
+
+## 23. **[The Identity Thief (Episode 37)](/episodes/episode-37/)**
+Steals the pilgrims' identities, creating perfect duplicates that force existential questions. Who are you when faced with yourself?
 
 ---
 

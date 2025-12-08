@@ -75,17 +75,67 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 
 ---
 
-## Stage 4: Greed and Gold
-- **Episode 33: The False Buddha**  
-  *Location:* Temple of False Enlightenment  
-  *Lesson:* Not all wisdom is true wisdom.  
-- **Episode 34: The Illusion of Gold**  
-  *Location:* Demon’s Treasure Hoard  
-  *Lesson:* Greed blinds the heart.
+
+## Stage 4: Tests of Character
+- **[Episode 23: Two Little Blessings](/episodes/episode-23/)**  
+  *Location:* The Fertility Well  
+  *Lesson:* Responsibility lies not in desire, but in foresight.
+- **[Episode 24: The Fires of Jealousy](/episodes/episode-24/)**  
+  *Location:* Village of Discord  
+  *Lesson:* Trust extinguishes what suspicion ignites.
+- **[Episode 25: The Country of Nightmares](/episodes/episode-25/)**  
+  *Location:* Realm of Dreams  
+  *Lesson:* Courage wakes us to truth.
+- **[Episode 26: The End of the Way](/episodes/episode-26/)**  
+  *Location:* False Temple  
+  *Lesson:* The journey itself is the destination.
+- **[Episode 27: Pigsy's Ten Thousand Ladies](/episodes/episode-27/)**  
+  *Location:* Village of Vanity  
+  *Lesson:* Humility sees through flattery's trap.
+- **[Episode 28: The Dogs of Death](/episodes/episode-28/)**  
+  *Location:* Terrorised Village  
+  *Lesson:* Face fear without trembling, and it becomes harmless.
+- **[Episode 29: You Win Some, You Lose Some](/episodes/episode-29/)**  
+  *Location:* The Gambler's Den  
+  *Lesson:* True success lies in knowing when to yield.
+- **[Episode 30: Pigsy Learns a Lesson](/episodes/episode-30/)**  
+  *Location:* School of Wisdom  
+  *Lesson:* The fool who seeks wisdom is wiser than the sage who believes he knows all.
 
 ---
 
-## Stage 5: Chaos and Closure
+## Stage 5: Depths of the Journey
+- **[Episode 31: The Land with Two Suns](/episodes/episode-31/)**  
+  *Location:* Scorched Plains  
+  *Lesson:* Too much of even a good thing brings ruin.
+- **[Episode 32: The House of the Evil Spirit](/episodes/episode-32/)**  
+  *Location:* Haunted Mansion  
+  *Lesson:* Forgiveness is the key that sets us free.
+- **[Episode 33: Am I Dreaming?](/episodes/episode-33/)**  
+  *Location:* Realm of Illusions  
+  *Lesson:* The mind awake sees truth.
+- **[Episode 34: The Tormented Emperor](/episodes/episode-34/)**  
+  *Location:* Imperial Palace  
+  *Lesson:* Even emperors must answer for their deeds.
+- **[Episode 35: Between Heaven and Hell](/episodes/episode-35/)**  
+  *Location:* The Judgment Hall  
+  *Lesson:* We are the sum of our choices.
+- **[Episode 36: The Foolish Philosopher](/episodes/episode-36/)**  
+  *Location:* The Philosopher's Garden  
+  *Lesson:* True wisdom is lived, not spoken.
+- **[Episode 37: Who Am I?](/episodes/episode-37/)**  
+  *Location:* Mirror Valley  
+  *Lesson:* We are defined by our actions, not our reflections.
+- **[Episode 38: What is Wisdom?](/episodes/episode-38/)**  
+  *Location:* Crossroads of Truth  
+  *Lesson:* Wisdom wears many faces, and all are true.
+- **[Episode 39: The Fountain of Youth](/episodes/episode-39/)**  
+  *Location:* Eternal Spring  
+  *Lesson:* Life's meaning lies in its fleeting nature.
+
+---
+
+## Stage 6: Chaos and Closure
 - **Episode 42: Pigsy vs. the Demon Chef**  
   *Location:* Demon’s Kitchen  
   *Lesson:* Gluttony devours itself.  
