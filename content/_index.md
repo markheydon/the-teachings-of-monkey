@@ -31,6 +31,13 @@ Explore the journey west, one absurdly enlightening adventure at a time:
 - [Episode 13: The Minx and the Slug](/episodes/episode-13/)
 - [Episode 14: Catfish, Saint and the Shape-Changer](/episodes/episode-14/)
 - [Episode 15: Monkey Meets the Demon Digger](/episodes/episode-15/)
+- [Episode 16: The Most Monstrous Monster](/episodes/episode-16/)
+- [Episode 17: Truth and the Grey Gloves Devil](/episodes/episode-17/)
+- [Episode 18: Land for the Locusts](/episodes/episode-18/)
+- [Episode 19: The Vampire Master](/episodes/episode-19/)
+- [Episode 20: Outrageous Coincidences](/episodes/episode-20/)
+- [Episode 21: Pigsy, King and God](/episodes/episode-21/)
+- [Episode 22: Village of the Undead](/episodes/episode-22/)
 - [Episode 23: Two Little Blessings](/episodes/episode-23/)
 - … full list of 52 episodes coming soon
 ---

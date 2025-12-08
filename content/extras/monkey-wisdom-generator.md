@@ -19,6 +19,13 @@ The narrator's teachings distilled chaos into moral lessons. Here, AI continues 
 - **[Episode 13: The Minx and the Slug](/episodes/episode-13/)** — *"Seduction and repulsion are twin faces of desire. See through both to find truth."*
 - **[Episode 14: Catfish, Saint and the Shape-Changer](/episodes/episode-14/)** — *"Holiness can be mimicked, but true virtue reveals itself through action, not appearance."*
 - **[Episode 15: Monkey Meets the Demon Digger](/episodes/episode-15/)** — *"When trapped beneath the surface, the way out is through cooperation, not force."*
+- **[Episode 16: The Most Monstrous Monster](/episodes/episode-16/)** — *"The most fearsome face may hide the gentlest heart. Judge not by appearance, but by deed."*
+- **[Episode 17: Truth and the Grey Gloves Devil](/episodes/episode-17/)** — *"Truth is not what we see, but what remains when illusion is stripped away."*
+- **[Episode 18: Land for the Locusts](/episodes/episode-18/)** — *"Greed devours all it touches. Restraint is the only harvest that endures."*
+- **[Episode 19: The Vampire Master](/episodes/episode-19/)** — *"Life cannot be hoarded or stolen. It flows freely to those who give, not those who take."*
+- **[Episode 20: Outrageous Coincidences](/episodes/episode-20/)** — *"Coincidence is often the mask worn by design. The wise see the hand that moves unseen."*
+- **[Episode 21: Pigsy, King and God](/episodes/episode-21/)** — *"A crown does not make a king, nor robes a god. True leadership is earned through service, not title."*
+- **[Episode 22: Village of the Undead](/episodes/episode-22/)** — *"Fear feeds what it flees. Face the darkness with clarity, and its power dissolves."*
 
 ---
 

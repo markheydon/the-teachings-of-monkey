@@ -49,6 +49,16 @@ After Pigsy's greed nearly dooms them, Tripitaka quietly observes, "A hand that 
 
 ---
 
+## 9. **[The Vampire's Victim (Episode 19)](/episodes/episode-19/)**
+When the Vampire Master threatens the pilgrims, Tripitaka's serene refusal to show fear weakens the demon's power, proving that calm resolve can defeat even the undead.
+
+---
+
+## 10. **[The False King (Episode 21)](/episodes/episode-21/)**
+After Pigsy's brief delusion of royalty, Tripitaka gently reminds him, "A crown on a pig does not make it a king. Service to others is the only true sovereignty."
+
+---
+
 
 Tripitaka’s smackdowns prove that true strength lies not in force, but in unwavering calm.
 

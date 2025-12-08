@@ -48,9 +48,27 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 - **[Episode 15: Monkey Meets the Demon Digger](/episodes/episode-15/)**  
   *Location:* Underground Labyrinth  
   *Lesson:* The way out is through cooperation, not force.
-- **Episode 17: The Shape-Shifting Fox**  
-  *Location:* Forest of Deception  
-  *Lesson:* Illusion collapses under truth.  
+- **[Episode 16: The Most Monstrous Monster](/episodes/episode-16/)**  
+  *Location:* Mountain Pass  
+  *Lesson:* Judge not by appearance, but by deed.
+- **[Episode 17: Truth and the Grey Gloves Devil](/episodes/episode-17/)**  
+  *Location:* Village of Lies  
+  *Lesson:* Truth remains when illusion is stripped away.
+- **[Episode 18: Land for the Locusts](/episodes/episode-18/)**  
+  *Location:* Plague-Stricken Village  
+  *Lesson:* Restraint is the only harvest that endures.
+- **[Episode 19: The Vampire Master](/episodes/episode-19/)**  
+  *Location:* Gothic Mansion  
+  *Lesson:* Life flows to those who give, not those who take.
+- **[Episode 20: Outrageous Coincidences](/episodes/episode-20/)**  
+  *Location:* Crossroads of Chance  
+  *Lesson:* The wise see the hand that moves unseen.
+- **[Episode 21: Pigsy, King and God](/episodes/episode-21/)**  
+  *Location:* Village Kingdom  
+  *Lesson:* True leadership is earned through service.
+- **[Episode 22: Village of the Undead](/episodes/episode-22/)**  
+  *Location:* Haunted Village  
+  *Lesson:* Face darkness with clarity, and its power dissolves.
 - **Episode 26: The Spider Demon Sisters**  
   *Location:* Webbed Cavern  
   *Lesson:* Beauty can be a trap.

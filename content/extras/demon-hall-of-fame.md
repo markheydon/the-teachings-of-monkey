@@ -39,27 +39,47 @@ A tunnel-dwelling demon who traps the pilgrims in an underground labyrinth. Test
 
 ---
 
-## 7. The Spider Demon Sisters (Episode 26)
+## 7. **[The Most Monstrous Monster (Episode 16)](/episodes/episode-16/)**
+A demon whose terrifying appearance conceals unexpected complexity. Challenges the pilgrims to look beyond surface horror.
+
+---
+
+## 8. **[The Grey Gloves Devil (Episode 17)](/episodes/episode-17/)**
+A master manipulator who wields truth itself as a weapon, turning allies against each other through carefully crafted lies.
+
+---
+
+## 9. **[The Locust King (Episode 18)](/episodes/episode-18/)**
+Commands a plague of demonic locusts that devour entire villages. Embodies the destructive power of unchecked greed.
+
+---
+
+## 10. **[The Vampire Master (Episode 19)](/episodes/episode-19/)**
+Drains life force rather than blood, blending Eastern and Western demon lore into gothic horror. Defeated by serene resolve.
+
+---
+
+## 11. **[Wun-Lung and the Three Witches (Episode 22)](/episodes/episode-22/)**
+The undead demon and his witch allies create a trap powered by belief itself. A genuinely eerie supernatural threat.
+
+---
+
+## 12. The Spider Demon Sisters (Episode 26)
 Masters of illusion, weaving webs both literal and metaphorical. Their disguises nearly ensnare Tripitaka, proving that beauty can be the deadliest trap.
 
 ---
 
-## 8. The False Buddha (Episode 33)
+## 13. The False Buddha (Episode 33)
 A demon who impersonates enlightenment itself. His downfall is a lesson in discernment: not all wisdom is true wisdom.
 
 ---
 
-## 9. The Shape-Shifting Fox (Episode 17)
-A trickster who cycles through disguises faster than Pigsy cycles through excuses. His schemes collapse under Monkey’s sharp eye.
-
----
-
-## 10. The Demon Chef (Episode 42)
+## 14. The Demon Chef (Episode 42)
 Turns gluttony into a weapon, luring Pigsy with promises of feasts. Proof that appetite can be a battlefield.
 
 ---
 
-## 11. **[The Dog Demon (Episode 9)](/episodes/episode-09)**
+## 15. **[The Dog Demon (Episode 9)](/episodes/episode-09)**
 The Dog Demon uses disguise and deception to snatch a village girl, but is ultimately undone by Monkey’s cunning and Pigsy’s appetite.
 
 ---
