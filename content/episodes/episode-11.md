@@ -1,5 +1,5 @@
 ---
-title: "Episode 11: The Difference Between Night & Day"
+title: "Episode 11: The Difference Between Night and Day"
 date: 1978-12-10
 draft: false
 weight: 11

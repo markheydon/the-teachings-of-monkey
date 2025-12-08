@@ -1,5 +1,5 @@
 ---
-title: "Episode 13: The Minx and the Slug"
+title: "Episode 13: The Great Horse Hunt"
 date: 1978-12-24
 draft: false
 weight: 13

@@ -6,8 +6,11 @@ Thanks for your interest in contributing! This project is a playful, open archiv
 
 ## How to Contribute
 
+### 1. Adding Episodes
+
 - Place new episode files in `/content/episodes/`.
 - Use the template in `copilot-instructions.md` for consistency.
+- **Episode names must match the [Official Episode List](/content/extras/episode-list.md)**, which contains the canonical list of all 52 episodes.
 - Include:
   - Front matter (`title`, `date`, `draft: false`, `weight`)
     - `weight` should be set to the episode number (e.g. `weight: 2` for episode 2) to ensure correct sorting on the Episodes section page.

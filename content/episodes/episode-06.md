@@ -1,5 +1,5 @@
 ---
-title: "Episode 6: The White Bone Demon"
+title: "Episode 6: Even Monsters Can Be People"
 date: 1979-12-15
 draft: false
 weight: 6

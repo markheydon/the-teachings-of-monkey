@@ -14,29 +14,29 @@ Here’s the definitive Snort Score index — rating his nonsense across all 52 
 - **[Episode 1: Monkey Goes Wild About Heaven](/episodes/episode-01/)** — 🐷🐷 (Pigsy not yet introduced, but nonsense potential foreshadowed)  
 - **[Episode 2: Monkey Turns Nursemaid](/episodes/episode-02/)** — 🐷🐷🐷 (Pigsy meddles with domestic duties)  
 - **[Episode 3: The Great Journey Begins](/episodes/episode-03/)** — 🐷🐷🐷🐷 (Pigsy joins, instantly chaotic)  
-- **[Episode 4: Monkey Swallows the Moon](/episodes/episode-04/)** — 🐷🐷🐷🐷 (Bumbling bravado meets classic mischief)  
+- **[Episode 4: Monkey Swallows the Universe](/episodes/episode-04/)** — 🐷🐷🐷🐷 (Bumbling bravado meets classic mischief)  
 - **[Episode 5: The Power of Youth](/episodes/episode-05/)** — 🐷🐷🐷🐷🐷 (Peak chaos, Pigsy's childish antics reach new heights)  
-- **[Episode 6: The White Bone Demon](/episodes/episode-06/)** — 🐷🐷🐷🐷 (Cowardice matched only by appetite)  
-- **[Episode 7: The Curse of the Golden Headband](/episodes/episode-07/)** — 🐷🐷🐷 (Dodging responsibility with hilarious results)  
+- **[Episode 6: Even Monsters Can Be People](/episodes/episode-06/)** — 🐷🐷🐷🐷 (Cowardice matched only by appetite)  
+- **[Episode 7: The Beginning of Wisdom](/episodes/episode-07/)** — 🐷🐷🐷 (Dodging responsibility with hilarious results)  
 - **[Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)** — 🐷🐷🐷🐷🐷 (Peak lust‑driven disaster)
-- **[Episode 9: What Monkey Calls The Dog-Woman](/episodes/episode-09/)** — 🐷🐷🐷🐷 (Pigsy mistakes the demon for a snack and chaos ensues)
+- **[Episode 9: What Monkey Calls the Real World](/episodes/episode-09/)** — 🐷🐷🐷🐷 (Pigsy mistakes the demon for a snack and chaos ensues)
 - **[Episode 10: Pigsy's in the Well](/episodes/episode-10/)** — 🐷🐷🐷🐷 (Pigsy's bumbling nearly drowns the quest)
 
 ---
 
 ## Episodes 11–20
-- **[Episode 11: The Difference Between Night & Day](/episodes/episode-11/)** — 🐷🐷 (Pigsy complains about the dark but contributes little)
+- **[Episode 11: The Difference Between Night and Day](/episodes/episode-11/)** — 🐷🐷 (Pigsy complains about the dark but contributes little)
 - **[Episode 12: Pearls Before Swine](/episodes/episode-12/)** — 🐷🐷🐷🐷🐷 (Greed weaponised into pure disaster)
-- **[Episode 13: The Minx and the Slug](/episodes/episode-13/)** — 🐷🐷🐷🐷 (Pigsy's lust for the minx derails the rescue mission)
-- **[Episode 14: Catfish, Saint and the Shape-Changer](/episodes/episode-14/)** — 🐷🐷🐷 (Pigsy is duped by the disguises and blunders accordingly)
-- **[Episode 15: Monkey Meets the Demon Digger](/episodes/episode-15/)** — 🐷🐷🐷🐷 (Pigsy wanders off searching for food and nearly gets everyone lost)
+- **[Episode 13: The Great Horse Hunt](/episodes/episode-13/)** — 🐷🐷🐷🐷 (Pigsy's lust for the minx derails the rescue mission)
+- **[Episode 14: The Mighty Ape](/episodes/episode-14/)** — 🐷🐷🐷 (Pigsy is duped by the disguises and blunders accordingly)
+- **[Episode 15: Pigsy's Magic Trousers](/episodes/episode-15/)** — 🐷🐷🐷🐷 (Pigsy wanders off searching for food and nearly gets everyone lost)
 - **[Episode 16: The Most Monstrous Monster](/episodes/episode-16/)** — 🐷🐷🐷 (Pigsy's fear leads to comic overreaction)
 - **[Episode 17: Truth and the Grey Gloves Devil](/episodes/episode-17/)** — 🐷🐷🐷 (Pigsy falls for the demon's deceptions)
 - **[Episode 18: Land for the Locusts](/episodes/episode-18/)** — 🐷🐷🐷🐷 (Pigsy's gluttony mirrors the locusts' consumption)
-- **[Episode 19: The Vampire Master](/episodes/episode-19/)** — 🐷🐷🐷🐷 (Pigsy's terror of vampires leads to chaotic self-preservation)
+- **[Episode 19: The Fake Pilgrim](/episodes/episode-19/)** — 🐷🐷🐷🐷 (Pigsy's terror of vampires leads to chaotic self-preservation)
 - **[Episode 20: Outrageous Coincidences](/episodes/episode-20/)** — 🐷🐷🐷 (Pigsy stumbles through coincidences, helping and hindering equally)
-- **[Episode 21: Pigsy, King and God](/episodes/episode-21/)** — 🐷🐷🐷🐷🐷 (Peak Pigsy delusion, he believes his own royal fantasy)
-- **[Episode 22: Village of the Undead](/episodes/episode-22/)** — 🐷🐷🐷🐷 (Pigsy's superstitious terror empowers the undead)
+- **[Episode 21: Pigsy's Wrongdoings](/episodes/episode-21/)** — 🐷🐷🐷🐷🐷 (Peak Pigsy delusion, he believes his own royal fantasy)
+- **[Episode 22: The Foolish Sage](/episodes/episode-22/)** — 🐷🐷🐷🐷 (Pigsy's superstitious terror empowers the undead)
 
 ---
 

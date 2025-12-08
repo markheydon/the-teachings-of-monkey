@@ -10,6 +10,7 @@ Beyond the episode archive, *The Teachings of Monkey* celebrates the camp, chaos
 
 Here you'll find playful features, fan contributions, and thematic explorations.
 
+
 ## Highlights
 - **Pigsy's Greatest Hits** — Pigsy's most chaotic, hilarious, and unforgettable moments.
 - **Tripitaka's Calmest Smackdowns** — The monk's most serene, devastating rebukes.
@@ -18,6 +19,9 @@ Here you'll find playful features, fan contributions, and thematic explorations.
 - **Monkey's Wisdom Generator** — Campy, AI-powered teachings in the spirit of the show.
 - **Journey to the West Tracker** — Follow the pilgrims' progress, episode by episode.
 - **Pigsy Nonsense Ratings Master List** — The definitive Snort Scale for Pigsy's antics.
+
+## Other Content
+- **Official Episode List** — The canonical list of all 52 episodes, BBC-dubbed and subtitled.
 - **Fan Participation** — Where viewers join the fun and share their own Monkey magic.
 
 The extras are where nonsense meets wisdom — and where fans can join the fun.

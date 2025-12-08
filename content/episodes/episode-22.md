@@ -1,5 +1,5 @@
 ---
-title: "Episode 22: Village of the Undead"
+title: "Episode 22: The Foolish Sage"
 date: 1979-03-04
 draft: false
 weight: 22

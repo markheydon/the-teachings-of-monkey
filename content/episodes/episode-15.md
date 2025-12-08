@@ -1,5 +1,5 @@
 ---
-title: "Episode 15: Monkey Meets the Demon Digger"
+title: "Episode 15: Pigsy's Magic Trousers"
 date: 1979-01-14
 draft: false
 weight: 15

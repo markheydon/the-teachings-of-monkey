@@ -1,5 +1,5 @@
 ---
-title: "Episode 19: The Vampire Master"
+title: "Episode 19: The Fake Pilgrim"
 date: 1979-02-11
 draft: false
 weight: 19
