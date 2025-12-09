@@ -79,7 +79,7 @@ Standard format should be used on all pages unless they are specifically mention
 ```
 
 This alternative should be used in the following pages only:
-
+- Pigsy's Greatest Hits.
 
 **NOTE:** Do not mix formats within the same file.
 
@@ -131,11 +131,12 @@ When generating new episodes, also update the following extras:
   Format: `Episode XX — 🐷🐷🐷🐷 (short comment)`
 
 - **Monkey Teachings** → `/content/extras/monkey-teachings.md`  
-  Each episode must be represented with its canonical teaching.  
-  **The teachings are the primary content** and must be styled prominently using blockquotes.  
-  Episode links are secondary and appear as compact references beneath each teaching.  
-  Format: `> **"Teaching text here"**  \n> *(from **[Episode XX: Title](/episodes/episode-XX/)**)*`  
-  Always link to the episode page in bold within the reference line.  
+  Each episode must be represented with its canonical teaching.
+
+  **The teachings are the primary content** and must be styled prominently using blockquotes.
+  Episode links are secondary and appear as compact references beneath each teaching.
+  Format: `> _**"Teaching text here"**_  \n> *(from [Episode XX: Title](/episodes/episode-XX/))*`
+  Episode links appear in plain brackets (not bold) within the reference line.
   Keep this list updated whenever new episodes are added.
 
 - **Monkey Wisdom Generator** → `/content/extras/monkey-wisdom-generator.md`  
