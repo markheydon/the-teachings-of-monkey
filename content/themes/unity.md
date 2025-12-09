@@ -14,10 +14,12 @@ The pilgrims squabble constantly, but their survival depends on cooperation. The
   *Teaching:* Balance is the foundation of life. Too much of even a good thing brings ruin.
 - **[Episode 35: Between Heaven and Hell](/episodes/episode-35/)**
   *Teaching:* Judgment is not imposed from above, but earned through action. We are the sum of our choices.
-- **Episode 42: Pigsy vs. the Demon Chef**  
-  *Teaching:* Gluttony devours itself, but unity defeats deception.  
-- **Episode 52: The Final Journey**  
-  *Teaching:* Calm leadership achieves the goal.
+- **[Episode 42: Keep on Dancing](/episodes/episode-42/)**
+  *Teaching:* Not all invitations deserve acceptance. Knowing when to refuse is as important as knowing when to join.
+- **[Episode 49: Stoned](/episodes/episode-49/)**
+  *Teaching:* Not all battles are won by facing the enemy. Sometimes, turning away is the bravest choice.
+- **[Episode 52: The End of the Line](/episodes/episode-52/)**
+  *Teaching:* The path is the teaching. Those who seek only the destination miss the journey that shapes them.
 
 ---
 

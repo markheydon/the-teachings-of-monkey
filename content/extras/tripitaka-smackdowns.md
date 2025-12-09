@@ -87,3 +87,24 @@ When confronted by perfect duplicates, Tripitaka serenely declares, "I am not wh
 
 Tripitaka’s smackdowns prove that true strength lies not in force, but in unwavering calm.
 
+
+## 16. **[The Reformed Demon (Episode 40)](/episodes/episode-40/)**
+When the others suspect the demon's motives, Tripitaka calmly states, "Suspicion builds the walls it fears. Give trust a chance to prove itself worthy."
+
+---
+
+## 17. **[The Shadow's Lesson (Episode 41)](/episodes/episode-41/)**
+As Monkey struggles with pride, Tripitaka gently observes, "Your shadow grows not from your strength, but from what you refuse to see. Step into the light."
+
+---
+
+## 18. **[The Fake Pilgrims Exposed (Episode 45)](/episodes/episode-45/)**
+When accused by villagers who've seen his "double," Tripitaka calmly responds, "I cannot control what others claim in my name. I can only continue to act with compassion."
+
+---
+
+## 19. **[The Final Teaching (Episode 52)](/episodes/episode-52/)**
+At journey's end, Tripitaka's quiet wisdom culminates in, "We sought scriptures, but found ourselves. The journey was always the teaching."
+
+---
+

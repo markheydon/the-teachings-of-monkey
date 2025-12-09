@@ -100,5 +100,23 @@ Pigsy's quest for eternal life and endless feasting reaches peak absurdity. He n
 
 ---
 
+## 16. **[Keep on Dancing (Episode 42)](/episodes/episode-42/)**
+**Snort Score:** 🐷🐷🐷🐷🐷  
+Pigsy embraces the demon's music with wild abandon, dancing until he nearly collapses. His enthusiastic flailing is pure camp gold.
+
+---
+
+## 17. **[Mothers (Episode 47)](/episodes/episode-47/)**
+**Snort Score:** 🐷🐷🐷🐷🐷  
+Pigsy's emotional breakdown when confronted by a vision of his mother is equal parts touching and absurd, complete with exaggerated wailing that must be seen to be believed.
+
+---
+
+## 18. **[Hungry Like the Wolf (Episode 50)](/episodes/episode-50/)**
+**Snort Score:** 🐷🐷🐷🐷🐷  
+Pigsy nearly trades his soul for a feast during a famine, but his rare moment of selflessness saves the day. One of his finest character moments wrapped in typical Pigsy chaos.
+
+---
+
 Pigsy's antics remind us that chaos can be just as entertaining as wisdom — and sometimes, the nonsense *is* the lesson.
 

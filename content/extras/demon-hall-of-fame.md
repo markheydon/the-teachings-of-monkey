@@ -127,3 +127,48 @@ Steals the pilgrims' identities, creating perfect duplicates that force existent
 
 The Hall of Fame celebrates the creativity of *Monkey’s* villains — equal parts menace and camp comedy.
 
+
+## 24. **[The Shadow Demon (Episode 41)](/episodes/episode-41/)**
+Casts an enormous shadow that grows with each victory, feeding on pride and triumph. A brilliant metaphor made manifest.
+
+---
+
+## 25. **[The Dancing Demon (Episode 42)](/episodes/episode-42/)**
+Enchants victims with irresistible music, forcing them to dance until exhaustion. Camp chaos with a sinister edge.
+
+---
+
+## 26. **[The Karma Demon (Episode 43)](/episodes/episode-43/)**
+Creates a village where generosity and selfishness are instantly rewarded or punished, testing the pilgrims' true motives.
+
+---
+
+## 27. **[The Polite Monster (Episode 44)](/episodes/episode-44/)**
+A demon of perfect manners who slowly drains life force through hospitality. Evil served with impeccable etiquette.
+
+---
+
+## 28. **[The Painting Demon (Episode 46)](/episodes/episode-46/)**
+Traps souls inside beautiful paintings, creating a gallery of frozen victims. Art becomes imprisonment.
+
+---
+
+## 29. **[The Nostalgia Demon (Episode 47)](/episodes/episode-47/)**
+Feeds on grief and memory by creating visions of the pilgrims' mothers, trapping them in false reunions.
+
+---
+
+## 30. **[The Petrifying Demon (Episode 49)](/episodes/episode-49/)**
+Turns victims to stone with a glance, creating a haunting garden of petrified travellers. A truly chilling villain.
+
+---
+
+## 31. **[The Wolf Demon (Episode 50)](/episodes/episode-50/)**
+Exploits hunger during a famine, offering food in exchange for souls. Desperation becomes the weapon.
+
+---
+
+## 32. **[The False Emperor (Episode 51)](/episodes/episode-51/)**
+Claims dominion over heaven and earth, wielding seemingly absolute authority until questioned about true leadership.
+
+---

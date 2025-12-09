@@ -135,15 +135,47 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 
 ---
 
-## Stage 6: Chaos and Closure
-- **Episode 42: Pigsy vs. the Demon Chef**  
-  *Location:* Demon’s Kitchen  
-  *Lesson:* Gluttony devours itself.  
-- **Episode 52: The Final Journey**  
+## Stage 6: Final Trials and Closure
+- **[Episode 40: Better the Demon You Know](/episodes/episode-40/)**  
+  *Location:* Mountain Pass  
+  *Lesson:* Trust must be earned, suspicion without cause creates betrayal.
+- **[Episode 41: A Shadow So Huge](/episodes/episode-41/)**  
+  *Location:* Valley of Shadows  
+  *Lesson:* Step aside from pride, and darkness disappears.
+- **[Episode 42: Keep on Dancing](/episodes/episode-42/)**  
+  *Location:* Demon's Music Hall  
+  *Lesson:* Know when to refuse, not all invitations deserve acceptance.
+- **[Episode 43: Give and Take](/episodes/episode-43/)**  
+  *Location:* Village of Karma  
+  *Lesson:* True compassion empowers, not enables.
+- **[Episode 44: Such a Nice Monster](/episodes/episode-44/)**  
+  *Location:* Manor of False Hospitality  
+  *Lesson:* The sweetest poison is served with a smile.
+- **[Episode 45: The Fake Pilgrims](/episodes/episode-45/)**  
+  *Location:* Villages Along the Road  
+  *Lesson:* Actions speak louder than accusations.
+- **[Episode 46: Pretty as a Picture](/episodes/episode-46/)**  
+  *Location:* Gallery of Souls  
+  *Lesson:* Appreciate beauty without attachment.
+- **[Episode 47: Mothers](/episodes/episode-47/)**  
+  *Location:* Realm of Memory  
+  *Lesson:* Let go of the past to truly honour it.
+- **[Episode 48: The Tenacious Tomboy](/episodes/episode-48/)**  
+  *Location:* Mountain Crossing  
+  *Lesson:* The warrior who seeks peace is mightiest.
+- **[Episode 49: Stoned](/episodes/episode-49/)**  
+  *Location:* Stone Garden  
+  *Lesson:* Sometimes turning away is the bravest choice.
+- **[Episode 50: Hungry Like the Wolf](/episodes/episode-50/)**  
+  *Location:* Famine-Struck Village  
+  *Lesson:* What we choose when starving reveals our true nature.
+- **[Episode 51: The Emperor of All](/episodes/episode-51/)**  
+  *Location:* Imperial Court  
+  *Lesson:* True power serves, it does not command.
+- **[Episode 52: The End of the Line](/episodes/episode-52/)**  
   *Location:* Western Heaven  
-  *Lesson:* Calm leadership achieves the goal.
+  *Lesson:* The path is the teaching, not the destination.
 
 ---
 
 This tracker is a playful map of the pilgrimage — each stop a mix of camp comedy and moral teaching. It shows that the journey itself is the lesson.
-

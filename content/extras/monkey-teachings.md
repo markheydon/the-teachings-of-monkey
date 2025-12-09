@@ -90,6 +90,32 @@ The narrator's voice closes each episode with a pearl of wisdom — distilled fr
 
 **[Episode 39: The Fountain of Youth](/episodes/episode-39/)** — *"Youth is wasted on the young, and immortality on the foolish. Life's meaning lies in its fleeting nature."*
 
+**[Episode 40: Better the Demon You Know](/episodes/episode-40/)** — *"Trust must be earned, but suspicion without cause creates the very betrayal it fears."*
+
+**[Episode 41: A Shadow So Huge](/episodes/episode-41/)** — *"The shadow we cast is shaped not by our strength, but by the light we block. Step aside, and darkness disappears."*
+
+**[Episode 42: Keep on Dancing](/episodes/episode-42/)** — *"Not all invitations deserve acceptance. Knowing when to refuse is as important as knowing when to join."*
+
+**[Episode 43: Give and Take](/episodes/episode-43/)** — *"Generosity without wisdom enables dependency. True compassion empowers others to stand on their own."*
+
+**[Episode 44: Such a Nice Monster](/episodes/episode-44/)** — *"Evil does not always bare its fangs. The sweetest poison is served with a smile."*
+
+**[Episode 45: The Fake Pilgrims](/episodes/episode-45/)** — *"Reputation is easily tarnished but slowly rebuilt. Actions speak louder than accusations."*
+
+**[Episode 46: Pretty as a Picture](/episodes/episode-46/)** — *"Beauty can be a cage as well as a gift. Appreciate without attachment, or become what you admire."*
+
+**[Episode 47: Mothers](/episodes/episode-47/)** — *"Love for those we've lost honours their memory, but living in the past dishonours the present. Let go to truly remember."*
+
+**[Episode 48: The Tenacious Tomboy](/episodes/episode-48/)** — *"True strength is knowing when not to fight. The warrior who seeks peace is mightier than the one who seeks victory."*
+
+**[Episode 49: Stoned](/episodes/episode-49/)** — *"Not all battles are won by facing the enemy. Sometimes, turning away is the bravest choice."*
+
+**[Episode 50: Hungry Like the Wolf](/episodes/episode-50/)** — *"Hunger can make us desperate, but it cannot make us cruel. What we choose when starving reveals who we truly are."*
+
+**[Episode 51: The Emperor of All](/episodes/episode-51/)** — *"True power serves, it does not command. The greatest ruler is one who leads without forcing others to follow."*
+
+**[Episode 52: The End of the Line](/episodes/episode-52/)** — *"The path is the teaching. Those who seek only the destination miss the journey that shapes them."*
+
 ---
 
 These teachings capture the spirit of *Monkey*: playful, profound, and always a little absurd.

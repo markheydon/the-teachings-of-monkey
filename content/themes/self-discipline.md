@@ -20,6 +20,12 @@ Monkey’s impulsiveness often clashes with Tripitaka’s restraint. These episo
   *Teaching:* Victory without wisdom is hollow. True success lies in knowing when to yield.
 - **[Episode 30: Pigsy Learns a Lesson](/episodes/episode-30/)**
   *Teaching:* Learning begins with humility. The fool who seeks wisdom is wiser than the sage who believes he knows all.
+- **[Episode 41: A Shadow So Huge](/episodes/episode-41/)**
+  *Teaching:* The shadow we cast is shaped not by our strength, but by the light we block. Step aside, and darkness disappears.
+- **[Episode 48: The Tenacious Tomboy](/episodes/episode-48/)**
+  *Teaching:* True strength is knowing when not to fight. The warrior who seeks peace is mightier than the one who seeks victory.
+- **[Episode 49: Stoned](/episodes/episode-49/)**
+  *Teaching:* Not all battles are won by facing the enemy. Sometimes, turning away is the bravest choice.
 
 ---
 
