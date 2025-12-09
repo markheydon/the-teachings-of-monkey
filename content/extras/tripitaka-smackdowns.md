@@ -29,7 +29,7 @@ Tripitaka calmly counsels a ruler tormented by guilt and suspicion, showing that
 
 ---
 
-## 5. **[The End of the Line (Episode 52)](/episodes/episode-52)**
+## 5. **[The End of the Line (Episode 52)](/episodes/episode-52/)**
 Tripitaka’s calm leadership guides the pilgrims to their ultimate goal. His authority is never loud, but always absolute.
 
 ---
