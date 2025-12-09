@@ -151,7 +151,7 @@ When generating new episodes, also update the following extras:
   Only include episodes with 🐷🐷🐷🐷 (4 snorts) or 🐷🐷🐷🐷🐷 (5 snorts).  
   Order by snort level first (5-snort episodes before 4-snort episodes).  
   Within each snort level, order by chaos intensity (most chaotic/nonsensical first).  
-  Format: `**[Title (Episode XX)](/episodes/episode-XX/)** — Snort Score: 🐷🐷🐷🐷🐷 — Short description`
+  Format:
 
 
 - **Demon Hall of Fame** → `/content/extras/demon-hall-of-fame.md`  
