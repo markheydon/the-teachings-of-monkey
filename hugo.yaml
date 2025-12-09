@@ -1,0 +1,37 @@
+baseURL: "https://monkeywisdom.online/"
+languageCode: "en-gb"
+theme: "PaperMod"
+
+title: "The Teachings of Monkey"
+copyright: "Irrepressible since 2025 · [Mark Heydon](https://github.com/markheydon)"
+
+pagerSize: 10
+
+params:
+  author: "Mark Heydon"
+  description: "An open source archive of wisdom, nonsense, and camp from the cult TV series Monkey (Saiyūki)."
+  defaultTheme: "auto"
+
+  disableSpecial1stPost: true
+
+  footer:
+    text: "[Repo](https://github.com/markheydon/the-teachings-of-monkey/)"
+
+menu:
+  main:
+    - identifier: "about"
+      name: "About"
+      url: "about/"
+      weight: 1
+    - identifier: "episodes"
+      name: "Episodes"
+      url: "episodes/"
+      weight: 2
+    - identifier: "themes"
+      name: "Themes"
+      url: "themes/"
+      weight: 3
+    - identifier: "extras"
+      name: "Extras"
+      url: "extras/"
+      weight: 4
