@@ -61,10 +61,7 @@ All episode references in this site must match the titles in `/content/extras/ep
 
 This archive is around 99% AI‑generated.
 
-To ensure transparency and reproducibility, we include the prompts used to generate and review content:
-
-- [Batch Episode Generation Prompt](#batch-episode-generation-prompt)  
-- [Content Review Prompt](#content-review-prompt)
+To ensure transparency and reproducibility, we include the prompts used to generate and review content.
 
 Contributors should include the **prompt they used** when submitting a Pull Request.
 
@@ -102,6 +99,19 @@ Check that each file complies with `.github/copilot-instructions.md` and `CONTRI
   - Journey Tracker
 
 Suggest corrections or regenerate files where inconsistencies are found.
+```
+
+### Review Ordering of Meta‑lists Prompt
+
+This prompt can be used whenever new episodes are added or existing metadata changes, to ensure the ordering of the Demon Hall of Fame, Journey Tracker, and Pigsy’s Greatest Hits remains consistent and accurate.
+```
+Please review the current lists for **Demon Hall of Fame**, **Journey Tracker**, and **Pigsy’s Greatest Hits** against the full set of 52 episodes.  
+- Confirm that all relevant episodes are included in each list.  
+- Check that the ordering of entries is logical and consistent (e.g. chronological, by weight, or by significance).  
+- Flag any entries that appear out of order or missing.  
+- Suggest a corrected ordering if needed, with reasoning.  
+ 
+Output the review in Markdown, with each list shown in its corrected order, and a short note explaining any changes.
 ```
 
 ---
