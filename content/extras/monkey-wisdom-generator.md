@@ -2,7 +2,7 @@
 title: "Monkey's Wisdom Generator"
 date: 2025-12-06
 draft: false
-weight: 5
+weight: 12
 ---
 
 The narrator's voice ended each episode with a teaching. Here, AI continues the tradition — generating new pearls of wisdom in the playful, profound spirit of *Monkey*.

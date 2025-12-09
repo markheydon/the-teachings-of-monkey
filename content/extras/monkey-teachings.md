@@ -2,7 +2,7 @@
 title: "Monkey Teachings"
 date: 2025-12-08
 draft: false
-weight: 4
+weight: 1
 ---
 
 The narrator's voice closes each episode with a pearl of wisdom — distilled from chaos, demons, and the pilgrims' trials. These are the canonical teachings from the original BBC broadcast.

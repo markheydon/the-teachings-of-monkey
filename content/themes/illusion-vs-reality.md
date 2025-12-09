@@ -18,8 +18,8 @@ Demons thrive on trickery, disguises, and false promises. These episodes explore
   *Teaching:* The true path has no shortcuts. The journey itself is the destination.
 - **[Episode 33: Am I Dreaming?](/episodes/episode-33/)**
   *Teaching:* Reality is not what appears, but what remains when illusion dissolves. The mind awake sees truth.
-- **Episode 34: The Illusion of Gold**
-  *Teaching:* Greed blinds the heart.
+- **[Episode 34: The Tormented Emperor](/episodes/episode-34/)**
+  *Teaching:* Power without compassion creates its own prison. Even emperors must answer for their deeds.
 - **[Episode 44: Such a Nice Monster](/episodes/episode-44/)**
   *Teaching:* Evil does not always bare its fangs. The sweetest poison is served with a smile.
 - **[Episode 45: The Fake Pilgrims](/episodes/episode-45/)**
