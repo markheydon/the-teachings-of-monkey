@@ -107,7 +107,9 @@ This prompt can be used whenever new episodes are added or existing metadata cha
 ```
 Please review the current lists for **Demon Hall of Fame**, **Journey Tracker**, and **Pigsy’s Greatest Hits** against the full set of 52 episodes.  
 - Confirm that all relevant episodes are included in each list.  
-- Check that the ordering of entries is logical and consistent (e.g. chronological, by weight, or by significance).  
+- **Demon Hall of Fame**: Check that ordering is logical and consistent (e.g. chronological, by weight, or by significance).  
+- **Journey Tracker**: Check that ordering is chronological by episode number.  
+- **Pigsy's Greatest Hits**: Only include episodes with 🐷🐷🐷🐷 (4 snorts) or 🐷🐷🐷🐷🐷 (5 snorts). Order by snort level first (5-snort episodes before 4-snort episodes), then within each snort level, order by chaos intensity (most chaotic first).  
 - Flag any entries that appear out of order or missing.  
 - Suggest a corrected ordering if needed, with reasoning.  
  
