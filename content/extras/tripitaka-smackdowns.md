@@ -24,7 +24,7 @@ When Pigsy’s antics spiral into chaos, Tripitaka’s gentle rebuke cuts deeper
 
 ---
 
-## 4. **[The Tormented Emperor (Episode 34)](/episodes/episode-34)**
+## 4. **[The Tormented Emperor (Episode 34)](/episodes/episode-34/)**
 Tripitaka calmly counsels a ruler tormented by guilt and suspicion, showing that true authority comes from self-mastery, not fear.
 
 ---
