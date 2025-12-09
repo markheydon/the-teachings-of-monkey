@@ -2,7 +2,6 @@
 title: "The Teachings of Monkey"
 date: 2025-12-06
 draft: false
-hideRelated: true
 ---
 
 # The Teachings of Monkey
