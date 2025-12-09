@@ -24,8 +24,8 @@ When Pigsy’s antics spiral into chaos, Tripitaka’s gentle rebuke cuts deeper
 
 ---
 
-## 4. **[The Illusion of Gold (Episode 34)](/episodes/episode-34)**
-Tripitaka exposes a demon’s treasure hoard as worthless illusion, teaching the pilgrims that greed blinds the heart.
+## 4. **[The Tormented Emperor (Episode 34)](/episodes/episode-34)**
+Tripitaka calmly counsels a ruler tormented by guilt and suspicion, showing that true authority comes from self-mastery, not fear.
 
 ---
 
