@@ -67,7 +67,9 @@ Contributors should include the **prompt they used** when submitting a Pull Requ
 
 This keeps the project aligned with its goal: an AI‑driven, playful archive of *Monkey (Saiyūki)*.
 
-### Batch Episode Generation Prompt
+### 🔄 Prompt: Batch Episode Generation
+
+This is the prompt that was used to batch generate the episode pages.
 
 ```
 Generate Hugo Markdown files for Episodes XX–YY of *Monkey (Saiyūki)*.
@@ -81,7 +83,10 @@ Follow the template and style rules in `.github/copilot-instructions.md`:
 - Update all master lists in `/content/extras/` (Pigsy Nonsense Ratings, Monkey Wisdom Generator, Tripitaka Smackdowns, Pigsy Greatest Hits, Demon Hall of Fame, Journey Tracker).
 ```
 
-### Content Review Prompt
+### 🔄 Prompt: Content Review
+
+This promppt can be used to check the cross-refences to episodes are kept up to date.
+
 ```
 Review all Markdown files in `/content/episodes/`, `/content/themes/`, and `/content/extras/`.
 
@@ -107,7 +112,7 @@ Exception: The `/content/extras/tripitaka-smackdowns.md` contains the following 
 As this is something that happens throughout the series at various points, it's not possible to link this listing to a specific episode and it is therefore the only time there a listing contains a listing that isn't for a specific episode. Additionally, it should remain as top ranking for this listing.
 ```
 
-### Review Ordering of Meta‑lists Prompt
+### 🔄 Prompt: Review Ordering of Meta‑lists
 
 This prompt can be used whenever new episodes are added or existing metadata changes, to ensure the ordering of the Demon Hall of Fame, Journey Tracker, and Pigsy’s Greatest Hits remains consistent and accurate.
 ```
@@ -120,6 +125,24 @@ Please review the current lists for **Demon Hall of Fame**, **Journey Tracker**,
 - Suggest a corrected ordering if needed, with reasoning.  
  
 Output the review in Markdown, with each list shown in its corrected order, and a short note explaining any changes.
+```
+
+### 🔄 Prompt: Reformat Monkey Teachings page
+
+Use this prompt whenever updating or regenerating the **Monkey Teachings** page to ensure the format stays consistent and the teachings remain front‑and‑centre.
+
+```
+Please review and update the **Monkey Teachings** page (`content/extras/monkey-teachings.md`) so that:
+- The **teachings themselves** are presented first and styled prominently (e.g. bold, blockquote, or grouped by theme).
+- Episode links and navigation are secondary — either placed after the teachings list or shown as compact references under each teaching.
+- The page begins with a short **intro tagline** explaining the purpose of the teachings archive.
+- The closing narrator’s voice remains at the bottom of the page.
+
+In addition:
+- Update the documentation (`README.md`) to reflect this format, so future contributors know the correct structure and don’t revert to the old “episode‑links‑first” layout.
+- Ensure the prompt clearly states that the **teachings are the primary content** and episode links are supportive navigation only.
+
+Output the revised page in Markdown, and include a short note in the README confirming the new format.
 ```
 
 ---
