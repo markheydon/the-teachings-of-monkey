@@ -118,7 +118,7 @@ Pigsy believes he's destined to marry ten thousand maidens. His vanity reaches l
 ---
 
 ## 19. **[The Dogs of Death (Episode 28)](/episodes/episode-28/)**
-**Snort Score:** 🐷🐷🐷��  
+**Snort Score:** 🐷🐷🐷🐷  
 Pigsy's terror of demon dogs leads to panicked flight and comic cowardice. Fear has never been funnier.
 
 ---
