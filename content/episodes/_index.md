@@ -6,9 +6,6 @@ sort_by: "weight"
 sort_order: "asc"
 ---
 
-Every episode of *Monkey* ends with a narrated teaching — distilling chaos into a moral lesson.
+Here you'll find every episode of *Monkey* — each one a wild step on the pilgrims’ journey west. Every entry includes a synopsis, the canonical teaching, Pigsy Nonsense Rating, and a dash of commentary.
 
-This archive will collects all 52 episodes, with synopses, teachings, Pigsy Nonsense Ratings, and commentary.
-
-Browse below to relive the journey west, one absurdly enlightening adventure at a time.
-
+Browse below to relive the chaos, wisdom, and camp of all 52 classic adventures.

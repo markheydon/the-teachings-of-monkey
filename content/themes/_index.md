@@ -11,10 +11,10 @@ sort_order: "asc"
 This section groups episodes by their deeper lessons.
 
 ## Core Themes
-- **Self‑Discipline** — Monkey’s impulsiveness vs Tripitaka’s restraint.  
-- **Compassion** — Seeing beyond appearances, even when demons deceive.  
-- **Illusion vs Reality** — Discernment in a world of trickery.  
+- **Self‑Discipline** — Monkey’s impulsiveness vs Tripitaka’s restraint.
+- **Compassion** — Seeing beyond appearances, even when demons deceive.
+- **Illusion vs Reality** — Discernment in a world of trickery.
 - **Unity** — The pilgrims’ squabbles contrasted with cooperation.
-- **Detachment** — Pigsy’s lust and gluttony as warnings.  
+- **Detachment** — Pigsy’s lust and gluttony as warnings.
 
 Explore these themes to see how wisdom emerges from chaos.

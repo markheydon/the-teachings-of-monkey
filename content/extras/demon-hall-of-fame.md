@@ -2,7 +2,7 @@
 title: "Demon of the Week Hall of Fame"
 date: 2025-12-06
 draft: false
-weight: 3
+weight: 4
 ---
 
 Every week, the pilgrims face a new demon — some terrifying, some ridiculous, all memorable. Here are the standouts who earned a place in the Hall of Fame.
