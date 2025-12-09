@@ -83,11 +83,11 @@ Follow the template and style rules in `.github/copilot-instructions.md`:
 
 ### Content Review Prompt
 ```
-Review all Markdown files in `/content/episodes/` and `/content/extras/`.
+Review all Markdown files in `/content/episodes/`, `/content/themes/`, and `/content/extras/`.
 
 Check that each file complies with `.github/copilot-instructions.md` and `CONTRIBUTING.md`:
 - Correct front matter (`title`, `date`, `draft: false`).
-- Required sections (Synopsis, Teaching, Pigsy Nonsense Rating, Commentary).
+- Required sections for episodes (Synopsis, Teaching, Pigsy Nonsense Rating, Commentary).
 - Teaching italicised and quoted.
 - Pigsy rating uses 🐷 emojis consistently.
 - Master lists updated with matching entries:
@@ -99,6 +99,12 @@ Check that each file complies with `.github/copilot-instructions.md` and `CONTRI
   - Journey Tracker
 
 Suggest corrections or regenerate files where inconsistencies are found.
+
+Exception: The `/content/extras/tripitaka-smackdowns.md` contains the following entry as the first listing...
+
+1. The Chant of Discipline (Recurring)
+
+As this is something that happens throughout the series at various points, it's not possible to link this listing to a specific episode and it is therefore the only time there a listing contains a listing that isn't for a specific episode. Additionally, it should remain as top ranking for this listing.
 ```
 
 ### Review Ordering of Meta‑lists Prompt
