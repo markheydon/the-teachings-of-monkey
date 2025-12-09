@@ -20,6 +20,12 @@ Compassion is the antidote to illusion and deception. These episodes remind us t
   *Teaching:* Power without compassion creates its own prison. Even emperors must answer for their deeds.
 - **Episode 19: The Demon Bride**
   *Teaching:* True compassion resists false seduction.
+- **[Episode 40: Better the Demon You Know](/episodes/episode-40/)**
+  *Teaching:* Trust must be earned, but suspicion without cause creates the very betrayal it fears.
+- **[Episode 43: Give and Take](/episodes/episode-43/)**
+  *Teaching:* Generosity without wisdom enables dependency. True compassion empowers others to stand on their own.
+- **[Episode 51: The Emperor of All](/episodes/episode-51/)**
+  *Teaching:* True power serves, it does not command. The greatest ruler is one who leads without forcing others to follow.
 
 ---
 

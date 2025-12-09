@@ -20,6 +20,12 @@ Demons thrive on trickery, disguises, and false promises. These episodes explore
   *Teaching:* Reality is not what appears, but what remains when illusion dissolves. The mind awake sees truth.
 - **Episode 34: The Illusion of Gold**
   *Teaching:* Greed blinds the heart.
+- **[Episode 44: Such a Nice Monster](/episodes/episode-44/)**
+  *Teaching:* Evil does not always bare its fangs. The sweetest poison is served with a smile.
+- **[Episode 45: The Fake Pilgrims](/episodes/episode-45/)**
+  *Teaching:* Reputation is easily tarnished but slowly rebuilt. Actions speak louder than accusations.
+- **[Episode 46: Pretty as a Picture](/episodes/episode-46/)**
+  *Teaching:* Beauty can be a cage as well as a gift. Appreciate without attachment, or become what you admire.
 
 ---
 
