@@ -16,6 +16,21 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 - **[Episode 2: Monkey Turns Nursemaid](/episodes/episode-02/)**  
   *Location:* Village of Mortals  
   *Lesson:* Compassion tempers chaos.
+- **[Episode 3: The Great Journey Begins](/episodes/episode-03/)**  
+  *Location:* The Road West  
+  *Lesson:* A journey of a thousand miles begins with a single step.
+- **[Episode 4: Monkey Swallows the Universe](/episodes/episode-04/)**  
+  *Location:* Demon's Realm  
+  *Lesson:* Not everything is as it seems.
+- **[Episode 5: The Power of Youth](/episodes/episode-05/)**  
+  *Location:* Village of Reversed Age  
+  *Lesson:* Wisdom is not measured by age, but by understanding.
+- **[Episode 6: Even Monsters Can Be People](/episodes/episode-06/)**  
+  *Location:* White Bone Demon's Territory  
+  *Lesson:* True nature is revealed by actions, not appearances.
+- **[Episode 7: The Beginning of Wisdom](/episodes/episode-07/)**  
+  *Location:* Mountain Path  
+  *Lesson:* Power without compassion leads to suffering.
 
 ---
 
@@ -69,9 +84,6 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 - **[Episode 22: The Foolish Sage](/episodes/episode-22/)**  
   *Location:* Haunted Village  
   *Lesson:* Face darkness with clarity, and its power dissolves.
-- **Episode 26: The Spider Demon Sisters**  
-  *Location:* Webbed Cavern  
-  *Lesson:* Beauty can be a trap.
 
 ---
 
