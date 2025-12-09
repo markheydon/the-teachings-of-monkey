@@ -145,6 +145,8 @@ In addition:
 Output the revised page in Markdown, and include a short note in the README confirming the new format.
 ```
 
+**Note**: As of December 2025, the Monkey Teachings page format has been updated to present the **teachings as the primary content** using prominent blockquote styling. Episode links now appear as compact references beneath each teaching. This ensures the wisdom itself takes center stage, with navigation being supportive. Future updates must maintain this teachings‑first format.
+
 ---
 
 ## 📜 License
