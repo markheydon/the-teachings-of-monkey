@@ -136,8 +136,10 @@ When generating new episodes, also update the following extras:
 
 - **Monkey Teachings** → `/content/extras/monkey-teachings.md`  
   Each episode must be represented with its canonical teaching.  
-  Format: `**[Episode XX: Title](/episodes/episode-XX/)** — *"Teaching text here"*`  
-  Always link to the episode page in bold.  
+  **The teachings are the primary content** and must be styled prominently using blockquotes.  
+  Episode links are secondary and appear as compact references beneath each teaching.  
+  Format: `> **"Teaching text here"**  \n> *(from **[Episode XX: Title](/episodes/episode-XX/)**)*`  
+  Always link to the episode page in bold within the reference line.  
   Keep this list updated whenever new episodes are added.
 
 - **Monkey Wisdom Generator** → `/content/extras/monkey-wisdom-generator.md`  
