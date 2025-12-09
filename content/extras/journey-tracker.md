@@ -134,7 +134,6 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
   *Lesson:* Life's meaning lies in its fleeting nature.
 
 ---
----
 
 ## Stage 6: Final Trials and Closure
 - **[Episode 40: Better the Demon You Know](/episodes/episode-40/)**  

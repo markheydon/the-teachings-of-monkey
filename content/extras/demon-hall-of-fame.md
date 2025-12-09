@@ -172,4 +172,3 @@ Exploits hunger during a famine, offering food in exchange for souls. Desperatio
 Claims dominion over heaven and earth, wielding seemingly absolute authority until questioned about true leadership.
 
 ---
-
