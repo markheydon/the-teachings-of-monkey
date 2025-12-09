@@ -12,7 +12,7 @@ Each pilgrim encounters a vision of their mother, testing their emotional attach
 *"Love for those we've lost honours their memory, but living in the past dishonours the present. Let go to truly remember."*
 
 ## Pigsy Nonsense Rating
-🐷🐷🐷🐷🐷 — Pigsy's emotional breakdown is equal-parts touching and absurd, complete with exaggerated wailing.
+🐷🐷🐷🐷🐷 — Pigsy's emotional breakdown is equal parts touching and absurd, complete with exaggerated wailing.
 
 ## Commentary
 Surprisingly poignant for a show known for camp and chaos. The emotional stakes feel genuine, even as Pigsy's melodrama provides comic relief. A rare moment of vulnerability for the entire cast.
