@@ -176,7 +176,7 @@ Bumbling bravado meets classic mischief. Early-series Pigsy establishing his cha
 ---
 
 ### 28. **[Even Monsters Can Be People (Episode 6)](/episodes/episode-06/)**
-**Snort Score:** 🐷��🐷🐷  
+**Snort Score:** 🐷🐷🐷🐷  
 Cowardice matched only by appetite. Pigsy's dual nature of fear and hunger on full display.
 
 ---
