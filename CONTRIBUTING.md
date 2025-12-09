@@ -68,8 +68,6 @@ When adding or editing episodes, also update the extras:
 
 ### Episode Linking
 
-- All episode mentions outside `/content/episodes/` must be linked and bolded.
-- Use one of the two approved formats:
 
   - Standard:  
     **[Episode 8: Pigsy Woos a Widow](/episodes/episode-08/)**
@@ -77,8 +75,8 @@ When adding or editing episodes, also update the extras:
   - Title‑first (for lists like Pigsy’s Greatest Hits):  
     **[Two Little Blessings (Episode 23)](/episodes/episode-23/)**
 
-- Do not mix formats within the same file.
-- Always ensure the link path matches the episode filename (`episode-XX.md`).
+
+**Exception:** The Monkey Teachings page (`/content/extras/monkey-teachings.md`) does not use either the standard or alternative episode link format. Instead, episode links appear in plain brackets (not bold) beneath each teaching, following the teaching blockquote style.
 
 ---
 

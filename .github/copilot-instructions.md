@@ -65,9 +65,6 @@ weight: XX
 
 Whenever an episode is mentioned outside of the `/content/episodes/` section (e.g. in extras, indexes, or commentary), it must be linked and bolded.
 
-- Use the full episode title and number.
-- Always bold the link.
-- Always point to `/episodes/episode-XX/`.
 
 #### Standard format
 ```markdown
@@ -83,11 +80,10 @@ Standard format should be used on all pages unless they are specifically mention
 
 This alternative should be used in the following pages only:
 
-- Pigsy's Greatest Hits.
-- Tripitaka's Calmest Smackdowns.
-- Demon of the Week Hall of Fame.
 
 **NOTE:** Do not mix formats within the same file.
+
+**Exception:** The Monkey Teachings page (`/content/extras/monkey-teachings.md`) does not use either the standard or alternative episode link format. Instead, episode links appear in plain brackets (not bold) beneath each teaching, following the teaching blockquote style.
 
 ### Pigsy Snort Scale
 - 🐷 — Mild meddling

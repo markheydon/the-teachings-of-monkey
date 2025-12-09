@@ -10,6 +10,9 @@ Welcome to **The Teachings of Monkey** — an open source archive of wisdom, non
 
 Each episode ends with a short narrated teaching: a pearl of wisdom distilled from chaos, demons, pilgrims, and Pigsy’s antics. This site collects those teachings, episode by episode, alongside commentary, and playful extras.
 
+If you're itching for wisdom, swing over to the [**Monkey Teachings**](/extras/monkey-teachings/) page; otherwise, stick around and explore the wild wonders this archive has in store.
+
+
 ---
 
 ## 📚 Episode Archive
