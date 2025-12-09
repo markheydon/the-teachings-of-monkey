@@ -14,7 +14,7 @@ Tripitaka’s sutra chant immobilises Monkey whenever his arrogance gets out of 
 
 ---
 
-## 2. **[The Demon Bride (Episode 19)](/episodes/episode-19)**
+## 2. **[The Fake Pilgrim (Episode 19)](/episodes/episode-19/)**
 Tripitaka refuses to be seduced by a demon in disguise, calmly dismantling her lies with quiet conviction. His restraint is sharper than any sword.
 
 ---
