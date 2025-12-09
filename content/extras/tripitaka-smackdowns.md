@@ -19,7 +19,7 @@ Tripitaka refuses to be seduced by a demon in disguise, calmly dismantling her l
 
 ---
 
-## 3. **[Pigsy’s Punishment (Episode 23)](/episodes/episode-23)**
+## 3. **[Two Little Blessings (Episode 23)](/episodes/episode-23/)**
 When Pigsy’s antics spiral into chaos, Tripitaka’s gentle rebuke cuts deeper than Monkey’s staff. Compassion paired with firmness.
 
 ---
