@@ -13,7 +13,7 @@ Each episode of *Monkey* closes with a brief teaching, spoken over the freeze‑
 
 ## The Teachings
 
-{{< teachings-list >}}
+{{% teachings-list %}}
 
 ---
 

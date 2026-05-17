@@ -9,6 +9,6 @@ Pigsy, the gluttonous, lustful, endlessly chaotic pig-demon, is the beating hear
 
 ---
 
-{{< pigsy-greatest-hits-list >}}
+{{% pigsy-greatest-hits-list %}}
 
 Pigsy's antics remind us that chaos can be just as entertaining as wisdom - and sometimes, the nonsense *is* the lesson.

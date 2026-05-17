@@ -9,6 +9,6 @@ Tripitaka, the serene monk, rarely raises his voice. But when he does, it’s de
 
 ---
 
-{{< tripitaka-smackdowns-list >}}
+{{% tripitaka-smackdowns-list %}}
 
 Tripitaka’s smackdowns prove that true strength lies not in force, but in unwavering calm.

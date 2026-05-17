@@ -10,7 +10,7 @@ Compassion is the antidote to illusion and deception. These episodes remind us t
 ---
 
 ## Key Episodes
-{{< theme-key-episodes theme="compassion" >}}
+{{% theme-key-episodes theme="compassion" %}}
 
 ---
 

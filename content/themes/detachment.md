@@ -10,7 +10,7 @@ Detachment is the art of letting go of cravings, pride, and the urge to meddle. 
 ---
 
 ## Key Episodes
-{{< theme-key-episodes theme="detachment" >}}
+{{% theme-key-episodes theme="detachment" %}}
 
 ---
 

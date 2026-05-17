@@ -9,6 +9,6 @@ The pilgrims’ journey west is long, chaotic, and full of lessons. This tracker
 
 ---
 
-{{< journey-tracker-list >}}
+{{% journey-tracker-list %}}
 
 This tracker is a playful map of the pilgrimage — each stop a mix of camp comedy and moral teaching. It shows that the journey itself is the lesson.

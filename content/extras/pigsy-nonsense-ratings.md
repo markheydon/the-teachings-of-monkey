@@ -10,7 +10,7 @@ Here’s the definitive Snort Score index — rating his nonsense across all 52 
 
 ---
 
-{{< pigsy-ratings-list >}}
+{{% pigsy-ratings-list %}}
 
 ## Rating Scale
 - 🐷 — Mild meddling  

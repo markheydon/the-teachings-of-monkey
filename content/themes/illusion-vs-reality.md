@@ -10,7 +10,7 @@ Demons thrive on trickery, disguises, and false promises. These episodes explore
 ---
 
 ## Key Episodes
-{{< theme-key-episodes theme="illusion-vs-reality" >}}
+{{% theme-key-episodes theme="illusion-vs-reality" %}}
 
 ---
 

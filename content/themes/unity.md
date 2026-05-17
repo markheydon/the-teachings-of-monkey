@@ -10,7 +10,7 @@ The pilgrims squabble constantly, but their survival depends on cooperation. The
 ---
 
 ## Key Episodes
-{{< theme-key-episodes theme="unity" >}}
+{{% theme-key-episodes theme="unity" %}}
 
 ---
 

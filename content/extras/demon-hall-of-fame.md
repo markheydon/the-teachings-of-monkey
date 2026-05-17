@@ -9,6 +9,6 @@ Every week, the pilgrims face a new demon — some terrifying, some ridiculous, 
 
 ---
 
-{{< demon-hall-list >}}
+{{% demon-hall-list %}}
 
 The Hall of Fame celebrates the creativity of *Monkey's* villains — equal parts menace and camp comedy.

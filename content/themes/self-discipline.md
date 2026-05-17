@@ -10,7 +10,7 @@ Monkey’s impulsiveness often clashes with Tripitaka’s restraint. These episo
 ---
 
 ## Key Episodes
-{{< theme-key-episodes theme="self-discipline" >}}
+{{% theme-key-episodes theme="self-discipline" %}}
 
 ---
 
