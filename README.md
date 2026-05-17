@@ -69,6 +69,32 @@ Derived surfaces currently include:
 - Theme: [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (swappable later)  
 - Deployed via GitHub Pages + Actions  
 
+## Dev Container
+
+This repo includes a dev container at [.devcontainer/devcontainer.json](.devcontainer/devcontainer.json) so content work is consistent across devices.
+
+- Uses Ubuntu 24.04 base image
+- Installs pinned Hugo and Dart Sass versions on container create
+- Runs `hugo version` and `sass --version` on startup for quick verification
+
+The same installer scripts are used in CI and locally:
+
+- [scripts/install-hugo.sh](scripts/install-hugo.sh)
+- [scripts/install-dart-sass.sh](scripts/install-dart-sass.sh)
+
+CI version pins are in [.github/workflows/hugo.yml](.github/workflows/hugo.yml):
+
+- `HUGO_VERSION`
+- `DART_SASS_VERSION`
+
+To test newer versions locally in the container:
+
+1. Run `scripts/install-hugo.sh <version>`
+2. Run `scripts/install-dart-sass.sh <version>`
+3. Build with `hugo --minify`
+
+When you want CI to match, update the same version env vars in [.github/workflows/hugo.yml](.github/workflows/hugo.yml) (and optionally in [.devcontainer/devcontainer.json](.devcontainer/devcontainer.json)).
+
 ---
 
 ## 🤝 Contributing

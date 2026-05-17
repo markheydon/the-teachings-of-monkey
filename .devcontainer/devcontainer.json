@@ -1,0 +1,22 @@
+{
+  "name": "Teachings of Monkey",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+  "containerEnv": {
+    "HUGO_VERSION": "0.152.2",
+    "DART_SASS_VERSION": "1.93.3"
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "files.eol": "\n"
+      },
+      "extensions": [
+        "budparr.language-hugo-vscode",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  },
+  "postCreateCommand": "chmod +x scripts/install-hugo.sh scripts/install-dart-sass.sh && scripts/install-hugo.sh \"$HUGO_VERSION\" && scripts/install-dart-sass.sh \"$DART_SASS_VERSION\"",
+  "postStartCommand": "hugo version && sass --version",
+  "remoteUser": "vscode"
+}
