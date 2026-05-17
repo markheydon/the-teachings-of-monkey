@@ -10,12 +10,20 @@ Thanks for your interest in contributing! This project is a playful, open archiv
 
 - Place new episode files in `/content/episodes/`.
 - Use the template in `copilot-instructions.md` for consistency.
-- **Episode names must match the [Official Episode List](/content/extras/episode-list.md)**, which contains the canonical list of all 52 episodes.
+- **Episode names must match the [Official Episode List](/content/extras/episode-list.md)**, which is the single canonical list of all 52 episodes.
 - Include:
   - Front matter (`title`, `date`, `draft: false`, `weight`)
     - `weight` should be set to the episode number (e.g. `weight: 2` for episode 2) to ensure correct sorting on the Episodes section page.
   - Sections: Synopsis, Teaching, Pigsy Nonsense Rating, Commentary
 - **IMPORTANT:** After creating a new episode, update `/content/_index.md` (the home page) to add a link to the new episode in the episode archive list, in correct order. This keeps the main site up to date and makes new episodes easy to find.
+
+### Canonical Episode Title Source Policy
+
+- `/content/extras/episode-list.md` is the source of truth for episode titles.
+- Use BBC UK dubbed titles wherever available.
+- Only where BBC dubbed titles are unavailable, use original/subtitled mapping sources.
+- If there is any source conflict, do **not** pick an alternative title ad hoc in content files. Update `/content/extras/episode-list.md` first, then propagate.
+- CI validation checks episode front matter titles against the canonical list.
 
 ### 2. Keep Master Lists Consistent
 When adding or editing episodes, also update the extras:
@@ -100,4 +108,3 @@ Be respectful, playful, and collaborative. This project celebrates camp and nost
 Because this project is primarily AI‑generated, all Pull Requests must include the **prompt used** to create the new content.
 
 This ensures consistency, transparency, and helps others learn from the process.
-

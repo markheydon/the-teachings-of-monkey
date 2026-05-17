@@ -47,15 +47,21 @@ Pull requests welcome! Add commentary, new features, or your own “Monkey‑sty
 
 See [Fan Participation](content/extras/fan-participation.md) for ideas.
 
-## Source of Episode Titles
+## Source of Episode Titles (Canonical Policy)
 
-This archive uses the following sources for canonical episode titles:
+`/content/extras/episode-list.md` is the **single source of truth** for episode titles used in this archive.
 
-- Episodes 1–39: BBC English‑dubbed titles, as broadcast in the UK (1979–1981).
-- Episodes 40–52: Subtitled titles, as documented on [Monkey Heaven](https://www.monkeyheaven.com/fullepisodemapping.html) and [Wikipedia](https://en.wikipedia.org/wiki/Monkey_(TV_series)).
-- IMDb is referenced for cross‑checking, but is **not** the canonical source, as it lists alternate translations that differ from the BBC broadcast titles.
+Canonical sourcing policy:
 
-All episode references in this site must match the titles in `/content/extras/episode-list.md`.
+- Episodes 1–39: BBC English‑dubbed titles, as broadcast in the UK (1979–1981), are authoritative.
+- Episodes 40–52: where no BBC dub title exists, use subtitled/original mapping sources (currently [Monkey Heaven](https://www.monkeyheaven.com/fullepisodemapping.html) and [Wikipedia](https://en.wikipedia.org/wiki/Monkey_(TV_series))).
+- IMDb may be used for cross-checking only, and is **not** canonical.
+
+To avoid title drift:
+
+- Always copy titles from `/content/extras/episode-list.md` when creating or updating episode content.
+- If a title needs correction, update `/content/extras/episode-list.md` first, with source rationale, then update downstream content.
+- A CI validation check enforces canonical titles for episode pages.
 
 ## AI‑Generated Content
 
@@ -151,4 +157,3 @@ Output the revised page in Markdown, and include a short note in the README conf
 
 ## 📜 License
 See [LICENSE](LICENSE) for details.
-
