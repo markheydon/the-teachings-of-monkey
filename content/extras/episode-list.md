@@ -5,9 +5,14 @@ draft: false
 ---
 
 This page contains the canonical list of *Monkey (Saiyūki)* episodes used throughout the archive.
-- Episodes 1–39: BBC English‑dubbed titles, as broadcast in the UK (1979–1981).
-- Episodes 40–52: Subtitled titles, as documented on [Monkey Heaven](https://www.monkeyheaven.com/fullepisodemapping.html) and [Wikipedia](https://en.wikipedia.org/wiki/Monkey_(TV_series)).
-- IMDb is referenced for cross‑checking, but is **not** the canonical source, as it lists alternate translations that differ from the BBC broadcast titles.
+
+## Canonical Source Policy
+
+- This file is the single source of truth for episode titles in this repository.
+- Episodes 1–39 use BBC English‑dubbed UK broadcast titles (1979–1981), where available.
+- Episodes 40–52 use subtitled/original mapping titles, as documented on [Monkey Heaven](https://www.monkeyheaven.com/fullepisodemapping.html) and [Wikipedia](https://en.wikipedia.org/wiki/Monkey_(TV_series)), where BBC dub titles are unavailable.
+- IMDb may be used for cross‑checking only and is **not** canonical.
+- If title corrections are needed, update this page first, then update affected episode and list pages.
 
 ---
 

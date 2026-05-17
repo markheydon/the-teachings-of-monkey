@@ -10,6 +10,14 @@ This project uses Hugo with Markdown content files.
 
 **Episode names must match the [Official Episode List](/content/extras/episode-list.md)**, which contains the canonical list of all 52 episodes used throughout this archive.
 
+### Canonical Title Restriction (No Drift Rule)
+
+- Treat `/content/extras/episode-list.md` as the only authoritative title source for this repository.
+- Never invent, infer, modernise, or substitute alternate episode titles in any content file.
+- If conflicting sources are found, keep existing canonical titles until `/content/extras/episode-list.md` is explicitly updated.
+- Prefer BBC UK dubbed titles where available; only use original/subtitled mappings where BBC dubbed titles do not exist.
+- When updating episode content, copy the title text exactly (including punctuation) from the canonical list.
+
 Episode pages must follow a consistent structure and style.
 
 Whenever you add a new episode, update `/content/_index.md` (the home page) to include a link to the new episode in the episode archive list, in correct order. This ensures new episodes are discoverable from the main site landing page.
