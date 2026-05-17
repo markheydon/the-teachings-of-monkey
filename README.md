@@ -33,6 +33,35 @@ Once deployed via GitHub Pages, visit: [https://monkeywisdom.online/](https://mo
 - `/content/extras/` — playful features (Pigsy’s Greatest Hits, Demon Hall of Fame, etc.)  
 - `_index.md` files — landing pages for each section  
 
+## Data-Driven Content Model
+
+This repository now uses a Hugo data-driven pattern while keeping Markdown-first authoring.
+
+- Episode files in `/content/episodes/` are the source of truth for reusable metadata.
+- Extras and theme pages render episode lists via Hugo shortcodes, instead of duplicating long hand-maintained lists.
+- Page intros/outros remain editable content in the extras/themes Markdown files.
+
+Episode front matter now includes structured fields used by generated pages, including:
+
+- `teaching`
+- `pigsy_rating`
+- `pigsy_note`
+- `journey_stage`
+- `journey_location`
+- `journey_lesson`
+- `themes` (array)
+- optional ranked-list fields for derived extras (for example `pigsy_highlight_rank`, `demon_rank`)
+
+Derived surfaces currently include:
+
+- `/content/extras/monkey-teachings.md`
+- `/content/extras/pigsy-nonsense-ratings.md`
+- `/content/extras/pigsy-greatest-hits.md`
+- `/content/extras/journey-tracker.md`
+- `/content/extras/demon-hall-of-fame.md`
+- `/content/extras/tripitaka-smackdowns.md` (from `/data/tripitaka_smackdowns.json`)
+- `/content/themes/*.md` key-episode lists
+
 ---
 
 ## 🛠️ Tech

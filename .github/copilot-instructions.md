@@ -20,17 +20,32 @@ This project uses Hugo with Markdown content files.
 
 Episode pages must follow a consistent structure and style.
 
+Episode front matter is also the structured metadata source for generated extras/themes lists. Keep these fields in sync with section content when editing episodes:
+
+- `teaching`
+- `pigsy_rating`
+- `pigsy_note`
+- `journey_stage`
+- `journey_location`
+- `journey_lesson`
+- `themes` (array)
+- optional ranked fields used by generated extras (for example `pigsy_highlight_rank`, `demon_rank`)
+
 Whenever you add a new episode, update `/content/_index.md` (the home page) to include a link to the new episode in the episode archive list, in correct order. This ensures new episodes are discoverable from the main site landing page.
 
 ### Keeping Themes Updated
 
 The content under `/content/themes/` contains five main themes from through the series. There's a page for each of the main themes (Self-Discipline, Compassion, Illusion vs Reality, Unity, and Detachment) and these pages should be kept up to date with links back to relevant Key Episodes where the theme is present. The 'Teachings' listed under each episode title should be the same as the content on the related episode page. If any links are missing, they should be updated as part of any other work being done even if it feels out of scope at the time.
 
+Note: key-episode lists on theme pages are generated from episode front matter using Hugo shortcodes. Update theme membership in each episode's `themes` array rather than hand-editing long lists.
+
 ### Keepping Pigsy Nonsense Ratings Master List Updated
 
 In the `/content/extras/` folder there's a page `extras/pigsy-nonsense-ratings.md`, this should be kept up to date with whatever Snort Scale is listed in the releted episode page. So to be clear, there Snort Scale score that's present in an episode page should match that on the Master List page. The one on the episode page is authoritive if any are spotted to be wrong they should be updated. If any links are missing, they should be updated as part of any other work being done even if it feels out of scope at the time.
 
 And like the themes pages, any titles appearing on this page to episodes should be linked back to the relevant episode page. If any links are missing, they should be updated as part of any other work being done even if it feels out of scope at the time.
+
+Note: this page is generated from episode front matter (`pigsy_rating`, `pigsy_note`). Update episode metadata rather than maintaining per-episode entries manually in the extras page body.
 
 ### Episode Page Template
 
@@ -138,6 +153,8 @@ When generating new episodes, also update the following extras:
 - **Pigsy Nonsense Ratings** → `/content/extras/pigsy-nonsense-ratings.md`  
   Format: `Episode XX — 🐷🐷🐷🐷 (short comment)`
 
+  This list is generated from episode front matter (`pigsy_rating`, `pigsy_note`).
+
 - **Monkey Teachings** → `/content/extras/monkey-teachings.md`  
   Each episode must be represented with its canonical teaching.
 
@@ -147,6 +164,8 @@ When generating new episodes, also update the following extras:
   Episode links appear in plain brackets (not bold) within the reference line.
   Keep this list updated whenever new episodes are added.
 
+  This list is generated from episode front matter (`teaching`).
+
 - **Monkey Wisdom Generator** → `/content/extras/monkey-wisdom-generator.md`  
   Contains AI‑generated playful wisdom.  
   Entries are free‑form but must be italicised and clearly distinct from canonical teachings.
@@ -154,18 +173,26 @@ When generating new episodes, also update the following extras:
 - **Tripitaka Smackdowns** → `/content/extras/tripitaka-smackdowns.md`  
   Format: `Episode XX — "Quoted rebuke"`
 
+  This list is generated from `/data/tripitaka_smackdowns.json`. Keep the recurring rank 1 entry (`The Chant of Discipline`) as a non-episode special case in that data source.
+
 - **Pigsy Greatest Hits** → `/content/extras/pigsy-greatest-hits.md`  
   Only include episodes with 🐷🐷🐷🐷 (4 snorts) or 🐷🐷🐷🐷🐷 (5 snorts).  
   Order by snort level first (5-snort episodes before 4-snort episodes).  
   Within each snort level, order by chaos intensity (most chaotic/nonsensical first).  
   Format:
 
+  This list is generated from ranked episode front matter fields (`pigsy_highlight_rank`, `pigsy_highlight_bucket`, `pigsy_highlight_note`).
+
 
 - **Demon Hall of Fame** → `/content/extras/demon-hall-of-fame.md`  
   Format: `Episode XX — Demon Name — Short description`
 
+  This list is generated from episode front matter fields (`demon_rank`, `demon_name`, `demon_note`).
+
 - **Journey Tracker** → `/content/extras/journey-tracker.md`  
   Format: `Episode XX — Milestone description`
+
+  This list is generated from episode front matter fields (`journey_stage`, `journey_location`, `journey_lesson`).
 
 ---
 
