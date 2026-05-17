@@ -20,13 +20,20 @@ def load_canonical_titles() -> dict[int, str]:
     titles: dict[int, str] = {}
     for match in pattern.finditer(text):
         number = int(match.group(1))
+        title = match.group(2).strip()
         number_from_path = int(match.group(3))
         if number != number_from_path:
             raise ValueError(
                 "Canonical list has mismatched episode numbering: "
                 f"Episode {number} links to episode-{number_from_path:02d}."
             )
-        titles[number] = match.group(2).strip()
+        if number in titles:
+            raise ValueError(
+                "Canonical list contains a duplicate episode entry: "
+                f"Episode {number} appears more than once "
+                f'("{titles[number]}" and "{title}").'
+            )
+        titles[number] = title
 
     if set(titles) != set(range(1, 53)):
         missing = sorted(set(range(1, 53)) - set(titles))
