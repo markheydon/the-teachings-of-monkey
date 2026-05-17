@@ -3,6 +3,12 @@ title: "Episode 36: The Foolish Philosopher"
 date: 1979-12-16
 draft: false
 weight: 36
+teaching: "Knowledge without action is empty noise. True wisdom is lived, not spoken."
+journey_lesson: "True wisdom is lived, not spoken."
+journey_location: "The Philosopher's Garden"
+journey_stage: "Stage 5: Depths of the Journey"
+pigsy_note: "Pigsy mocks the philosopher's pretensions, proving folk wisdom can trump philosophy."
+pigsy_rating: "🐷🐷🐷"
 ---
 
 ## Synopsis

@@ -3,6 +3,16 @@ title: "Episode 46: Pretty as a Picture"
 date: 1980-02-24
 draft: false
 weight: 46
+teaching: "Beauty can be a cage as well as a gift. Appreciate without attachment, or become what you admire."
+demon_note: "Traps souls inside beautiful paintings, creating a gallery of frozen victims. Art becomes imprisonment."
+demon_name: "The Painting Demon"
+demon_rank: 26
+themes: ["detachment", "illusion-vs-reality"]
+journey_lesson: "Appreciate beauty without attachment."
+journey_location: "Gallery of Souls"
+journey_stage: "Stage 6: Final Trials and Closure"
+pigsy_note: "Pigsy is captivated by portraits of beautiful maidens and nearly gets trapped himself."
+pigsy_rating: "🐷🐷🐷"
 ---
 
 ## Synopsis

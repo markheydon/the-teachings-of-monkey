@@ -3,6 +3,13 @@ title: "Episode 48: The Tenacious Tomboy"
 date: 1980-03-09
 draft: false
 weight: 48
+teaching: "True strength is knowing when not to fight. The warrior who seeks peace is mightier than the one who seeks victory."
+themes: ["self-discipline"]
+journey_lesson: "The warrior who seeks peace is mightiest."
+journey_location: "Mountain Crossing"
+journey_stage: "Stage 6: Final Trials and Closure"
+pigsy_note: "Pigsy tries to flirt his way out of combat and fails miserably."
+pigsy_rating: "🐷🐷🐷"
 ---
 
 ## Synopsis

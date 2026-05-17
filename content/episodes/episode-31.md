@@ -3,6 +3,13 @@ title: "Episode 31: The Land with Two Suns"
 date: 1979-11-11
 draft: false
 weight: 31
+teaching: "Balance is the foundation of life. Too much of even a good thing brings ruin."
+themes: ["unity"]
+journey_lesson: "Too much of even a good thing brings ruin."
+journey_location: "Scorched Plains"
+journey_stage: "Stage 5: Depths of the Journey"
+pigsy_note: "Pigsy complains endlessly about the heat but contributes little."
+pigsy_rating: "🐷🐷🐷"
 ---
 
 ## Synopsis

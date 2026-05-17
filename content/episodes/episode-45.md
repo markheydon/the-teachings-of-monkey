@@ -3,6 +3,16 @@ title: "Episode 45: The Fake Pilgrims"
 date: 1980-02-17
 draft: false
 weight: 45
+teaching: "Reputation is easily tarnished but slowly rebuilt. Actions speak louder than accusations."
+pigsy_highlight_note: "Fake Pigsy is somehow even more gluttonous and lecherous than the real one, much to Pigsy's indignation."
+pigsy_highlight_bucket: 4
+pigsy_highlight_rank: 18
+themes: ["illusion-vs-reality"]
+journey_lesson: "Actions speak louder than accusations."
+journey_location: "Villages Along the Road"
+journey_stage: "Stage 6: Final Trials and Closure"
+pigsy_note: "Fake Pigsy is somehow even more gluttonous and lecherous than the real one, much to Pigsy's indignation."
+pigsy_rating: "🐷🐷🐷🐷"
 ---
 
 ## Synopsis

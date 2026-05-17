@@ -3,6 +3,15 @@ title: "Episode 14: The Mighty Ape"
 date: 1979-01-07
 draft: false
 weight: 14
+teaching: "Holiness can be mimicked, but true virtue reveals itself through action, not appearance."
+demon_note: "A catfish demon disguised as a holy saint. Proof that even holiness can be mimicked by demons."
+demon_name: "The Catfish Saint"
+demon_rank: 6
+journey_lesson: "Holiness can be mimicked, but true virtue reveals itself through action."
+journey_location: "False Temple"
+journey_stage: "Stage 3: Illusions and Trickery"
+pigsy_note: "Solid nonsense: Pigsy is duped by the disguises and blunders accordingly."
+pigsy_rating: "🐷🐷🐷"
 ---
 
 ## Synopsis

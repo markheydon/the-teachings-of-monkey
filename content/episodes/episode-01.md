@@ -3,6 +3,13 @@ title: "Episode 1: Monkey Goes Wild About Heaven"
 date: 1978-11-26
 draft: false
 weight: 1
+teaching: "Pride without discipline leads to downfall. Even the strongest must bow to wisdom."
+themes: ["self-discipline"]
+journey_lesson: "Pride leads to downfall."
+journey_location: "Celestial Court"
+journey_stage: "Stage 1: Heaven and Earth"
+pigsy_note: "Pigsy not yet introduced, but nonsense potential foreshadowed."
+pigsy_rating: "🐷🐷"
 ---
 
 ## Synopsis

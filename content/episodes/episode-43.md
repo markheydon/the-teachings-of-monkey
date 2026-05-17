@@ -3,6 +3,19 @@ title: "Episode 43: Give and Take"
 date: 1980-02-03
 draft: false
 weight: 43
+teaching: "Generosity without wisdom enables dependency. True compassion empowers others to stand on their own."
+pigsy_highlight_note: "Pigsy's attempts to game the system backfire spectacularly at every turn. His schemes unravel with predictable hilarity."
+pigsy_highlight_bucket: 4
+pigsy_highlight_rank: 12
+demon_note: "Creates a village where generosity and selfishness are instantly rewarded or punished, testing the pilgrims' true motives."
+demon_name: "The Karma Demon"
+demon_rank: 24
+themes: ["compassion"]
+journey_lesson: "True compassion empowers, not enables."
+journey_location: "Village of Karma"
+journey_stage: "Stage 6: Final Trials and Closure"
+pigsy_note: "Pigsy's attempts to game the system backfire spectacularly at every turn."
+pigsy_rating: "🐷🐷🐷🐷"
 ---
 
 ## Synopsis

@@ -3,6 +3,19 @@ title: "Episode 50: Hungry Like the Wolf"
 date: 1980-03-23
 draft: false
 weight: 50
+teaching: "Hunger can make us desperate, but it cannot make us cruel. What we choose when starving reveals who we truly are."
+pigsy_highlight_note: "Pigsy nearly trades his soul for a feast during a famine, but his rare moment of selflessness saves the day. One of his finest character moments wrapped in typical Pigsy chaos."
+pigsy_highlight_bucket: 5
+pigsy_highlight_rank: 7
+demon_note: "Exploits hunger during a famine, offering food in exchange for souls. Desperation becomes the weapon."
+demon_name: "The Wolf Demon"
+demon_rank: 29
+themes: ["detachment"]
+journey_lesson: "What we choose when starving reveals our true nature."
+journey_location: "Famine-Struck Village"
+journey_stage: "Stage 6: Final Trials and Closure"
+pigsy_note: "Pigsy nearly trades everything for a feast before redeeming himself in the final act."
+pigsy_rating: "🐷🐷🐷🐷🐷"
 ---
 
 ## Synopsis
