@@ -79,8 +79,7 @@ This repo includes a dev container at [.devcontainer/devcontainer.json](.devcont
 
 The same installer scripts are used in CI and locally:
 
-- [scripts/install-hugo.sh](scripts/install-hugo.sh)
-- [scripts/install-dart-sass.sh](scripts/install-dart-sass.sh)
+- [scripts/install-toolchain.sh](scripts/install-toolchain.sh)
 
 CI version pins are in [.github/workflows/hugo.yml](.github/workflows/hugo.yml):
 
@@ -89,9 +88,16 @@ CI version pins are in [.github/workflows/hugo.yml](.github/workflows/hugo.yml):
 
 To test newer versions locally in the container:
 
-1. Run `scripts/install-hugo.sh <version>`
-2. Run `scripts/install-dart-sass.sh <version>`
+1. Set `HUGO_VERSION` and `DART_SASS_VERSION`
+2. Run `scripts/install-toolchain.sh`
 3. Build with `hugo --minify`
+
+Example:
+
+```bash
+HUGO_VERSION=0.160.0 DART_SASS_VERSION=1.99.0 scripts/install-toolchain.sh
+hugo --minify
+```
 
 When you want CI to match, update the same version env vars in [.github/workflows/hugo.yml](.github/workflows/hugo.yml) (and optionally in [.devcontainer/devcontainer.json](.devcontainer/devcontainer.json)).
 

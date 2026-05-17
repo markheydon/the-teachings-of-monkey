@@ -16,7 +16,7 @@
       ]
     }
   },
-  "postCreateCommand": "chmod +x scripts/install-hugo.sh scripts/install-dart-sass.sh && scripts/install-hugo.sh \"$HUGO_VERSION\" && scripts/install-dart-sass.sh \"$DART_SASS_VERSION\"",
-  "postStartCommand": "hugo version && sass --version",
+  "postCreateCommand": "chmod +x scripts/install-toolchain.sh && scripts/install-toolchain.sh && grep -q 'PATH=\"$HOME/.local/dart-sass:$HOME/.local/hugo:$PATH\"' ~/.bashrc || echo 'export PATH=\"$HOME/.local/dart-sass:$HOME/.local/hugo:$PATH\"' >> ~/.bashrc",
+  "postStartCommand": "export PATH=\"$HOME/.local/dart-sass:$HOME/.local/hugo:$PATH\" && hugo version && sass --version",
   "remoteUser": "vscode"
 }

@@ -37,12 +37,10 @@ jobs:
         uses: actions/checkout@v6
         with:
           submodules: recursive
-      - name: Install Hugo CLI
+      - name: Install Hugo and Dart Sass
         run: |
-          chmod +x scripts/install-hugo.sh scripts/install-dart-sass.sh
-          scripts/install-hugo.sh "${HUGO_VERSION}"
-      - name: Install Dart Sass
-        run: scripts/install-dart-sass.sh "${DART_SASS_VERSION}"
+          chmod +x scripts/install-toolchain.sh
+          scripts/install-toolchain.sh
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
