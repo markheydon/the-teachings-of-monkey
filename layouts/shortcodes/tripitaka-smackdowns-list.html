@@ -1,4 +1,4 @@
-{{- $entries := site.Data.tripitaka_smackdowns.entries -}}
+{{- $entries := hugo.Data.tripitaka_smackdowns.entries -}}
 {{- range $entries }}
 {{- if .episode }}
 {{- $path := printf "/episodes/episode-%02d" .episode -}}
