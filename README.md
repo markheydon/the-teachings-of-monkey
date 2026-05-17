@@ -83,21 +83,25 @@ The same installer scripts are used in CI and locally:
 
 CI version pins are in [.github/workflows/hugo.yml](.github/workflows/hugo.yml):
 
-- `HUGO_VERSION`
-- `DART_SASS_VERSION`
+- Version defaults in [scripts/install-toolchain.sh](scripts/install-toolchain.sh)
 
 To test newer versions locally in the container:
 
-1. Set `HUGO_VERSION` and `DART_SASS_VERSION`
+1. Set `TOOLCHAIN_HUGO_VERSION` and `TOOLCHAIN_DART_SASS_VERSION`
 2. Run `scripts/install-toolchain.sh`
 3. Build with `hugo --minify`
 
 Example:
 
 ```bash
-HUGO_VERSION=0.160.0 DART_SASS_VERSION=1.99.0 scripts/install-toolchain.sh
+TOOLCHAIN_HUGO_VERSION=0.160.0 TOOLCHAIN_DART_SASS_VERSION=1.99.0 scripts/install-toolchain.sh
 hugo --minify
 ```
+
+Notes:
+
+- `postCreateCommand` now also runs `git submodule update --init --recursive` so the PaperMod theme is available in fresh containers.
+- If you change defaults in `scripts/install-toolchain.sh`, a full container rebuild is the cleanest way to re-run setup end to end.
 
 When you want CI to match, update the same version env vars in [.github/workflows/hugo.yml](.github/workflows/hugo.yml) (and optionally in [.devcontainer/devcontainer.json](.devcontainer/devcontainer.json)).
 

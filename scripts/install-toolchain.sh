@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-HUGO_VERSION="${HUGO_VERSION:-0.152.2}"
-DART_SASS_VERSION="${DART_SASS_VERSION:-1.93.3}"
+# Single source defaults. Use TOOLCHAIN_HUGO_VERSION / TOOLCHAIN_DART_SASS_VERSION
+# to override intentionally for testing.
+HUGO_VERSION="${TOOLCHAIN_HUGO_VERSION:-0.160.0}"
+DART_SASS_VERSION="${TOOLCHAIN_DART_SASS_VERSION:-1.99.0}"
 INSTALL_ROOT="${INSTALL_ROOT:-${HOME}/.local}"
 
 mkdir -p "${INSTALL_ROOT}"
