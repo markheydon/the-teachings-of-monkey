@@ -1,0 +1,24 @@
+{{- $episodes := sort (where site.RegularPages "Section" "episodes") "Params.pigsy_highlight_rank" -}}
+## The 5-Snort Hall of Fame
+{{- range where $episodes "Params.pigsy_highlight_bucket" 5 }}
+{{- $num := .Params.weight -}}
+{{- $name := replace .Title (printf "Episode %d: " $num) "" -}}
+### {{ .Params.pigsy_highlight_rank }}. **[{{ $name }} (Episode {{ $num }})]({{ .RelPermalink }})**
+**Snort Score:** {{ .Params.pigsy_rating }}  
+{{ .Params.pigsy_highlight_note }}
+
+---
+
+{{- end }}
+
+## The 4-Snort Chaos Champions
+{{- range where $episodes "Params.pigsy_highlight_bucket" 4 }}
+{{- $num := .Params.weight -}}
+{{- $name := replace .Title (printf "Episode %d: " $num) "" -}}
+### {{ .Params.pigsy_highlight_rank }}. **[{{ $name }} (Episode {{ $num }})]({{ .RelPermalink }})**
+**Snort Score:** {{ .Params.pigsy_rating }}  
+{{ .Params.pigsy_highlight_note }}
+
+---
+
+{{- end }}

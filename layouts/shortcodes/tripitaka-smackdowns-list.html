@@ -1,0 +1,13 @@
+{{- $entries := site.Data.tripitaka_smackdowns.entries -}}
+{{- range $entries }}
+{{- if .episode }}
+{{- $path := printf "/episodes/episode-%02d" .episode -}}
+## {{ .rank }}. **[{{ .heading }}]({{ $path }}/)**
+{{- else }}
+## {{ .rank }}. {{ .heading }}
+{{- end }}
+{{ .text }}
+
+---
+
+{{- end }}
