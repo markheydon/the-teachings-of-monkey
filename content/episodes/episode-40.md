@@ -3,6 +3,16 @@ title: "Episode 40: Better the Demon You Know"
 date: 1980-01-13
 draft: false
 weight: 40
+teaching: "Trust must be earned, but suspicion without cause creates the very betrayal it fears."
+themes: ["compassion"]
+journey_lesson: "Trust must be earned, suspicion without cause creates betrayal."
+journey_location: "Mountain Pass"
+journey_stage: "Stage 6: Final Trials and Closure"
+pigsy_note: "Pigsy suspects everyone, contributing paranoid commentary throughout."
+pigsy_rating: "🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 16
+    text: "When the others suspect the demon's motives, Tripitaka calmly states, \"Suspicion builds the walls it fears. Give trust a chance to prove itself worthy.\""
 ---
 
 ## Synopsis

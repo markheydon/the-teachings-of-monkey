@@ -3,6 +3,16 @@ title: "Episode 35: Between Heaven and Hell"
 date: 1979-12-09
 draft: false
 weight: 35
+teaching: "Judgment is not imposed from above, but earned through action. We are the sum of our choices."
+pigsy_highlight_note: "Pigsy's list of sins is comically long, but his honest confession saves him. Sincerity mixed with gluttony and lust."
+pigsy_highlight_bucket: 4
+pigsy_highlight_rank: 25
+themes: ["unity"]
+journey_lesson: "We are the sum of our choices."
+journey_location: "The Judgment Hall"
+journey_stage: "Stage 5: Depths of the Journey"
+pigsy_note: "Pigsy's list of sins is comically long, but his sincerity saves him."
+pigsy_rating: "🐷🐷🐷🐷"
 ---
 
 ## Synopsis

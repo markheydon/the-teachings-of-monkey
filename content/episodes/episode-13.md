@@ -3,6 +3,18 @@ title: "Episode 13: The Great Horse Hunt"
 date: 1978-12-24
 draft: false
 weight: 13
+teaching: "Seduction and repulsion are twin faces of desire. See through both to find truth."
+pigsy_highlight_note: "Pigsy falls for a seductive minx demon, derailing the rescue mission with predictable lust-driven chaos."
+pigsy_highlight_bucket: 4
+pigsy_highlight_rank: 14
+demon_note: "A seductive minx paired with a grotesque slug companion. The contrast between glamour and slime is peak Monkey weirdness."
+demon_name: "The Minx and Slug Duo"
+demon_rank: 5
+journey_lesson: "Seduction and repulsion are twin faces of desire."
+journey_location: "Village of Illusions"
+journey_stage: "Stage 2: Trials of Desire"
+pigsy_note: "Major disruption: Pigsy's lust for the minx derails the rescue mission."
+pigsy_rating: "🐷🐷🐷🐷"
 ---
 
 ## Synopsis

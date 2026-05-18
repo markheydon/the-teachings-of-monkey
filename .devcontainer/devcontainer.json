@@ -1,0 +1,25 @@
+{
+  "name": "Teachings of Monkey",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {},
+    "ghcr.io/devcontainers/features/github-cli:1": {
+      "version": "2"
+    },
+    "ghcr.io/markheydon/devcontainer-features/copilot-likes:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "files.eol": "\n"
+      },
+      "extensions": [
+        "budparr.language-hugo-vscode",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  },
+  "postCreateCommand": "git submodule update --init --recursive && chmod +x scripts/install-toolchain.sh && scripts/install-toolchain.sh && grep -q 'PATH=\"$HOME/.local/dart-sass:$HOME/.local/hugo:$PATH\"' ~/.bashrc || echo 'export PATH=\"$HOME/.local/dart-sass:$HOME/.local/hugo:$PATH\"' >> ~/.bashrc",
+  "postStartCommand": "export PATH=\"$HOME/.local/dart-sass:$HOME/.local/hugo:$PATH\" && hugo version && sass --version",
+  "remoteUser": "vscode"
+}

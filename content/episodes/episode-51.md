@@ -3,6 +3,16 @@ title: "Episode 51: The Emperor of All"
 date: 1980-03-30
 draft: false
 weight: 51
+teaching: "True power serves, it does not command. The greatest ruler is one who leads without forcing others to follow."
+demon_note: "Claims dominion over heaven and earth, wielding seemingly absolute authority until questioned about true leadership."
+demon_name: "The False Emperor"
+demon_rank: 30
+themes: ["compassion"]
+journey_lesson: "True power serves, it does not command."
+journey_location: "Imperial Court"
+journey_stage: "Stage 6: Final Trials and Closure"
+pigsy_note: "Unusually subdued in the presence of such overwhelming authority, Pigsy mostly hides behind Sandy."
+pigsy_rating: "🐷🐷"
 ---
 
 ## Synopsis

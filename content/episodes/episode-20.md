@@ -3,6 +3,12 @@ title: "Episode 20: Outrageous Coincidences"
 date: 1979-02-18
 draft: false
 weight: 20
+teaching: "Coincidence is often the mask worn by design. The wise see the hand that moves unseen."
+journey_lesson: "The wise see the hand that moves unseen."
+journey_location: "Crossroads of Chance"
+journey_stage: "Stage 3: Illusions and Trickery"
+pigsy_note: "Pigsy stumbles through the coincidences, inadvertently helping and hindering in equal measure."
+pigsy_rating: "🐷🐷🐷"
 ---
 
 ## Synopsis

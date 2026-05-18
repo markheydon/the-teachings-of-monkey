@@ -1,0 +1,10 @@
+{{- $episodes := sort (where site.RegularPages "Section" "episodes") "Weight" -}}
+{{- range $episodes }}
+{{- $episodeTitle := .Title -}}
+{{- $teaching := .Params.teaching -}}
+{{- if $teaching }}
+> _**"{{ $teaching }}"**_  
+> *(from [{{ $episodeTitle }}]({{ .RelPermalink }}))*
+
+{{- end }}
+{{- end }}

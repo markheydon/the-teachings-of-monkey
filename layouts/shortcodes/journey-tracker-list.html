@@ -1,0 +1,20 @@
+{{- $episodes := sort (where site.RegularPages "Section" "episodes") "Weight" -}}
+{{- $stages := slice
+  "Stage 1: Heaven and Earth"
+  "Stage 2: Trials of Desire"
+  "Stage 3: Illusions and Trickery"
+  "Stage 4: Tests of Character"
+  "Stage 5: Depths of the Journey"
+  "Stage 6: Final Trials and Closure"
+-}}
+{{- range $stage := $stages }}
+## {{ $stage }}
+{{- range where $episodes "Params.journey_stage" $stage }}
+- **[{{ .Title }}]({{ .RelPermalink }})**  
+  *Location:* {{ .Params.journey_location }}  
+  *Lesson:* {{ .Params.journey_lesson }}
+{{- end }}
+
+---
+
+{{- end }}
