@@ -1,4 +1,4 @@
-{{- $episodes := sort (where site.RegularPages "Section" "episodes") "Params.weight" -}}
+{{- $episodes := sort (where site.RegularPages "Section" "episodes") "Weight" -}}
 {{- $groups := slice
   (dict "title" "Episodes 1-10" "min" 1 "max" 10)
   (dict "title" "Episodes 11-20" "min" 11 "max" 20)
@@ -10,9 +10,9 @@
 ## {{ .title }}
 {{- $min := .min -}}
 {{- $max := .max -}}
-{{- range where $episodes "Params.weight" "ge" $min }}
-{{- if le .Params.weight $max }}
-- **[{{ .Title }}]({{ .RelPermalink }})**{{ with .Params.pigsy_rating }} - {{ . }}{{ end }}{{ with .Params.pigsy_note }} ({{ . }}){{ end }}
+{{- range where $episodes "Weight" "ge" $min }}
+{{- if le .Weight $max }}
+- **[{{ .Title }}]({{ .RelPermalink }})**{{ with .Params.pigsy_rating }} — {{ . }}{{ end }}{{ with .Params.pigsy_note }} ({{ . }}){{ end }}
 {{- end }}
 {{- end }}
 

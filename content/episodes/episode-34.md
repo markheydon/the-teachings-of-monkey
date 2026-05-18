@@ -13,6 +13,11 @@ journey_location: "Imperial Palace"
 journey_stage: "Stage 5: Depths of the Journey"
 pigsy_note: "Pigsy is unusually subdued in the presence of royal authority."
 pigsy_rating: "🐷🐷"
+tripitaka_smackdowns:
+  - rank: 4
+    text: "Tripitaka calmly counsels a ruler tormented by guilt and suspicion, showing that true authority comes from self-mastery, not fear."
+  - rank: 14
+    text: "To the tormented emperor, Tripitaka quietly counsels, \"A crown does not excuse cruelty. Even kings must kneel before their conscience.\""
 ---
 
 ## Synopsis

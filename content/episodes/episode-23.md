@@ -13,6 +13,9 @@ journey_location: "The Fertility Well"
 journey_stage: "Stage 4: Tests of Character"
 pigsy_note: "Pregnant Pigsy chaos at its finest."
 pigsy_rating: "🐷🐷🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 3
+    text: "When Pigsy's antics spiral into chaos, Tripitaka's gentle rebuke cuts deeper than Monkey's staff. Compassion paired with firmness."
 ---
 
 ## Synopsis

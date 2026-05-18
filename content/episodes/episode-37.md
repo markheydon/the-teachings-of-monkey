@@ -15,6 +15,9 @@ journey_location: "Mirror Valley"
 journey_stage: "Stage 5: Depths of the Journey"
 pigsy_note: "Pigsy vs. Pigsy is double the chaos, naturally."
 pigsy_rating: "🐷🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 15
+    text: "When confronted by perfect duplicates, Tripitaka serenely declares, \"I am not what you see, but what I choose to do. My deeds are my only mirror.\""
 ---
 
 ## Synopsis

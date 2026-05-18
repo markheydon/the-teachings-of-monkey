@@ -13,6 +13,9 @@ journey_location: "Villages Along the Road"
 journey_stage: "Stage 6: Final Trials and Closure"
 pigsy_note: "Fake Pigsy is somehow even more gluttonous and lecherous than the real one, much to Pigsy's indignation."
 pigsy_rating: "🐷🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 18
+    text: "When accused by villagers who've seen his \"double,\" Tripitaka calmly responds, \"I cannot control what others claim in my name. I can only continue to act with compassion.\""
 ---
 
 ## Synopsis

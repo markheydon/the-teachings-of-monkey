@@ -16,6 +16,9 @@ journey_location: "False Temple"
 journey_stage: "Stage 4: Tests of Character"
 pigsy_note: "Pigsy nearly abandons the quest for promised luxury."
 pigsy_rating: "🐷🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 11
+    text: "When offered false enlightenment, Tripitaka calmly observes, \"The journey to wisdom has no end, only those who pretend it does.\""
 ---
 
 ## Synopsis

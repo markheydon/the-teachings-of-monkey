@@ -10,6 +10,9 @@ journey_location: "Mountain Pass"
 journey_stage: "Stage 6: Final Trials and Closure"
 pigsy_note: "Pigsy suspects everyone, contributing paranoid commentary throughout."
 pigsy_rating: "🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 16
+    text: "When the others suspect the demon's motives, Tripitaka calmly states, \"Suspicion builds the walls it fears. Give trust a chance to prove itself worthy.\""
 ---
 
 ## Synopsis

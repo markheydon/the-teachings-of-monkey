@@ -16,6 +16,11 @@ journey_location: "Gothic Mansion"
 journey_stage: "Stage 3: Illusions and Trickery"
 pigsy_note: "Pigsy's terror of vampires leads to chaotic attempts at self-preservation."
 pigsy_rating: "🐷🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 2
+    text: "Tripitaka refuses to be seduced by a demon in disguise, calmly dismantling her lies with quiet conviction. His restraint is sharper than any sword."
+  - rank: 9
+    text: "When the Vampire Master threatens the pilgrims, Tripitaka's serene refusal to show fear weakens the demon's power, proving that calm resolve can defeat even the undead."
 ---
 
 ## Synopsis

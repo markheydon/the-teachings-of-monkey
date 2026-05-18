@@ -1,5 +1,5 @@
 {{- $theme := .Get "theme" -}}
-{{- $episodes := sort (where site.RegularPages "Section" "episodes") "Params.weight" -}}
+{{- $episodes := sort (where site.RegularPages "Section" "episodes") "Weight" -}}
 {{- range $episodes }}
 {{- $themes := .Params.themes | default (slice) -}}
 {{- if in $themes $theme }}

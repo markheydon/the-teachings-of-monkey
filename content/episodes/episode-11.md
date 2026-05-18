@@ -12,6 +12,9 @@ journey_location: "Village of Eternal Darkness"
 journey_stage: "Stage 3: Illusions and Trickery"
 pigsy_note: "Background chaos: Pigsy complains about the dark but contributes little to the solution."
 pigsy_rating: "🐷🐷"
+tripitaka_smackdowns:
+  - rank: 7
+    text: "When Monkey impatiently charges at the Day-Night Demon, Tripitaka calmly advises, \"Haste in darkness only deepens confusion. Wait for the light of understanding.\""
 ---
 
 ## Synopsis

@@ -16,6 +16,9 @@ journey_location: "Valley of Shadows"
 journey_stage: "Stage 6: Final Trials and Closure"
 pigsy_note: "Pigsy's terror of the shadow leads to comic cowering and unhelpful suggestions."
 pigsy_rating: "🐷🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 17
+    text: "As Monkey struggles with pride, Tripitaka gently observes, \"Your shadow grows not from your strength, but from what you refuse to see. Step into the light.\""
 ---
 
 ## Synopsis

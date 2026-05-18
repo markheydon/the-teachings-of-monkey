@@ -15,6 +15,9 @@ journey_location: "Village Outskirts"
 journey_stage: "Stage 3: Illusions and Trickery"
 pigsy_note: "Major disruption: Pigsy mistakes the demon for a tasty snack and causes a ruckus."
 pigsy_rating: "🐷🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 6
+    text: "Tripitaka gently but firmly reminds the villagers, \"Do not judge by fur or fangs. Kindness and cruelty wear many faces.\""
 ---
 
 ## Synopsis

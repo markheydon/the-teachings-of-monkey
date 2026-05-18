@@ -13,6 +13,9 @@ journey_location: "Village of Vanity"
 journey_stage: "Stage 4: Tests of Character"
 pigsy_note: "Peak Pigsy delusion, romantic chaos at maximum."
 pigsy_rating: "🐷🐷🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 12
+    text: "After Pigsy's romantic delusions spiral out of control, Tripitaka gently reminds him, \"A thousand ladies cannot love what does not love itself first.\""
 ---
 
 ## Synopsis

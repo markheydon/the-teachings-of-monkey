@@ -29,6 +29,7 @@ Episode front matter is also the structured metadata source for generated extras
 - `journey_location`
 - `journey_lesson`
 - `themes` (array)
+- optional `tripitaka_smackdowns` array with ranked entries (`rank`, `text`) for episode-specific Tripitaka moments
 - optional ranked fields used by generated extras (for example `pigsy_highlight_rank`, `demon_rank`)
 
 Whenever you add a new episode, update `/content/_index.md` (the home page) to include a link to the new episode in the episode archive list, in correct order. This ensures new episodes are discoverable from the main site landing page.
@@ -61,6 +62,12 @@ title: "Episode XX: [Episode Title]"
 date: YYYY-MM-DD
 draft: false
 weight: XX
+teaching: "Exact wording of the teaching without outer quotes in the value"
+pigsy_rating: "🐷🐷🐷"
+pigsy_note: "Short note that matches the Pigsy Nonsense Rating section text"
+tripitaka_smackdowns:
+  - rank: 99
+    text: "Optional Tripitaka moment text for this episode"
 ---
 
 ## Synopsis
@@ -173,7 +180,8 @@ When generating new episodes, also update the following extras:
 - **Tripitaka Smackdowns** → `/content/extras/tripitaka-smackdowns.md`  
   Format: `Episode XX — "Quoted rebuke"`
 
-  This list is generated from `/data/tripitaka_smackdowns.json`. Keep the recurring rank 1 entry (`The Chant of Discipline`) as a non-episode special case in that data source.
+  This list is generated from episode front matter (`tripitaka_smackdowns`).
+  Keep `The Chant of Discipline` as a recurring non-episode, unnumbered special case rendered directly by the Tripitaka shortcode.
 
 - **Pigsy Greatest Hits** → `/content/extras/pigsy-greatest-hits.md`  
   Only include episodes with 🐷🐷🐷🐷 (4 snorts) or 🐷🐷🐷🐷🐷 (5 snorts).  

@@ -15,6 +15,9 @@ journey_location: "Demon's Pearl Cavern"
 journey_stage: "Stage 2: Trials of Desire"
 pigsy_note: "Peak Pigsy chaos: greed weaponised into pure disaster."
 pigsy_rating: "🐷🐷🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 8
+    text: "After Pigsy's greed nearly dooms them, Tripitaka quietly observes, \"A hand that grasps too tightly holds only air.\""
 ---
 
 ## Synopsis

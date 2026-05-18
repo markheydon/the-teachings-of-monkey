@@ -45,7 +45,64 @@ def load_canonical_titles() -> dict[int, str]:
     return titles
 
 
-def parse_episode_data(path: Path) -> tuple[int, str, str, str, str, str, str, str]:
+def parse_tripitaka_entries(front_matter: str, path: Path) -> list[tuple[int, str]]:
+    lines = front_matter.splitlines()
+    entries: list[tuple[int, str]] = []
+    i = 0
+
+    while i < len(lines):
+        if lines[i].strip() == "tripitaka_smackdowns:":
+            i += 1
+            while i < len(lines):
+                line = lines[i]
+
+                if line.startswith("  - rank:"):
+                    rank_str = line.split(":", 1)[1].strip()
+                    if not rank_str.isdigit():
+                        raise ValueError(f"{path}: tripitaka rank must be an integer.")
+                    rank = int(rank_str)
+
+                    i += 1
+                    if i >= len(lines) or not lines[i].startswith("    text:"):
+                        raise ValueError(
+                            f"{path}: each tripitaka entry must include text after rank."
+                        )
+
+                    text_raw = lines[i].split(":", 1)[1].strip()
+                    if len(text_raw) < 2 or text_raw[0] != '"' or text_raw[-1] != '"':
+                        raise ValueError(
+                            f"{path}: tripitaka text must be wrapped in double quotes."
+                        )
+
+                    text = text_raw[1:-1].strip()
+                    if not text:
+                        raise ValueError(f"{path}: tripitaka text cannot be empty.")
+
+                    entries.append((rank, text))
+                    i += 1
+                    continue
+
+                if line.strip() == "":
+                    i += 1
+                    continue
+
+                if line.startswith("  "):
+                    raise ValueError(
+                        f"{path}: unexpected tripitaka_smackdowns structure near '{line.strip()}'."
+                    )
+
+                break
+
+            continue
+
+        i += 1
+
+    return entries
+
+
+def parse_episode_data(
+    path: Path,
+) -> tuple[int, str, str, str, str, str, str, str, list[tuple[int, str]]]:
     text = path.read_text(encoding="utf-8")
 
     front_matter = re.search(r"^---\r?\n(.*?)\r?\n---", text, re.DOTALL)
@@ -86,6 +143,8 @@ def parse_episode_data(path: Path) -> tuple[int, str, str, str, str, str, str, s
     if not pigsy_section:
         raise ValueError(f"{path}: missing or malformed Pigsy Nonsense Rating section.")
 
+    tripitaka_entries = parse_tripitaka_entries(front_matter.group(1), path)
+
     return (
         int(match.group(1)),
         match.group(2).strip(),
@@ -95,12 +154,14 @@ def parse_episode_data(path: Path) -> tuple[int, str, str, str, str, str, str, s
         pigsy_note_front_matter.group(1).strip(),
         pigsy_section.group(1).strip(),
         pigsy_section.group(2).strip(),
+        tripitaka_entries,
     )
 
 
 def main() -> int:
     canonical = load_canonical_titles()
     errors: list[str] = []
+    tripitaka_ranks: dict[int, Path] = {}
 
     for number in range(1, 53):
         file_path = EPISODES_DIR / f"episode-{number:02d}.md"
@@ -118,6 +179,7 @@ def main() -> int:
                 front_pigsy_note,
                 section_pigsy_rating,
                 section_pigsy_note,
+                tripitaka_entries,
             ) = parse_episode_data(file_path)
         except ValueError as exc:
             errors.append(str(exc))
@@ -151,6 +213,30 @@ def main() -> int:
             errors.append(
                 f"{file_path}: pigsy note mismatch. "
                 f'Front matter has "{front_pigsy_note}", section has "{section_pigsy_note}".'
+            )
+
+        for tripitaka_rank, _tripitaka_text in tripitaka_entries:
+            if tripitaka_rank in tripitaka_ranks:
+                errors.append(
+                    f"{file_path}: duplicate tripitaka rank {tripitaka_rank}. "
+                    f"Also present in {tripitaka_ranks[tripitaka_rank]}."
+                )
+            else:
+                tripitaka_ranks[tripitaka_rank] = file_path
+
+    if tripitaka_ranks:
+        sorted_ranks = sorted(tripitaka_ranks)
+        if sorted_ranks[0] != 2:
+            errors.append(
+                "Tripitaka ranks must start at 2 because rank 1 is the recurring "
+                "Chant of Discipline special case."
+            )
+
+        expected_ranks = list(range(2, sorted_ranks[-1] + 1))
+        if sorted_ranks != expected_ranks:
+            errors.append(
+                "Tripitaka ranks must be contiguous from 2 onward. "
+                f"Found {sorted_ranks}, expected {expected_ranks}."
             )
 
     if errors:

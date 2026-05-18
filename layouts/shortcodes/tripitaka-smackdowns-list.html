@@ -1,11 +1,20 @@
-{{- $entries := hugo.Data.tripitaka_smackdowns.entries -}}
-{{- range $entries }}
-{{- if .episode }}
-{{- $path := printf "/episodes/episode-%02d" .episode -}}
-## {{ .rank }}. **[{{ .heading }}]({{ $path }}/)**
-{{- else }}
-## {{ .rank }}. {{ .heading }}
+## 1. The Chant of Discipline (Recurring)
+Tripitaka's sutra chant immobilises Monkey whenever his arrogance gets out of hand. Delivered with serenity, it's the ultimate smackdown.
+
+---
+
+{{- $episodes := sort (where site.RegularPages "Section" "episodes") "Weight" -}}
+{{- $entries := slice -}}
+{{- range $episodes }}
+{{- $episode := . -}}
+{{- $entryList := .Params.tripitaka_smackdowns | default (slice) -}}
+{{- range $entryList }}
+{{- $entries = $entries | append (dict "rank" .rank "text" .text "title" $episode.Title "permalink" $episode.RelPermalink) -}}
 {{- end }}
+{{- end }}
+
+{{- range sort $entries "rank" }}
+## {{ .rank }}. **[{{ .title }}]({{ .permalink }})**
 {{ .text }}
 
 ---

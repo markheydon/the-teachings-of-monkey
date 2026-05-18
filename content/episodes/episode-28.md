@@ -15,6 +15,9 @@ journey_location: "Terrorised Village"
 journey_stage: "Stage 4: Tests of Character"
 pigsy_note: "Pigsy's terror is palpable, and predictably comic."
 pigsy_rating: "🐷🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 13
+    text: "When Pigsy panics before the demon dogs, Tripitaka calmly states, \"Fear is louder than any growl. Be still, and silence will protect you.\""
 ---
 
 ## Synopsis

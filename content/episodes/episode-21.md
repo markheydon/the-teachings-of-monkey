@@ -12,6 +12,9 @@ journey_location: "Village Kingdom"
 journey_stage: "Stage 3: Illusions and Trickery"
 pigsy_note: "Peak Pigsy delusion: he believes his own royal fantasy until reality crashes down."
 pigsy_rating: "🐷🐷🐷🐷🐷"
+tripitaka_smackdowns:
+  - rank: 10
+    text: "After Pigsy's brief delusion of royalty, Tripitaka gently reminds him, \"A crown on a pig does not make it a king. Service to others is the only true sovereignty.\""
 ---
 
 ## Synopsis
